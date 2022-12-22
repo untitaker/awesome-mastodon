@@ -2,7 +2,9 @@
 
 [<img src="https://rawgit.com/tleb/awesome-mastodon/master/mastodon-logo.svg" align="right" width="150">](https://joinmastodon.org)
 
-> Curated list of Mastodon-related stuff!
+> Up-to-date and curated list of Mastodon-related stuff!
+
+Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edit/master/README.md) because that was no longer being updated.
 
 **Mastodon is the world's largest free, open-source, decentralized microblogging network**. See the [Official](#official) category to learn more about the network.
 
@@ -30,22 +32,45 @@
 
 ## Clients
 
-* [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) - Android client.
-* [Twidere](https://f-droid.org/packages/org.mariotaku.twidere/) - Android app for Twitter, GNU Social and Mastodon.
+### Web
+
 * [Tooty](https://github.com/n1k0/tooty) - Experimental multi-account Mastodon Web client (Elm).
-* [toot](https://github.com/ihabunek/toot) - Mastodon CLI client (Python).
-* [madonctl](https://github.com/McKael/madonctl) - Mastodon CLI client (Go).
 * [naumanni](https://github.com/naumanni/naumanni) - Web user interface specially designed for Mastodon.
-* [Tooter](https://github.com/dysk0/harbour-tooter) - Native client for SailfishOS.
-* [Fedilab](https://framagit.org/tom79/fedilab) - Android client.
 * [Pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon, focused on speed and simplicity.
-* [Tootle](https://github.com/bleakgrey/tootle) - Simple Mastodon client designed for elementary OS.
 * [Brutaldon](https://git.carcosa.net/jmcbray/brutaldon) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon.
 * [Halcyon](https://notabug.org/halcyon-suite/halcyon) - Alternative web client for Mastodon and Pleroma with a Twitter-like interface.
-* [Whalebird](https://whalebird.social/en/desktop/contents) - Electron-based Mastodon client.
 * [Planiverse](https://git.mulligrubs.me/planiverse/) - Minimalist, no-JS Web client for Mastodon.
-* [Toot!](https://apps.apple.com/us/app/toot/id1229021451) - Mastodon client for iOS.
 * [Sengi](https://nicolasconstant.github.io/sengi/) - Desktop oriented webapp for Mastodon and Pleroma, focused on multi-accounts usages.
+
+### Mobile
+
+* [Mastodon](https://joinmastodon.org/apps) - official Mastodon mobile app, available for both [Android](https://play.google.com/store/apps/details?id=org.joinmastodon.android) and [iOS](https://apps.apple.com/us/app/mastodon-for-iphone/id1571998974)
+- [tooot](https://tooot.app/) - simple, elegant, open source mobile client, available for both [Android](https://play.google.com/store/apps/details?id=com.xmflsct.app.tooot) and [iOS](https://apps.apple.com/app/id1549772269)
+
+#### Android
+
+* [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) - Android client.
+* [Twidere](https://f-droid.org/packages/org.mariotaku.twidere/) - Android app for Twitter, GNU Social and Mastodon.
+* [Fedilab](https://framagit.org/tom79/fedilab) - Android client.
+
+#### iOS
+
+* [Toot!](https://apps.apple.com/us/app/toot/id1229021451) - Mastodon client for iOS.
+
+### Desktop
+
+* [Tootle](https://github.com/bleakgrey/tootle) - Simple Mastodon client designed for elementary OS.
+* [Whalebird](https://whalebird.social/en/desktop/contents) - Electron-based Mastodon client.
+
+### CLI
+
+* [toot](https://github.com/ihabunek/toot) - Mastodon CLI client (Python).
+* [madonctl](https://github.com/McKael/madonctl) - Mastodon CLI client (Go).
+
+* [Tooter](https://github.com/dysk0/harbour-tooter) - Native client for SailfishOS.
+
+
+
 
 ## Federated servers
 
