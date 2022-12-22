@@ -92,21 +92,40 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [madonctl](https://github.com/McKael/madonctl) - Mastodon CLI client (Go).
 
 
-## Federated servers
+## Federated services
 
-* [Mastodon](https://joinmastodon.org/) - Most known microblogging platform.
-* [Pleroma](https://pleroma.social/) - Lightweight microblogging platform.
+### Microblogging
+
+* [Mastodon](https://joinmastodon.org/) - Most popular microblogging platform.
+  * [Mastodon Glitch Edition (glitch-soc)](https://glitch-soc.github.io/docs/) - a Mastodon fork with additional features such as rich text formatting and local-only toots
+  * [Hometown](https://github.com/hometown-fork/hometown) - a lightweight fork of Mastodon that supports local-only toots and more content types
 * [GnuSocial](https://gnu.io/social/) - Oldest microblogging platform.
+* [Pleroma](https://pleroma.social/) - Lightweight, customisable microblogging platform.
+  * [Akkoma](https://akkoma.social/) - a Pleroma fork with more features and a faster pace of development
 * [Microblog.pub](https://microblog.pub/) - Single-user lightweight microblogging platform.
-* [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) - Blog/social networks platform with file, contacts and events sharing.
-* [Friendica](https://friendi.ca/) - Social network platform.
-* [Peertube](https://joinpeertube.org/) - Video sharing platform.
-* [FunkWhale](https://funkwhale.audio/) - Audio sharing platform.
+* [NextCloud Social](https://apps.nextcloud.com/apps/social) - Microblogging app for the Nextcloud platform.
+* [WordPress ActivityPub](https://wordpress.org/plugins/activitypub/) - WordPress plugin for adding ActivityPub support to any WordPress site
+* [GotoSocial](https://github.com/superseriousbusiness/gotosocial) - fast and efficient ActivityPub server written in Golang, still in alpha
+
+### Blogging
+
+
 * [Plume](https://joinplu.me/) - Blogging platform.
 * [WriteFreely](https://writefreely.org/) - Blogging platform.
+
+### Link aggregation
+
 * [Prismo](https://gitlab.com/prismosuite/prismo) - Link aggregation platform.
-* [PixelFed](https://pixelfed.org/) - Photograph sharing platform.
-* [NextCloud Social](https://apps.nextcloud.com/apps/social) - Microblogging inside the cloud platform.
+* [Lemmy](https://join-lemmy.org/) - Reddit-like link aggregator and forum
+
+### Others
+
+* [Friendica](https://friendi.ca/) - Facebook/Myspace-like social network platform.
+* [PixelFed](https://pixelfed.org/) - Instagram-like photograph sharing platform.
+* [Peertube](https://joinpeertube.org/) - Youtube-like video sharing platform.
+* [FunkWhale](https://funkwhale.audio/) - Soundcloud-like audio sharing platform.
+* [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) - Blog/social networks platform with file, contacts and events sharing.
+* [BookWyrm](https://joinbookwyrm.com/) - Goodreads/Librarything-like book social network.
 
 ## Tools
 
@@ -119,7 +138,6 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Mastodon – Simplified Federation!](https://addons.mozilla.org/firefox/addon/mastodon-simplified-federation/) - Redirect clicks on remote follow/interaction buttons to your own instance ([source code](https://github.com/rugk/mastodon-simplified-federation)).
 * [Fediverse Explorer](https://fediverse.0qz.fun/) - Trending hashtags and popular toots, regenerated every hour.
 * [Mastodon #nowplaying Toot Bookmarklet](https://nowplaying.resynth1943.net) - Bookmarklet to toot the music you're currently listening to. Works with YouTube. ([source code](https://github.com/resynth1943/mastodon-nowplaying-toot-bookmarklet))
-
 
 ## User styles
 
@@ -143,50 +161,6 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Remindr](https://gitlab.com/chaica/remindr) - Automatically send reminders to both Mastodon and Twitter from a list of resources (Python).
 * [News Bot](https://botsin.space/@newsbot) - mirrors Twitter accounts on Mastodon (ClojureScript), source available on [GitHub](https://github.com/yogthos/mastodon-bot).
 * [Welcome Bot](https://github.com/indyhall/mastodon-welcome-bot) - Automatically send a welcome DM to new users (Python).
-
-## News & magazines bots
-
-Please note: most of them are non-official. Also, we do not *recommend* any, they are just listed here for your information.
-
-### English
-
-* [@fsf@status.fsf.org](https://status.fsf.org/fsf) - FSF Free Software Foundation.
-* [@HackerNewsBot@mastodon.social](https://mastodon.social/@HackerNewsBot) - Hacker News.
-* [@btc@framapiaf.org](https://framapiaf.org/@btc) - News about the Bitcoin Cryptocurrency (marketcap, community, rise/drop alerts).
-* [@ethereum@framapiaf.org](https://framapiaf.org/@ethereum) - News about the Ethereum Cryptocurrency (marketcap, community, rise/drop alerts).
-* [@monero@framapiaf.org](https://framapiaf.org/@monero) - News about the Monero Cryptocurrency (marketcap, community, rise/drop alerts).
-* [@launchradar@mastodon.cloud](https://mastodon.cloud/@launchradar) - News about space flight, astronomy and astrophysics.
-
-### Français
-
-* [@BFMTV@mastodon.social](https://mastodon.social/@BFMTV) - BFMTV.
-* [@courrierinter@mastodon.xyz](https://mastodon.xyz/@courrierinter) - Courrier international.
-* [@artefr@mamot.fr](https://mamot.fr/@artefr) - Arte.
-* [@datagueule@framapiaf.org](https://framapiaf.org/@datagueule) - DATA Gueule.
-* [@lemondebot@mastodon.xyz](https://mastodon.xyz/@lemondebot) - Le Monde.
-* [@libe@mamot.fr](https://mamot.fr/@libe) - Libération.
-* [@lecanardenchaine@mamot.fr](https://mamot.fr/@lecanardenchaine) - Le Canard Enchaîné.
-* [@lefigaro@mastodon.xyz](https://mastodon.xyz/@lefigaro) - Le Figaro.
-* [@lesjoursfr@mamot.fr](https://mamot.fr/@lesjoursfr) - Les Jours.
-* [@mdiplo@mamot.fr](https://mamot.fr/@mdiplo) - Le Monde Diplomatique.
-* [@Mediapart@mastodon.social](https://mastodon.social/@Mediapart) - Mediapart officiel (non actif).
-* [@mediapartbot@mastodon.xyz](https://mastodon.xyz/@mediapartbot) - Mediapart bot actif.
-* [@NextInpact@mamot.fr](https://mamot.fr/@NextInpact) - NextInpact.
-* [@reflets@mastodon.social](https://mastodon.social/@reflets) - Reflets.info.
-
-## Associations
-
-### English
-
-* [@torproject@mastodon.social](https://mastodon.social/@torproject) - Tor Project.
-
-### Français
-
-* [@aprilorg@pouet.april.org](https://pouet.april.org/@aprilorg) - APRIL.
-* [@Attac@mamot.fr](https://mamot.fr/@Attac) - Attac France.
-* [@acrimed@mamot.fr](https://mamot.fr/@acrimed) - Acrimed.
-* [@framasoft@framapiaf.org](https://framapiaf.org/@Framasoft) - Framasoft.
-* [@LaQuadrature@mamot.fr](https://mamot.fr/@LaQuadrature) - La Quadrature du Net.
 
 ## Blogs
 
