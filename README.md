@@ -184,5 +184,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 
 ## Extensions
 
-* [Mastodon Link](https://github.com/masrly/mastodon-link) - Adds a clickable mastodon icon next to mastodon usernames to visit their profile on your instance for ease of following
-* [Mastodon View Profile](https://github.com/bramus/mastodon-view-profile) - Adds a button to the toolbar to visit a profile on your instance ease of following
+* [mastodon-simplified-federation](https://github.com/rugk/mastodon-simplified-federation) - Firefox extension that simplifies following or interacting with other users on remote Mastodon instances in the Fediverse
+* [FediAct](https://github.com/Lartsch/FediAct) - Chrome / Firefox extension that simplifies follow and post interactions on Mastodon servers other than your own.
+* [Mastodon Link](https://github.com/masrly/mastodon-link) - Chrome extension that adds a clickable mastodon icon next to mastodon usernames to visit their profile on your instance for ease of following
+* [Mastodon View Profile](https://github.com/bramus/mastodon-view-profile) - Chrome extension that adds a button to the toolbar to visit a profile on your instance ease of following
