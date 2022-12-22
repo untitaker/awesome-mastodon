@@ -22,6 +22,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Blogs](#blogs)
 * [Libraries](#libraries)
 * [Hosting](#hosting)
+* [Browser Extensions](#extensions)
 
 ## Official
 
@@ -180,3 +181,8 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 ## Hosting
 
 * [Masto.host](https://masto.host) - Fully managed Mastodon hosting.
+
+## Extensions
+
+* [Mastodon Link](https://github.com/masrly/mastodon-link) - Adds a clickable mastodon icon next to mastodon usernames to visit their profile on your instance for ease of following
+* [Mastodon View Profile](https://github.com/bramus/mastodon-view-profile) - Adds a button to the toolbar to visit a profile on your instance ease of following
