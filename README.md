@@ -17,8 +17,6 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [User styles](#user-styles)
 * [User scripts](#user-scripts)
 * [Bots](#bots)
-* [News & magazines bots](#news--magazines-bots)
-* [Associations](#associatons)
 * [Blogs](#blogs)
 * [Libraries](#libraries)
 * [Hosting](#hosting)
@@ -27,7 +25,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 ## Official
 
 * [Website](https://joinmastodon.org)
-* [GitHub repository](https://github.com/tootsuite/mastodon)
+* [GitHub repository](https://github.com/mastodon/mastodon)
 * [Documentation & official explaination](https://docs.joinmastodon.org/)
 * [API documentation](https://docs.joinmastodon.org/client/intro/)
 
