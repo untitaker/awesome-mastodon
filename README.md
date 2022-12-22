@@ -41,35 +41,55 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Halcyon](https://notabug.org/halcyon-suite/halcyon) - Alternative web client for Mastodon and Pleroma with a Twitter-like interface.
 * [Planiverse](https://git.mulligrubs.me/planiverse/) - Minimalist, no-JS Web client for Mastodon.
 * [Sengi](https://nicolasconstant.github.io/sengi/) - Desktop oriented webapp for Mastodon and Pleroma, focused on multi-accounts usages.
+* [Phanpy](https://github.com/cheeaun/phanpy) - a minimalistic, opinionated web client for Mastodon
 
 ### Mobile
 
 * [Mastodon](https://joinmastodon.org/apps) - official Mastodon mobile app, available for both [Android](https://play.google.com/store/apps/details?id=org.joinmastodon.android) and [iOS](https://apps.apple.com/us/app/mastodon-for-iphone/id1571998974)
-- [tooot](https://tooot.app/) - simple, elegant, open source mobile client, available for both [Android](https://play.google.com/store/apps/details?id=com.xmflsct.app.tooot) and [iOS](https://apps.apple.com/app/id1549772269)
+* [tooot](https://tooot.app/) - simple, elegant, open source mobile client, available for both [Android](https://play.google.com/store/apps/details?id=com.xmflsct.app.tooot) and [iOS](https://apps.apple.com/app/id1549772269)
+
 
 #### Android
 
 * [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) - Android client.
 * [Twidere](https://f-droid.org/packages/org.mariotaku.twidere/) - Android app for Twitter, GNU Social and Mastodon.
 * [Fedilab](https://framagit.org/tom79/fedilab) - Android client.
+* [Subway Tooter](https://github.com/tateisu/SubwayTooter) - highly customisable Mastodon client for Android made by a Japanese developer
+* [Husky](https://husky.adol.pw/) - Pleroma and Mastodon client for Android
 
 #### iOS
 
-* [Toot!](https://apps.apple.com/us/app/toot/id1229021451) - Mastodon client for iOS.
+* [Toot!](https://apps.apple.com/us/app/toot/id1229021451) - paid Mastodon client for iOS.
+* [Metatext](https://metabolist.org/) - open source client for iOS; development has currently been suspended
+* [Mercury for Mastodon](https://apps.apple.com/us/app/mercury-for-mastodon/id1486749200) - free Mastodon client for iOS
+* [Mastoot](https://apps.apple.com/us/app/mastoot/id1501485410) - simple, free Mastodon client for iOS
+* [Mast: for Mastodon](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129) - paid Mastodon client for iOS
+* [Mammoth](https://testflight.apple.com/join/HyL7boSn) - Mastodon client for iOS by the maker of Aviary for Twitter, still in beta
+* [Ivory](https://tapbots.social/@ivory) - Mastodon client for iOS by Tapbots, still in alpha
+
+#### SailfishOS
+
+* [Tooter](https://github.com/dysk0/harbour-tooter) - Native client for SailfishOS.
 
 ### Desktop
 
+* [Whalebird](https://whalebird.social/en/desktop/contents) - Electron-based cross-platform Mastodon client
+* [Sengi](https://nicolasconstant.github.io/sengi/) - open source cross-platform Mastodon client
+
+#### macOS
+
+* [Mastonaut](https://apps.apple.com/us/app/mastonaut/id1450757574) - free macOS Mastodon client
+* [Mast: for Mastodon](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129) - paid macOS Mastodon client
+
+#### Linux
+
 * [Tootle](https://github.com/bleakgrey/tootle) - Simple Mastodon client designed for elementary OS.
-* [Whalebird](https://whalebird.social/en/desktop/contents) - Electron-based Mastodon client.
+* [Tokodon](https://apps.kde.org/en-gb/tokodon/) - open source KDE Plasma client
 
 ### CLI
 
 * [toot](https://github.com/ihabunek/toot) - Mastodon CLI client (Python).
 * [madonctl](https://github.com/McKael/madonctl) - Mastodon CLI client (Go).
-
-* [Tooter](https://github.com/dysk0/harbour-tooter) - Native client for SailfishOS.
-
-
 
 
 ## Federated servers
