@@ -255,6 +255,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [CloudPlane](https://cloudplane.org/)
 * [Fedi Monster](https://fedi.monster/) - Mastodon hosting service; supports hosting glitch-soc and Hometown forks; also provides Pixelfed and GotoSocial hosting
 * [Ossrox](https://ossrox.org/) - German-based Mastodon hosting service; also provides Peertube, Matomo, Cryptpad, Matrix, and Jitsi Meet hosting, amongst others
+* [ungleich](https://ungleich.ch/u/products/mastodon-hosting/) - Mastodon hosting service based in Switzerland
 
 ### VPCs
 
