@@ -247,6 +247,20 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 ### Managed hosting
 
 * [Masto.host](https://masto.host) - Fully managed Mastodon hosting.
+* [WebApe](https://webape.site/) - German-based Mastodon hosting service; also provides PeerTube, Nextcloud, Friendica, Matrix, Jitsi Meet, CryptPad and WordPress hosting
+* [toot.io](https://toot.io/mastodon_hosting.html) - Mastodon hosting service that serves HPC at University of Texas Austin, Association for Computing Machinery (ACM), amongst others
+* [IKNOX](https://iknox.com/products/mastodon-hosting)
+* [HostDon](https://hostdon.jp/#/) - Japan-based Mastodon hosting service
+* [SpaceBear](https://federation.spacebear.ee/software/mastodon)
+* [CloudPlane](https://cloudplane.org/)
+* [Fedi Monster](https://fedi.monster/) - Mastodon hosting service; supports hosting glitch-soc and Hometown forks; also provides Pixelfed and GotoSocial hosting
+* [Ossrox](https://ossrox.org/) - German-based Mastodon hosting service; also provides Peertube, Matomo, Cryptpad, Matrix, and Jitsi Meet hosting, amongst others
+
+### VPCs
+
+* [DigitalOcean Mastodon Droplet](https://marketplace.digitalocean.com/apps/mastodon)
+* [Linode Mastodon App](https://www.linode.com/marketplace/apps/linode/mastodon-server/)
+
 
 ### Tools
 
