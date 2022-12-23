@@ -12,15 +12,14 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 
 * [Official](#official)
 * [Clients](#clients)
-* [Federated servers](#federated-servers)
+* [Lists](#lists)
 * [Tools](#tools)
-* [User styles](#user-styles)
-* [User scripts](#user-scripts)
-* [Bots](#bots)
-* [Blogs](#blogs)
-* [Libraries](#libraries)
-* [Hosting](#hosting)
 * [Browser Extensions](#extensions)
+* [Guides](#guides)
+* [Federated servers](#federated-servers)
+* [Bots](#bots)
+* [Libraries](#libraries)
+* [FediAdmin](#fediadmin)
 
 ## Official
 
@@ -90,6 +89,67 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [toot](https://github.com/ihabunek/toot) - Mastodon CLI client (Python).
 * [madonctl](https://github.com/McKael/madonctl) - Mastodon CLI client (Go).
 
+## Lists
+
+- [Academics on Mastodon](https://github.com/nathanlesage/academics-on-mastodon) - a list of academics on Mastodon
+- [#LawFedi: Lawyers and Legal Academics on Mastodon](https://docs.google.com/spreadsheets/d/1nE8WxgwTFCuVeFA8ZfOW0qonJTSnI_d6EBSJ4E9JqtI/edit) - a list of lawyers and legal academics on Mastodon
+- [mastodon-near-me](https://umap.openstreetmap.fr/en/map/mastodon-near-me_828094) - a visual map of Fediverse instances that operate primarily in or that are targeted towards specific territories, regions, or localities
+
+## Tools
+
+### Fediverse discovery
+
+* [Mastodon instances](https://instances.social/list) - List of Mastodon instances.
+* [Fediverse Explorer](https://fediverse.0qz.fun/) - Trending hashtags and popular toots, regenerated every hour.
+* [unmung.com/mastoview](http://www.unmung.com/mastoview) - Preview the local or federated timeline of any instance.
+* [Followgraph](https://followgraph.vercel.app) - find users followed by many of the people you follow
+
+### Toot discovery
+
+* [mastodon_digest](https://github.com/hodgesmr/mastodon_digest) - Python script that aggregates recent popular posts from your Mastodon timeline 
+
+### Toot management
+
+* [Forget](https://forget.codl.fr/about/) - Delete toots after a user defined period of time (Python [source code](https://github.com/codl/forget/)).
+* [Toot scheduler](https://scheduler.mastodon.tools/) - Schedule now, toot later.
+
+### Webpage
+
+* [emfed](https://github.com/sampsyo/emfed) - embed your Mastodon feed onto a web page
+* [Last](https://framagit.org/luc/last) - aggregates toots on a web page providing Atom feed and an epub (Perl).
+
+### Misc
+
+* [emojis.in](https://emojos.in/) - view the custom emojis available on a Mastodon instance
+
+## Extensions
+
+* [mastodon-simplified-federation](https://github.com/rugk/mastodon-simplified-federation) - Firefox extension that simplifies following or interacting with other users on remote Mastodon instances in the Fediverse
+* [FediAct](https://github.com/Lartsch/FediAct) - Chrome / Firefox extension that simplifies follow and post interactions on Mastodon servers other than your own.
+* [Mastodon Link](https://github.com/masrly/mastodon-link) - Chrome extension that adds a clickable mastodon icon next to mastodon usernames to visit their profile on your instance for ease of following
+* [Mastodon View Profile](https://github.com/bramus/mastodon-view-profile) - Chrome extension that adds a button to the toolbar to visit a profile on your instance ease of following
+
+### Bookmarklets
+
+* [Mastodon Toot Bookmarklet](https://rknightuk.github.io/mastodon-toot-bookmarklet/) - Bookmarklet to toot the current page ([source code](https://github.com/rknightuk/mastodon-toot-bookmarklet/))
+* [Mastodon #nowplaying Toot Bookmarklet](https://nowplaying.resynth1943.net) - Bookmarklet to toot the music you're currently listening to. Works with YouTube. ([source code](https://github.com/resynth1943/mastodon-nowplaying-toot-bookmarklet))
+
+### User styles
+
+* [Variable width](https://userstyles.org/styles/139721/mastodon-glitch-soc-variable-width) - Makes Mastodon scale with the browser's width.
+* [Narrow drawer](https://userstyles.org/styles/141457/mastodon-dynamic-wide-columns-narrow-drawer) - With the variable width style, makes the drawer narrower and the other columns scale accordingly.
+
+### User scripts
+
+* [NSFW Remover](https://greasyfork.org/fr/scripts/29228-mastodon-nsfw-remover) - Automatically display NSFW images.
+* [Customizable interface](https://openuserjs.org/scripts/bl00m/Mastodon_Customizable_Interface) - Move and resize columns on a grid.
+* [BirdSite](https://gitlab.com/pmorinerie/birdsite) - Browser extension for cross-posting Mastodon toots to Twitter.
+
+## Guides
+
+- [Mastodon Privacy Guide](https://github.com/clening/MastodonPrivacyGuide/) - a guide on data protection obligations, challenges & pitfalls for Mastodon users & instance admins
+- [Mastodon 101 for Journalists](https://lisawilliams.github.io/lisa/tech/2022/11/28/mastodon-101-for-journalists.html)
+- [Matodon: a partial history](https://privacy.thenexus.today/mastodon-a-partial-history/)
 
 ## Federated services
 
@@ -103,7 +163,6 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
   * [Akkoma](https://akkoma.social/) - a Pleroma fork with more features and a faster pace of development
 * [Microblog.pub](https://microblog.pub/) - Single-user lightweight microblogging platform.
 * [NextCloud Social](https://apps.nextcloud.com/apps/social) - Microblogging app for the Nextcloud platform.
-* [WordPress ActivityPub](https://wordpress.org/plugins/activitypub/) - WordPress plugin for adding ActivityPub support to any WordPress site
 * [GotoSocial](https://github.com/superseriousbusiness/gotosocial) - fast and efficient ActivityPub server written in Golang, still in alpha
 
 ### Blogging
@@ -111,6 +170,8 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 
 * [Plume](https://joinplu.me/) - Blogging platform.
 * [WriteFreely](https://writefreely.org/) - Blogging platform.
+* [WordPress ActivityPub](https://wordpress.org/plugins/activitypub/) - WordPress plugin for adding ActivityPub support to any WordPress site
+* [Drupal ActivityPub](https://www.drupal.org/project/activitypub) - Drupal module that implements ActivityPub on a Drupal site
 
 ### Link aggregation
 
@@ -126,29 +187,6 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) - Blog/social networks platform with file, contacts and events sharing.
 * [BookWyrm](https://joinbookwyrm.com/) - Goodreads/Librarything-like book social network.
 
-## Tools
-
-* [Mastodon instances](https://instances.social/list) - List of Mastodon instances.
-* [unmung.com/mastoview](http://www.unmung.com/mastoview) - Preview the local or federated timeline of any instance.
-* [Toot scheduler](https://scheduler.mastodon.tools/) - Schedule now, toot later.
-* [Last](https://framagit.org/luc/last) - Aggregate toots on a web page providing Atom feed and an epub (Perl).
-* [Forget](https://forget.codl.fr/about/) - Delete toots after a user defined period of time (Python [source code](https://github.com/codl/forget/)).
-* [Mastodon Toot Bookmarklet](https://rknightuk.github.io/mastodon-toot-bookmarklet/) - Bookmarklet to toot the current page ([source code](https://github.com/rknightuk/mastodon-toot-bookmarklet/))
-* [Mastodon – Simplified Federation!](https://addons.mozilla.org/firefox/addon/mastodon-simplified-federation/) - Redirect clicks on remote follow/interaction buttons to your own instance ([source code](https://github.com/rugk/mastodon-simplified-federation)).
-* [Fediverse Explorer](https://fediverse.0qz.fun/) - Trending hashtags and popular toots, regenerated every hour.
-* [Mastodon #nowplaying Toot Bookmarklet](https://nowplaying.resynth1943.net) - Bookmarklet to toot the music you're currently listening to. Works with YouTube. ([source code](https://github.com/resynth1943/mastodon-nowplaying-toot-bookmarklet))
-
-## User styles
-
-* [Variable width](https://userstyles.org/styles/139721/mastodon-glitch-soc-variable-width) - Makes Mastodon scale with the browser's width.
-* [Narrow drawer](https://userstyles.org/styles/141457/mastodon-dynamic-wide-columns-narrow-drawer) - With the variable width style, makes the drawer narrower and the other columns scale accordingly.
-
-## User scripts
-
-* [NSFW Remover](https://greasyfork.org/fr/scripts/29228-mastodon-nsfw-remover) - Automatically display NSFW images.
-* [Customizable interface](https://openuserjs.org/scripts/bl00m/Mastodon_Customizable_Interface) - Move and resize columns on a grid.
-* [BirdSite](https://gitlab.com/pmorinerie/birdsite) - Browser extension for cross-posting Mastodon toots to Twitter.
-
 ## Bots
 
 * [feed2toot](https://gitlab.com/chaica/feed2toot) - Automatically parses RSS feeds, identifies new posts and posts them on Mastodon (Python).
@@ -161,28 +199,43 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [News Bot](https://botsin.space/@newsbot) - mirrors Twitter accounts on Mastodon (ClojureScript), source available on [GitHub](https://github.com/yogthos/mastodon-bot).
 * [Welcome Bot](https://github.com/indyhall/mastodon-welcome-bot) - Automatically send a welcome DM to new users (Python).
 
-## Blogs
+### RSS
 
-### English
-
-### Français
-
-* [@HygieneMentale@oc.todon.fr](https://oc.todon.fr/@HygieneMentale) - Hygiène Mentale.
-* [@journalduhacker@framapiaf.org](https://framapiaf.org/@journalduhacker) - Journal du Hacker.
-* [@korbenbot@mastodon.xyz](https://mastodon.xyz/@korbenbot) - Korben (bot).
+* [rss-to-activitypub](https://github.com/umonaca/rss-to-activitypub) - not a bot, but a simple server that converts an RSS feed into an ActivityPub actor that can be followed on Mastodon 
 
 ## Libraries
 
+### Python
+
 * [Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon API.
+* [atoot](https://github.com/popura-network/atoot) - asynchronous Python client library for the Mastodon API
+
+### Javascript
+
 * [Megalodon](https://github.com/h3poteto/megalodon) - Mastodon API client library for node.js.
 
-## Hosting
+### PHP
+
+* [ActivityPHP](https://github.com/landrok/activitypub) - PHP implementation of ActivityPub
+
+### Golang
+
+* [go-mastodon](https://github.com/mattn/go-mastodon) - Mastodon client library for Golang
+
+### Clojure
+
+* [thefox](https://github.com/valerauko/thefox) - incomplete and unmaintained Clojure library for handling ActivityPub interactions
+
+### Embedded systems
+
+* [Lyuba](https://github.com/ringtailsoftware/lyuba) - Arduino library for tooting and retrieving toots matching a certain hashtag
+
+## FediAdmin
+
+### Managed hosting
 
 * [Masto.host](https://masto.host) - Fully managed Mastodon hosting.
 
-## Extensions
+### Tools
 
-* [mastodon-simplified-federation](https://github.com/rugk/mastodon-simplified-federation) - Firefox extension that simplifies following or interacting with other users on remote Mastodon instances in the Fediverse
-* [FediAct](https://github.com/Lartsch/FediAct) - Chrome / Firefox extension that simplifies follow and post interactions on Mastodon servers other than your own.
-* [Mastodon Link](https://github.com/masrly/mastodon-link) - Chrome extension that adds a clickable mastodon icon next to mastodon usernames to visit their profile on your instance for ease of following
-* [Mastodon View Profile](https://github.com/bramus/mastodon-view-profile) - Chrome extension that adds a button to the toolbar to visit a profile on your instance ease of following
+* [FakeRelay](https://github.com/g3rv4/FakeRelay) - tool for Mastodon admins to load statuses from other instances into their own instance
