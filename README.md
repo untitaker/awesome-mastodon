@@ -148,6 +148,10 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 ## Guides
 
 - [GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon) - an increasingly less brief guide to Mastodon
+- [Fedi.Tips](https://fedi.tips/) - informal, unofficial guide for non-technical people who want to use Mastodon and the wider Fediverse
+- [A non-computer-person’s guide to how Mastodon instances work](https://scribe.rip/@jimpjorps/a-non-computer-persons-guide-to-how-mastodon-instances-work-da6ceac1994a)
+- [TechCrunch: A beginner’s guide to Mastodon, the open source Twitter alternative](https://techcrunch.com/2022/11/08/what-is-mastodon/)
+- [Clive Thompson: Come Join Me On Mastodon, Folks](https://clivethompson.scribe.rip/come-join-me-on-mastodon-folks-bbb073ff05d2)
 - [Mastodon Privacy Guide](https://github.com/clening/MastodonPrivacyGuide/) - a guide on data protection obligations, challenges & pitfalls for Mastodon users & instance admins
 - [Mastodon 101 for Journalists](https://lisawilliams.github.io/lisa/tech/2022/11/28/mastodon-101-for-journalists.html)
 - [Matodon: a partial history](https://privacy.thenexus.today/mastodon-a-partial-history/)
@@ -241,3 +245,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 ### Tools
 
 * [FakeRelay](https://github.com/g3rv4/FakeRelay) - tool for Mastodon admins to load statuses from other instances into their own instance
+
+### Guides
+
+* [rixx.de: On Running a Mastodon Instance](https://rixx.de/blog/on-running-a-mastodon-instance/)
