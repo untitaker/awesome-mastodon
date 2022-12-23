@@ -91,6 +91,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 
 ## Lists
 
+- [Various Notable Accounts (Media, Politics, Tech, Ukraine, and more)](https://docs.google.com/spreadsheets/d/1XpBPzCFf0kI6aLnYyNPC74SJqI2SXg664sR3XrWDnfU/edit)
 - [Academics on Mastodon](https://github.com/nathanlesage/academics-on-mastodon) - a list of academics on Mastodon
 - [#LawFedi: Lawyers and Legal Academics on Mastodon](https://docs.google.com/spreadsheets/d/1nE8WxgwTFCuVeFA8ZfOW0qonJTSnI_d6EBSJ4E9JqtI/edit) - a list of lawyers and legal academics on Mastodon
 - [mastodon-near-me](https://umap.openstreetmap.fr/en/map/mastodon-near-me_828094) - a visual map of Fediverse instances that operate primarily in or that are targeted towards specific territories, regions, or localities
@@ -154,6 +155,11 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 - [Clive Thompson: Come Join Me On Mastodon, Folks](https://clivethompson.scribe.rip/come-join-me-on-mastodon-folks-bbb073ff05d2)
 - [Mastodon Privacy Guide](https://github.com/clening/MastodonPrivacyGuide/) - a guide on data protection obligations, challenges & pitfalls for Mastodon users & instance admins
 - [Mastodon 101 for Journalists](https://lisawilliams.github.io/lisa/tech/2022/11/28/mastodon-101-for-journalists.html)
+
+### History
+
+- [#MastodonNews Archive](https://docs.google.com/spreadsheets/d/1d5Q6oyzrlfXBEhHsLI9cxltdFV_XPrZWQj1mj8Ivc7Q/edit)
+- [Twitter is Going Great!](https://twitterisgoinggreat.com/)
 - [Matodon: a partial history](https://privacy.thenexus.today/mastodon-a-partial-history/)
 
 ## Federated services
