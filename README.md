@@ -54,6 +54,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Fedilab](https://framagit.org/tom79/fedilab) - Android client.
 * [Subway Tooter](https://github.com/tateisu/SubwayTooter) - highly customisable Mastodon client for Android made by a Japanese developer
 * [Husky](https://husky.adol.pw/) - Pleroma and Mastodon client for Android
+* [Woolly](https://github.com/outadoc/woolly-app) - a Mastodon client built with Jetpack Compose and Compose Desktop
 
 #### iOS
 
@@ -64,6 +65,9 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Mast: for Mastodon](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129) - paid Mastodon client for iOS
 * [Mammoth](https://testflight.apple.com/join/HyL7boSn) - Mastodon client for iOS by the maker of Aviary for Twitter, still in beta
 * [Ivory](https://tapbots.social/@ivory) - Mastodon client for iOS by Tapbots, still in alpha
+* [Tootoise](https://apps.apple.com/us/app/tootoise/id1465090190) - simple Mastodon client for iOS, still in testing phase ([Testflight Link](https://testflight.apple.com/join/2LVAJQTP))
+* [Tusker](https://git.shadowfacts.net/shadowfacts/Tusker) - an iOS client for Mastodon and Pleroma; still a work in progress
+* [Mona](https://mastodon.social/@MonaApp) - Mastodon client for iOS; still in testing phase
 
 #### SailfishOS
 
@@ -233,6 +237,10 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 
 * [go-mastodon](https://github.com/mattn/go-mastodon) - Mastodon client library for Golang
 * [madon](https://github.com/McKael/madon) - Golang client library for the Mastodon API
+
+### Kotlin
+
+* [mastodonk](https://github.com/outadoc/mastodonk) - Mastodon client library for Kotlin
 
 ### Clojure
 
