@@ -147,6 +147,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 
 ## Guides
 
+- [GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon) - an increasingly less brief guide to Mastodon
 - [Mastodon Privacy Guide](https://github.com/clening/MastodonPrivacyGuide/) - a guide on data protection obligations, challenges & pitfalls for Mastodon users & instance admins
 - [Mastodon 101 for Journalists](https://lisawilliams.github.io/lisa/tech/2022/11/28/mastodon-101-for-journalists.html)
 - [Matodon: a partial history](https://privacy.thenexus.today/mastodon-a-partial-history/)
@@ -221,6 +222,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 ### Golang
 
 * [go-mastodon](https://github.com/mattn/go-mastodon) - Mastodon client library for Golang
+* [madon](https://github.com/McKael/madon) - Golang client library for the Mastodon API
 
 ### Clojure
 
