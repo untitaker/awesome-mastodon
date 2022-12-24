@@ -157,6 +157,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 - [A non-computer-person’s guide to how Mastodon instances work](https://scribe.rip/@jimpjorps/a-non-computer-persons-guide-to-how-mastodon-instances-work-da6ceac1994a)
 - [TechCrunch: A beginner’s guide to Mastodon, the open source Twitter alternative](https://techcrunch.com/2022/11/08/what-is-mastodon/)
 - [Clive Thompson: Come Join Me On Mastodon, Folks](https://clivethompson.scribe.rip/come-join-me-on-mastodon-folks-bbb073ff05d2)
+- [Per Axbom: A Brief Mastodon Guide for Social Media Worriers](https://axbom.com/mastodon-guide/)
 - [Mastodon Privacy Guide](https://github.com/clening/MastodonPrivacyGuide/) - a guide on data protection obligations, challenges & pitfalls for Mastodon users & instance admins
 - [Mastodon 101 for Journalists](https://lisawilliams.github.io/lisa/tech/2022/11/28/mastodon-101-for-journalists.html)
 
