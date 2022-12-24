@@ -102,6 +102,13 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 
 ## Tools
 
+### Migration
+
+* [Movetodon](https://www.movetodon.org/) - helps you locate the users you follow on Twitter who have Mastodon handles in their bios and allows you to follow them directly; no exporting and importing of CSVs required
+* [Twitodon](https://twitodon.com/) - helps you locate the users you follow on Twitter who have Mastodon handles in their bios; exports a CSV that you can import into Mastodon
+* [Fedifinder](https://fedifinder.glitch.me/) - helps you locate the users you follow on Twitter who have Mastodon handles in their bios; exports a CSV that you can import into Mastodon
+* [Debirdify](https://debirdify.pruvisto.org/) - searches across the users you follow and your Twitter lists to locate users who have Fediverse handles; helps you identify instances relevant to your interests; exports a CSV that you can import into Mastodon
+
 ### Fediverse discovery
 
 * [Mastodon instances](https://instances.social/list) - List of Mastodon instances.
