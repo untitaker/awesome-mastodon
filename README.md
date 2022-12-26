@@ -130,11 +130,12 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 ### Fediverse discovery
 
 * [Fediverse Explorer](https://fediverse.0qz.fun/) - Trending hashtags and popular toots, regenerated every hour.
-* [unmung.com/mastoview](http://www.unmung.com/mastoview) - Preview the local or federated timeline of any instance.
 * [Followgraph](https://followgraph.vercel.app) - find users followed by many of the people you follow
+* [FediScope](https://eloquence.github.io/fediscope/) - find fediverse accounts for people in a field using Wikidata
 
 ### Toot discovery
 
+* [unmung.com/mastoview](http://www.unmung.com/mastoview) - Preview the local or federated timeline of any instance.
 * [mastodon_digest](https://github.com/hodgesmr/mastodon_digest) - Python script that aggregates recent popular posts from your Mastodon timeline 
 
 ### Toot management
@@ -151,6 +152,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 ### Misc
 
 * [emojis.in](https://emojos.in/) - view the custom emojis available on a Mastodon instance
+* [Mastodon Lists Manager](https://mastodon-lists-manager.huey.xyz/) - tool for managing lists and followed users on Mastodon
 
 ## Extensions
 
