@@ -95,11 +95,28 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 
 ## Lists
 
+### User Lists
+
 - [Various Notable Accounts (Media, Politics, Tech, Ukraine, and more)](https://docs.google.com/spreadsheets/d/1XpBPzCFf0kI6aLnYyNPC74SJqI2SXg664sR3XrWDnfU/edit)
 - [Academics on Mastodon](https://github.com/nathanlesage/academics-on-mastodon) - a list of academics on Mastodon
 - [#LawFedi: Lawyers and Legal Academics on Mastodon](https://docs.google.com/spreadsheets/d/1nE8WxgwTFCuVeFA8ZfOW0qonJTSnI_d6EBSJ4E9JqtI/edit) - a list of lawyers and legal academics on Mastodon
-- [mastodon-near-me](https://umap.openstreetmap.fr/en/map/mastodon-near-me_828094) - a visual map of Fediverse instances that operate primarily in or that are targeted towards specific territories, regions, or localities
 - [FediPages](https://fedipages.com) - directory of Fediverse users
+- [Public spreadsheet of popular/famous/notable Mastodon accounts](https://docs.google.com/spreadsheets/d/1cpUKkoT1MUn8_xM4usiERn-IdEuh0hXfBrwbbThwGiI/edit)
+- [Mastodon Journalists and US Progressives](https://boskee.co.uk/mastodon-journalists/)
+- [Journalists on Mastodon and Fediverse](https://docs.google.com/spreadsheets/d/13No4yxY-oFrN8PigC2jBWXreFCHWwVRTftwP6HcREtA/edit)
+- [The Walt List](https://docs.google.com/spreadsheets/d/1rNfUosPSiMwRbUAbnI3h-7D9grP6ULgS/edit#gid=1301725065) - Walt Shaub’s list of prolific posters — mostly US politics
+- [EduTooters Unite! - Mastodon #EduTooters and #K12Librarians Lists](https://docs.google.com/spreadsheets/d/1beJHWsuB0MJDMqeg_q8pBRWRdQImY-n8E6PttoJLFaM/edit)
+- [FediFied](https://www.fedified.com/) - notable Twitter users now in the Fediverse
+
+### Server Lists
+
+* [Mastodon instances (instances.social)](https://instances.social/list) - List of Mastodon instances.
+* [Mastodon quick scan spreadsheet](https://docs.google.com/spreadsheets/d/1hN-0bNfjaV7UTuLP6eudmXCNNPdeNQoFtbfcqxl4FFQ/edit#gid=0) - list of large and mid-size Mastodon instances
+* [Fediverse Observer Mastodon List](https://mastodon.fediverse.observer/list)
+* [FediDB Mastodon List](https://fedidb.org/network?s=mastodon)
+* [mastodon-near-me](https://umap.openstreetmap.fr/en/map/mastodon-near-me_828094) - a visual map of Fediverse instances that operate primarily in or that are targeted towards specific territories, regions, or localities
+* [#Education Friendly #Mastodon Instances](https://www.mguhlin.org/2022/11/education-friendly-mastodon-instances.html)
+
 
 ## Tools
 
@@ -112,7 +129,6 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 
 ### Fediverse discovery
 
-* [Mastodon instances](https://instances.social/list) - List of Mastodon instances.
 * [Fediverse Explorer](https://fediverse.0qz.fun/) - Trending hashtags and popular toots, regenerated every hour.
 * [unmung.com/mastoview](http://www.unmung.com/mastoview) - Preview the local or federated timeline of any instance.
 * [Followgraph](https://followgraph.vercel.app) - find users followed by many of the people you follow
@@ -142,6 +158,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [FediAct](https://github.com/Lartsch/FediAct) - Chrome / Firefox extension that simplifies follow and post interactions on Mastodon servers other than your own.
 * [Mastodon Link](https://github.com/masrly/mastodon-link) - Chrome extension that adds a clickable mastodon icon next to mastodon usernames to visit their profile on your instance for ease of following
 * [Mastodon View Profile](https://github.com/bramus/mastodon-view-profile) - Chrome extension that adds a button to the toolbar to visit a profile on your instance ease of following
+* [Graze for Mastodon](https://chrome.google.com/webstore/detail/graze-for-mastodon/epocinhmkc) - Chrome extension that enables 1-click follow, favorite, boost, and bookmark for Mastodon, no matter what instance you call home.
 
 ### Bookmarklets
 
@@ -288,3 +305,4 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 ### Guides
 
 * [rixx.de: On Running a Mastodon Instance](https://rixx.de/blog/on-running-a-mastodon-instance/)
+* [EFF: User Generated Content and the Fediverse - A Legal Primer](https://www.eff.org/deeplinks/2022/12/user-generated-content-and-fediverse-legal-primer)
