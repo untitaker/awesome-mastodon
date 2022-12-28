@@ -1,6 +1,6 @@
 # Awesome Mastodon [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-[<img src="https://rawgit.com/tleb/awesome-mastodon/master/mastodon-logo.svg" align="right" width="150">](https://joinmastodon.org)
+[<img src="https://user-images.githubusercontent.com/1534150/209670098-41dfd725-792e-4591-8097-52d70a09269a.svg" align="right" alt="Mastodon logo" width="150">](https://joinmastodon.org)
 
 > Up-to-date and curated list of Mastodon-related stuff!
 
@@ -37,7 +37,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon, focused on speed and simplicity.
 * [Brutaldon](https://git.carcosa.net/jmcbray/brutaldon) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon.
 * [Halcyon](https://notabug.org/halcyon-suite/halcyon) - Alternative web client for Mastodon and Pleroma with a Twitter-like interface.
-* [Planiverse](https://git.mulligrubs.me/planiverse/) - Minimalist, no-JS Web client for Mastodon.
+* [Planiverse](https://git.stjo.hn/planiverse/) - Minimalist, no-JS Web client for Mastodon.
 * [Sengi](https://nicolasconstant.github.io/sengi/) - Desktop oriented webapp for Mastodon and Pleroma, focused on multi-accounts usages.
 * [Phanpy](https://github.com/cheeaun/phanpy) - a minimalistic, opinionated web client for Mastodon
 
@@ -111,6 +111,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 ### Server Lists
 
 * [Mastodon instances (instances.social)](https://instances.social/list) - List of Mastodon instances.
+* [Mastodon server list](https://mastodonservers.net) - List of Mastodon server instances.
 * [Mastodon quick scan spreadsheet](https://docs.google.com/spreadsheets/d/1hN-0bNfjaV7UTuLP6eudmXCNNPdeNQoFtbfcqxl4FFQ/edit#gid=0) - list of large and mid-size Mastodon instances
 * [Fediverse Observer Mastodon List](https://mastodon.fediverse.observer/list)
 * [FediDB Mastodon List](https://fedidb.org/network?s=mastodon)
@@ -130,6 +131,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 ### Fediverse discovery
 
 * [Fediverse Explorer](https://fediverse.0qz.fun/) - Trending hashtags and popular toots, regenerated every hour.
+* [#FediBuzz](https://fedi.buzz/) - trending hashtags by language, live
 * [Followgraph](https://followgraph.vercel.app) - find users followed by many of the people you follow
 * [FediScope](https://eloquence.github.io/fediscope/) - find fediverse accounts for people in a field using Wikidata
 
@@ -144,6 +146,13 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Forget](https://forget.codl.fr/about/) - Delete toots after a user defined period of time (Python [source code](https://github.com/codl/forget/)).
 * [Toot scheduler](https://scheduler.mastodon.tools/) - Schedule now, toot later.
 * [Thread counter by @axbom](https://xbm.se/fediverse/tc.php) - helps you split long posts into a numbered thread
+
+### Cross-posting
+
+* [Mastodon Twitter Crossposter](https://crossposter.masto.donte.com.br/) - Service to crosspost to and from Twitter (rate-limited by Twitter to 300 per hour for the entire application)
+* [Moa](https://moa.party/)
+* [brandur/mastodon-cross-post](https://github.com/brandur/mastodon-cross-post) - golang script that crossposts tweets to Mastodon
+* [AmauryCarrade/MastodonToTwitter](https://github.com/AmauryCarrade/MastodonToTwitter) - Mastodon ⬄ Twitter real-time cross-poster, using streaming APIs
 
 ### Webpage
 
@@ -209,9 +218,9 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Microblog.pub](https://microblog.pub/) - Single-user lightweight microblogging platform.
 * [NextCloud Social](https://apps.nextcloud.com/apps/social) - Microblogging app for the Nextcloud platform.
 * [GotoSocial](https://github.com/superseriousbusiness/gotosocial) - fast and efficient ActivityPub server written in Golang, still in alpha
+* [Takahē](https://jointakahe.org/) - an efficient ActivityPub server for microblogging with multiple support for multiple domains
 
 ### Blogging
-
 
 * [Plume](https://joinplu.me/) - Blogging platform.
 * [WriteFreely](https://writefreely.org/) - Blogging platform.
@@ -234,7 +243,6 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 
 ## Bots
 
-* [feed2toot](https://gitlab.com/chaica/feed2toot) - Automatically parses RSS feeds, identifies new posts and posts them on Mastodon (Python).
 * [usercount](https://github.com/josefkenny/usercount) - Bot which posts user statistics to Mastodon (Python).
 * [autofollow](https://github.com/gled-rs/mastodon-autofollow) - Autofollow bot for Mastodon (Python).
 * [hnbot](https://github.com/raymestalez/mastodon-hnbot) - Posts the Hacker News stories with 100+ points (Python).
@@ -246,7 +254,10 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 
 ### RSS
 
+* [feed2toot](https://gitlab.com/chaica/feed2toot) - Automatically parses RSS feeds, identifies new posts and posts them on Mastodon (Python).
 * [rss-to-activitypub](https://github.com/umonaca/rss-to-activitypub) - not a bot, but a simple server that converts an RSS feed into an ActivityPub actor that can be followed on Mastodon 
+* [MastoFeed](https://mastofeed.org/) - automated and super easy tool to send the content from your RSS Feeds to any Mastodon instance
+* [feediverse](https://github.com/edsu/feediverse) - Python script that posts RSS feed items to ActivityPub
 
 ## Libraries
 
