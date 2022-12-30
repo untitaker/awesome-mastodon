@@ -163,6 +163,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 
 * [emojis.in](https://emojos.in/) - view the custom emojis available on a Mastodon instance
 * [Mastodon Lists Manager](https://mastodon-lists-manager.huey.xyz/) - tool for managing lists and followed users on Mastodon
+* [Mastolists](https://mastolists.novaloop.cloud) - tool for managing lists (list view, matrix view and table view)
 
 ## Extensions
 
