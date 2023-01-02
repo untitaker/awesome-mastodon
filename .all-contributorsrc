@@ -1,0 +1,74 @@
+{
+  "projectName": "awesome=mastodon",
+  "projectOwner": "hueyy",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": ["README.md"],
+  "imageSize": 50,
+  "commit": true,
+  "contributorsPerLine": 7,
+  "contributorsSortAlphabetically": false,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
+  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
+  "types": {
+  },
+  "linkToUsage": true,
+  "skipCi": false,
+  "contributors": [
+    {
+      "login": "hueyy",
+      "name": "Huey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6523121?v=4",
+      "profile": "https://github.com/hueyy",
+      "contributions": [
+        "maintenance",
+        "content"
+      ]
+    },
+    {
+      "login": "magbeat",
+      "name": "Markus Huggler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1089410?v=4",
+      "profile": "https://github.com/magbeat",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "ctbk",
+      "name": "Stefano Bonora",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5497382?v=4",
+      "profile": "https://github.com/ctbk",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "wiegelmann",
+      "name": "jan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6149471?v=4",
+      "profile": "https://github.com/wiegelmann",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "untitaker",
+      "name": "Markus Unterwaditzer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/837573?v=4",
+      "profile": "https://github.com/untitaker",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "mooseyboots",
+      "name": "mooseyboots",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66318400?v=4",
+      "profile": "https://github.com/mooseyboots",
+      "contributions": [
+        "content"
+      ]
+    }
+  ]
+}
