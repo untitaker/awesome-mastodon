@@ -140,12 +140,19 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [unmung.com/mastoview](http://www.unmung.com/mastoview) - Preview the local or federated timeline of any instance.
 * [mastodon_digest](https://github.com/hodgesmr/mastodon_digest) - Python script that aggregates recent popular posts from your Mastodon timeline 
 * [fediview](https://fediview.com/) - web app that aggregates the recent popular posts from your Mastodon timeline
+* [Quintessence](https://mastodon.uno/@quintsns) - If you follow this bot account it will periodically send you a DM with the latest links that have been shared the most among the people you follow.
 
 ### Toot management
 
 * [Forget](https://forget.codl.fr/about/) - Delete toots after a user defined period of time (Python [source code](https://github.com/codl/forget/)).
 * [Toot scheduler](https://scheduler.mastodon.tools/) - Schedule now, toot later.
 * [Thread counter by @axbom](https://xbm.se/fediverse/tc.php) - helps you split long posts into a numbered thread
+
+#### Lists
+
+* [hueyy/mastodon-lists-manager](https://mastodon-lists-manager.huey.xyz/) - tool for managing lists and followed users on Mastodon
+* [Mastolists](https://mastolists.novaloop.cloud) - tool for managing lists (list view, matrix view and table view)
+* [acbeers/mastodonlm](https://acbeers.github.io/mastodonlm/) - a simple list manager, bulit in the style of Twitter List Manager.
 
 ### Cross-posting
 
@@ -162,7 +169,6 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 ### Misc
 
 * [emojis.in](https://emojos.in/) - view the custom emojis available on a Mastodon instance
-* [Mastodon Lists Manager](https://mastodon-lists-manager.huey.xyz/) - tool for managing lists and followed users on Mastodon
 * [Mastodon Link Debugger](https://mastodon-link-debugger.vercel.app/) - figure out why your links do not get verified
 
 ## Extensions
@@ -316,6 +322,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 ### Tools
 
 * [FakeRelay](https://github.com/g3rv4/FakeRelay) - tool for Mastodon admins to load statuses from other instances into their own instance
+* [RelayList](https://relaylist.com) - A list of relays that can be added to a Mastodon, Misskey, or Pleroma server.
 
 ### Guides
 
