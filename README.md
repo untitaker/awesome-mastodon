@@ -88,10 +88,16 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Tootle](https://github.com/bleakgrey/tootle) - Simple Mastodon client designed for elementary OS.
 * [Tokodon](https://apps.kde.org/en-gb/tokodon/) - open source KDE Plasma client
 
+#### Emacs
+
+* [mastodon.el](https://codeberg.org/martianh/mastodon.el) - Mastodon (+ Pleroma) client for Emacs.
+
 ### CLI
 
 * [toot](https://github.com/ihabunek/toot) - Mastodon CLI client (Python).
 * [madonctl](https://github.com/McKael/madonctl) - Mastodon CLI client (Go).
+
+
 
 ## Lists
 
