@@ -104,8 +104,6 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [toot](https://github.com/ihabunek/toot) - Mastodon CLI client (Python).
 * [madonctl](https://github.com/McKael/madonctl) - Mastodon CLI client (Go).
 
-
-
 ## Lists
 
 ### User Lists
@@ -130,7 +128,8 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [FediDB Mastodon List](https://fedidb.org/network?s=mastodon)
 * [mastodon-near-me](https://umap.openstreetmap.fr/en/map/mastodon-near-me_828094) - a visual map of Fediverse instances that operate primarily in or that are targeted towards specific territories, regions, or localities
 * [#Education Friendly #Mastodon Instances](https://www.mguhlin.org/2022/11/education-friendly-mastodon-instances.html)
-
+* [Fediversesearch](https://www.fediversesearch.com/) - search for instances
+* [Fediverse.to](https://www.fediverse.to/) - fediverse instance search
 
 ## Tools
 
@@ -147,6 +146,8 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [#FediBuzz](https://fedi.buzz/) - trending hashtags by language, live
 * [Followgraph](https://followgraph.vercel.app) - find users followed by many of the people you follow
 * [FediScope](https://eloquence.github.io/fediscope/) - find fediverse accounts for people in a field using Wikidata
+* [FediSearch](https://fedisearch.skorpil.cz/feeds?search=) - Search for people across indexed instances, via their bio/name
+
 
 ### Toot discovery
 
@@ -154,6 +155,8 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [mastodon_digest](https://github.com/hodgesmr/mastodon_digest) - Python script that aggregates recent popular posts from your Mastodon timeline 
 * [fediview](https://fediview.com/) - web app that aggregates the recent popular posts from your Mastodon timeline
 * [Quintessence](https://mastodon.uno/@quintsns) - If you follow this bot account it will periodically send you a DM with the latest links that have been shared the most among the people you follow.
+* [Blogofy](https://www.blogofy.com/) -  Search for hashtags across indexed instances, or discover currently trending hashtags across indexed instances
+* 
 
 ### Toot management
 
