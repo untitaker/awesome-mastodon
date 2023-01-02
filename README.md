@@ -3,7 +3,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [<img src="https://user-images.githubusercontent.com/1534150/209670098-41dfd725-792e-4591-8097-52d70a09269a.svg" align="right" alt="Mastodon logo" width="150">](https://joinmastodon.org)
@@ -347,6 +347,28 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/hueyy"><img src="https://avatars.githubusercontent.com/u/6523121?v=4" width="50px;" alt=""/><br /><sub><b>Huey</b></sub></a></td>
+      <td align="center"><a href="https://github.com/magbeat"><img src="https://avatars.githubusercontent.com/u/1089410?v=4" width="50px;" alt=""/><br /><sub><b>Markus Huggler</b></sub></a></td>
+      <td align="center"><a href="https://github.com/ctbk"><img src="https://avatars.githubusercontent.com/u/5497382?v=4" width="50px;" alt=""/><br /><sub><b>Stefano Bonora</b></sub></a></td>
+      <td align="center"><a href="https://github.com/wiegelmann"><img src="https://avatars.githubusercontent.com/u/6149471?v=4" width="50px;" alt=""/><br /><sub><b>jan</b></sub></a></td>
+      <td align="center"><a href="https://github.com/untitaker"><img src="https://avatars.githubusercontent.com/u/837573?v=4" width="50px;" alt=""/><br /><sub><b>Markus Unterwaditzer</b></sub></a></td>
+      <td align="center"><a href="https://github.com/mooseyboots"><img src="https://avatars.githubusercontent.com/u/66318400?v=4" width="50px;" alt=""/><br /><sub><b>mooseyboots</b></sub></a></td>
+      <td align="center"><a href="http://indiealexh.com"><img src="https://avatars.githubusercontent.com/u/1066212?v=4" width="50px;" alt=""/><br /><sub><b>Alexander Haslam</b></sub></a></td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td align="center" size="13px" colspan="7">
+        <img src="https://raw.githubusercontent.com/all-contributors/all-contributors-cli/1b8533af435da9854653492b1327a23a4dbd0a10/assets/logo-small.svg">
+          <a href="https://all-contributors.js.org/docs/en/bot/usage">Add your contributions</a>
+        </img>
+      </td>
+    </tr>
+  </tfoot>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
