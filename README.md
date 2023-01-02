@@ -148,6 +148,12 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Toot scheduler](https://scheduler.mastodon.tools/) - Schedule now, toot later.
 * [Thread counter by @axbom](https://xbm.se/fediverse/tc.php) - helps you split long posts into a numbered thread
 
+#### Lists
+
+* [hueyy/mastodon-lists-manager](https://mastodon-lists-manager.huey.xyz/) - tool for managing lists and followed users on Mastodon
+* [Mastolists](https://mastolists.novaloop.cloud) - tool for managing lists (list view, matrix view and table view)
+* [acbeers/mastodonlm](https://acbeers.github.io/mastodonlm/) - a simple list manager, bulit in the style of Twitter List Manager.
+
 ### Cross-posting
 
 * [Mastodon Twitter Crossposter](https://crossposter.masto.donte.com.br/) - Service to crosspost to and from Twitter (rate-limited by Twitter to 300 per hour for the entire application)
@@ -163,8 +169,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 ### Misc
 
 * [emojis.in](https://emojos.in/) - view the custom emojis available on a Mastodon instance
-* [Mastodon Lists Manager](https://mastodon-lists-manager.huey.xyz/) - tool for managing lists and followed users on Mastodon
-* [Mastolists](https://mastolists.novaloop.cloud) - tool for managing lists (list view, matrix view and table view)
+* [Mastodon Link Debugger](https://mastodon-link-debugger.vercel.app/) - figure out why your links do not get verified
 
 ## Extensions
 
