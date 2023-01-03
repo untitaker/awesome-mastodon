@@ -47,6 +47,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Planiverse](https://git.stjo.hn/planiverse/) - Minimalist, no-JS Web client for Mastodon.
 * [Sengi](https://nicolasconstant.github.io/sengi/) - Desktop oriented webapp for Mastodon and Pleroma, focused on multi-accounts usages.
 * [Phanpy](https://github.com/cheeaun/phanpy) - a minimalistic, opinionated web client for Mastodon
+* [Hyperspace](https://hyperspace.marquiskurt.net/) - layout options such as a masonry layout (no longer maintained)
 
 ### Mobile
 
@@ -84,6 +85,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 
 * [Whalebird](https://whalebird.social/en/desktop/contents) - Electron-based cross-platform Mastodon client
 * [Sengi](https://nicolasconstant.github.io/sengi/) - open source cross-platform Mastodon client
+* [The Desk](https://thedesk.top/)
 
 #### macOS
 
@@ -115,9 +117,13 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 - [Public spreadsheet of popular/famous/notable Mastodon accounts](https://docs.google.com/spreadsheets/d/1cpUKkoT1MUn8_xM4usiERn-IdEuh0hXfBrwbbThwGiI/edit)
 - [Mastodon Journalists and US Progressives](https://boskee.co.uk/mastodon-journalists/)
 - [Journalists on Mastodon and Fediverse](https://docs.google.com/spreadsheets/d/13No4yxY-oFrN8PigC2jBWXreFCHWwVRTftwP6HcREtA/edit)
+- [PressCheck](https://www.presscheck.org/) - find verified journalists on Mastodon
 - [The Walt List](https://docs.google.com/spreadsheets/d/1rNfUosPSiMwRbUAbnI3h-7D9grP6ULgS/edit#gid=1301725065) - Walt Shaub’s list of prolific posters — mostly US politics
 - [EduTooters Unite! - Mastodon #EduTooters and #K12Librarians Lists](https://docs.google.com/spreadsheets/d/1beJHWsuB0MJDMqeg_q8pBRWRdQImY-n8E6PttoJLFaM/edit)
 - [FediFied](https://www.fedified.com/) - notable Twitter users now in the Fediverse
+- [Trunk for the Fediverse](https://communitywiki.org/trunk) - a list of lists of users to follow
+- [Fedi.Directory](https://fedi.directory/) - human-curated small selection of interesting accounts to help you get started on Mastodon and the Fediverse
+- [Fediverse.info](https://fediverse.info/explore/people) - search for users who post about a certain topic
 
 ### Server Lists
 
@@ -239,6 +245,9 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [GnuSocial](https://gnu.io/social/) - Oldest microblogging platform.
 * [Pleroma](https://pleroma.social/) - Lightweight, customisable microblogging platform.
   * [Akkoma](https://akkoma.social/) - a Pleroma fork with more features and a faster pace of development
+* [Misskey](https://misskey-hub.net/en/) - feature-packed microblogging platform; supports reactions to posts
+  * [Calckey](https://codeberg.org/calckey/calckey) - fork of Misskey with better UI/UX, security, features, etc
+  * [Foundkey](https://akkoma.dev/FoundKeyGang/FoundKey) - fork of Misskey that improves on maintainability and behaviour, while also bringing in useful features.
 * [Microblog.pub](https://microblog.pub/) - Single-user lightweight microblogging platform.
 * [NextCloud Social](https://apps.nextcloud.com/apps/social) - Microblogging app for the Nextcloud platform.
 * [GotoSocial](https://github.com/superseriousbusiness/gotosocial) - fast and efficient ActivityPub server written in Golang, still in alpha
