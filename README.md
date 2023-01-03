@@ -186,6 +186,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 
 * [emojis.in](https://emojos.in/) - view the custom emojis available on a Mastodon instance
 * [Mastodon Link Debugger](https://mastodon-link-debugger.vercel.app/) - figure out why your links do not get verified
+* [Mastinator](https://mastinator.com/) - disposable public anonymous no-login Fediverse accounts
 
 ## Extensions
 
