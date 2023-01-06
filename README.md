@@ -48,6 +48,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Sengi](https://nicolasconstant.github.io/sengi/) - Desktop oriented webapp for Mastodon and Pleroma, focused on multi-accounts usages.
 * [Phanpy](https://github.com/cheeaun/phanpy) - a minimalistic, opinionated web client for Mastodon
 * [Hyperspace](https://hyperspace.marquiskurt.net/) - layout options such as a masonry layout (no longer maintained)
+* [Elk](https://elk.zone) - Twitter-like client
 
 ### Mobile
 
