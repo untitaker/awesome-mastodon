@@ -161,9 +161,8 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [unmung.com/mastoview](http://www.unmung.com/mastoview) - Preview the local or federated timeline of any instance.
 * [mastodon_digest](https://github.com/hodgesmr/mastodon_digest) - Python script that aggregates recent popular posts from your Mastodon timeline 
 * [fediview](https://fediview.com/) - web app that aggregates the recent popular posts from your Mastodon timeline
-* [Quintessence](https://mastodon.uno/@quintsns) - If you follow this bot account it will periodically send you a DM with the latest links that have been shared the most among the people you follow.
+* [Quintessence](https://quintsns.pianeta.uno/) - web page that generates the latest links that have been shared the most among the people you follow
 * [Blogofy](https://www.blogofy.com/) -  Search for hashtags across indexed instances, or discover currently trending hashtags across indexed instances
-* 
 
 ### Toot management
 
