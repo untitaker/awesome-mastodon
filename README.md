@@ -64,6 +64,8 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Subway Tooter](https://github.com/tateisu/SubwayTooter) - highly customisable Mastodon client for Android made by a Japanese developer
 * [Husky](https://husky.adol.pw/) - Pleroma and Mastodon client for Android
 * [Woolly](https://github.com/outadoc/woolly-app) - a Mastodon client built with Jetpack Compose and Compose Desktop
+* [Yuito](https://github.com/accelforce/Yuito) - a Mastodon client forked from Tusky by a Japanese developer
+* [Megalodon](https://github.com/sk22/megalodon) - a fork of the official Mastodon app adding certain features including the federated timeline, unlisted posting and an image description viewer
 
 #### iOS
 
@@ -77,6 +79,9 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Tootoise](https://apps.apple.com/us/app/tootoise/id1465090190) - simple Mastodon client for iOS, still in testing phase ([Testflight Link](https://testflight.apple.com/join/2LVAJQTP))
 * [Tusker](https://git.shadowfacts.net/shadowfacts/Tusker) - an iOS client for Mastodon and Pleroma; still a work in progress
 * [Mona](https://mastodon.social/@MonaApp) - Mastodon client for iOS; still in testing phase
+* [Tootle for Mastodon](https://apps.apple.com/us/app/tootle-for-mastodon/id1236013466) - an iPad Mastodon client
+* [Woolly for Mastodon](https://mastodon.social/@mttvll/109546787074477406) - an iOS Mastodon client still in the early stages of development; available [on Testflight](https://testflight.apple.com/join/2LVAJQTP) only
+* [Ice Cubes](https://github.com/Dimillian/IceCubesApp) - an iOS Mastodon client that is still under heavy development; available on [Testflight](https://testflight.apple.com/join/tqI3dK1u)
 
 #### SailfishOS
 
@@ -194,6 +199,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Mastodon Link Debugger](https://mastodon-link-debugger.vercel.app/) - figure out why your links do not get verified
 * [Mastinator](https://mastinator.com/) - disposable public anonymous no-login Fediverse accounts
 * [Mastodon Bookmark RSS](https://bookmark-rss.services.woodland.cafe/) - expose your bookmarks as private RSS feed to read later, or for archival
+* [Mastowatch](https://apps.apple.com/us/app/mastowatch/id1662271463) - iOS/macOS app that allows you to inspect the public config and details of any Mastodon server without having to log in or register
 
 ## Extensions
 
