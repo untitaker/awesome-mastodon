@@ -224,6 +224,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [NSFW Remover](https://greasyfork.org/fr/scripts/29228-mastodon-nsfw-remover) - Automatically display NSFW images.
 * [Customizable interface](https://openuserjs.org/scripts/bl00m/Mastodon_Customizable_Interface) - Move and resize columns on a grid.
 * [BirdSite](https://gitlab.com/pmorinerie/birdsite) - Browser extension for cross-posting Mastodon toots to Twitter.
+* [MastoVue Embedded](https://git.kaki87.net/KaKi87/userscripts/src/branch/master/mastovueEmbedded/README.md) - MastoVue embedded into Mastodon.
 
 ## Guides
 
