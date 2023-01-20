@@ -66,6 +66,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Woolly](https://github.com/outadoc/woolly-app) - a Mastodon client built with Jetpack Compose and Compose Desktop
 * [Yuito](https://github.com/accelforce/Yuito) - a Mastodon client forked from Tusky by a Japanese developer
 * [Megalodon](https://github.com/sk22/megalodon) - a fork of the official Mastodon app adding certain features including the federated timeline, unlisted posting and an image description viewer
+* [Moshidon](https://github.com/LucasGGamerM/moshidon) - a fork of the above-mentioned Megalodon app adding certain features and tweaks on top of Megalodon's features
 
 #### iOS
 
@@ -219,6 +220,8 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 
 * [Variable width](https://userstyles.org/styles/139721/mastodon-glitch-soc-variable-width) - Makes Mastodon scale with the browser's width.
 * [Narrow drawer](https://userstyles.org/styles/141457/mastodon-dynamic-wide-columns-narrow-drawer) - With the variable width style, makes the drawer narrower and the other columns scale accordingly.
+* [Mastodon Modern](https://userstyles.world/style/4773/mastodon-modern) - Drastically improves the look & feel of Mastodon. Can be used with other themes that only change colors.
+* [Mastodon Advanced View Plus](https://userstyles.world/style/7644/mastodon-advanced-view-plus) - Adds more options for Mastodon's advanced view.
 
 ### User scripts
 
