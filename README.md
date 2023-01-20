@@ -225,6 +225,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Customizable interface](https://openuserjs.org/scripts/bl00m/Mastodon_Customizable_Interface) - Move and resize columns on a grid.
 * [BirdSite](https://gitlab.com/pmorinerie/birdsite) - Browser extension for cross-posting Mastodon toots to Twitter.
 * [MastoVue Embedded](https://git.kaki87.net/KaKi87/userscripts/src/branch/master/mastovueEmbedded/README.md) - MastoVue embedded into Mastodon.
+* [Mastodon Redirector](https://git.kaki87.net/KaKi87/userscripts/src/branch/master/mastodonRedirector/README.md) - Redirect any Mastodon app to your favourite one.
 
 ## Guides
 
