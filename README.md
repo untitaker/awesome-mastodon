@@ -22,7 +22,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Tools](#tools)
 * [Browser Extensions](#extensions)
 * [Guides](#guides)
-* [Federated servers](#federated-servers)
+* [Federated services](#federated-services)
 * [Bots](#bots)
 * [Libraries](#libraries)
 * [FediAdmin](#fediadmin)
