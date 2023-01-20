@@ -111,6 +111,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 
 * [toot](https://github.com/ihabunek/toot) - Mastodon CLI client (Python).
 * [madonctl](https://github.com/McKael/madonctl) - Mastodon CLI client (Go).
+* [tut](https://github.com/RasmusLindroth/tut) - Mastodon TUI client (Go).
 
 ## Lists
 
