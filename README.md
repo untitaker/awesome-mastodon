@@ -41,7 +41,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 
 * [Tooty](https://github.com/n1k0/tooty) - Experimental multi-account Mastodon Web client (Elm).
 * [naumanni](https://github.com/naumanni/naumanni) - Web user interface specially designed for Mastodon.
-* [Pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon, focused on speed and simplicity.
+* [Pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon, focused on speed and simplicity. (no longer maintained)
 * [Brutaldon](https://git.carcosa.net/jmcbray/brutaldon) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon.
 * [Halcyon](https://notabug.org/halcyon-suite/halcyon) - Alternative web client for Mastodon and Pleroma with a Twitter-like interface.
 * [Planiverse](https://git.stjo.hn/planiverse/) - Minimalist, no-JS Web client for Mastodon.
