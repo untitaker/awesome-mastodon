@@ -144,6 +144,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [#Education Friendly #Mastodon Instances](https://www.mguhlin.org/2022/11/education-friendly-mastodon-instances.html)
 * [Fediversesearch](https://www.fediversesearch.com/) - search for instances
 * [Fediverse.to](https://www.fediverse.to/) - fediverse instance search
+* [Mapstodon](https://www.comeetie.fr/galerie/mapstodon/) - a graph visualisation of fediverse instances
 
 ## Tools
 
