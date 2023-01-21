@@ -210,6 +210,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Mastodon Link](https://github.com/masrly/mastodon-link) - Chrome extension that adds a clickable mastodon icon next to mastodon usernames to visit their profile on your instance for ease of following
 * [Mastodon View Profile](https://github.com/bramus/mastodon-view-profile) - Chrome extension that adds a button to the toolbar to visit a profile on your instance ease of following
 * [Graze for Mastodon](https://chrome.google.com/webstore/detail/graze-for-mastodon/epocinhmkc) - Chrome extension that enables 1-click follow, favorite, boost, and bookmark for Mastodon, no matter what instance you call home.
+* [StreetPass](https://streetpass.social/) - an extension that collects `rel=me` links from websites that you visit so you can find people to follow on Mastodon based on the sites you visit
 
 ### Bookmarklets
 
