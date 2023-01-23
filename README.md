@@ -193,6 +193,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Moa](https://moa.party/)
 * [brandur/mastodon-cross-post](https://github.com/brandur/mastodon-cross-post) - golang script that crossposts tweets to Mastodon
 * [AmauryCarrade/MastodonToTwitter](https://github.com/AmauryCarrade/MastodonToTwitter) - Mastodon ⬄ Twitter real-time cross-poster, using streaming APIs
+* [BirdsiteLIVE](https://birdsite.wilde.cloud/) - a tool to follow Twitter users on Mastodon easily (Feel free to deploy your own instance if you plan to follow a lot of users)
 
 ### Webpage
 
