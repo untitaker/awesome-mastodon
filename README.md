@@ -295,7 +295,6 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 ## Bots
 
 * [usercount](https://github.com/josefkenny/usercount) - Bot which posts user statistics to Mastodon (Python).
-* [autofollow](https://github.com/gled-rs/mastodon-autofollow) - Autofollow bot for Mastodon (Python).
 * [hnbot](https://github.com/raymestalez/mastodon-hnbot) - Posts the Hacker News stories with 100+ points (Python).
 * [translator](https://christopher.su/projects/translator/) - Translate any toot into the desired language using `@translator@toot.works [langcode]`.
 * [@TrendingBot@mastodon.social](https://mastodon.social/@TrendingBot) - Shows you what's trending on Mastodon.
