@@ -42,13 +42,15 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Tooty](https://github.com/n1k0/tooty) - Experimental multi-account Mastodon Web client (Elm).
 * [naumanni](https://github.com/naumanni/naumanni) - Web user interface specially designed for Mastodon.
 * [Pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon, focused on speed and simplicity. (no longer maintained)
+* [Semaphore](https://github.com/NickColley/semaphore) - a continuation of Pinafore
 * [Brutaldon](https://git.carcosa.net/jmcbray/brutaldon) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon.
 * [Halcyon](https://notabug.org/halcyon-suite/halcyon) - Alternative web client for Mastodon and Pleroma with a Twitter-like interface.
 * [Planiverse](https://git.stjo.hn/planiverse/) - Minimalist, no-JS Web client for Mastodon.
 * [Sengi](https://nicolasconstant.github.io/sengi/) - Desktop oriented webapp for Mastodon and Pleroma, focused on multi-accounts usages.
 * [Phanpy](https://github.com/cheeaun/phanpy) - a minimalistic, opinionated web client for Mastodon
 * [Hyperspace](https://hyperspace.marquiskurt.net/) - layout options such as a masonry layout (no longer maintained)
-* [Elk](https://elk.zone) - Twitter-like client
+* [Elk](https://elk.zone) - a nimble Mastodon web client
+* [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) - The comfy SNS client for everything, everywhere, available for Web, Windows, Linux and Android
 
 ### Mobile
 
@@ -93,6 +95,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Whalebird](https://whalebird.social/en/desktop/contents) - Electron-based cross-platform Mastodon client
 * [Sengi](https://nicolasconstant.github.io/sengi/) - open source cross-platform Mastodon client
 * [The Desk](https://thedesk.top/)
+* [Elk Native](https://github.com/elk-zone/elk-native) - Native version of Elk, a nimble Mastodon web client
 
 #### macOS
 
@@ -210,7 +213,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [FediAct](https://github.com/Lartsch/FediAct) - Chrome / Firefox extension that simplifies follow and post interactions on Mastodon servers other than your own.
 * [Mastodon Link](https://github.com/masrly/mastodon-link) - Chrome extension that adds a clickable mastodon icon next to mastodon usernames to visit their profile on your instance for ease of following
 * [Mastodon View Profile](https://github.com/bramus/mastodon-view-profile) - Chrome extension that adds a button to the toolbar to visit a profile on your instance ease of following
-* [Graze for Mastodon](https://chrome.google.com/webstore/detail/graze-for-mastodon/epocinhmkc) - Chrome extension that enables 1-click follow, favorite, boost, and bookmark for Mastodon, no matter what instance you call home.
+* [Graze for Mastodon](https://graze.jaredzimmerman.com/) - Chrome & Firefox extension that enables 1-click follow, favorite, boost, and bookmark for Mastodon, no matter what instance you call home.
 * [StreetPass](https://streetpass.social/) - an extension that collects `rel=me` links from websites that you visit so you can find people to follow on Mastodon based on the sites you visit
 
 ### Bookmarklets
@@ -248,7 +251,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 
 - [#MastodonNews Archive](https://docs.google.com/spreadsheets/d/1d5Q6oyzrlfXBEhHsLI9cxltdFV_XPrZWQj1mj8Ivc7Q/edit)
 - [Twitter is Going Great!](https://twitterisgoinggreat.com/)
-- [Matodon: a partial history](https://privacy.thenexus.today/mastodon-a-partial-history/)
+- [Mastodon: a partial history](https://privacy.thenexus.today/mastodon-a-partial-history/)
 
 ## Federated services
 
