@@ -42,7 +42,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Tooty](https://github.com/n1k0/tooty) - Experimental multi-account Mastodon Web client (Elm).
 * [naumanni](https://github.com/naumanni/naumanni) - Web user interface specially designed for Mastodon.
 * [Pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon, focused on speed and simplicity. (no longer maintained)
-* [Semaphore](https://github.com/NickColley/semaphore) - a continuation of Pinafore
+  * [Semaphore](https://github.com/NickColley/semaphore) - a continuation of Pinafore
 * [Brutaldon](https://git.carcosa.net/jmcbray/brutaldon) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon.
 * [Halcyon](https://notabug.org/halcyon-suite/halcyon) - Alternative web client for Mastodon and Pleroma with a Twitter-like interface.
 * [Planiverse](https://git.stjo.hn/planiverse/) - Minimalist, no-JS Web client for Mastodon.
@@ -51,11 +51,18 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Hyperspace](https://hyperspace.marquiskurt.net/) - layout options such as a masonry layout (no longer maintained)
 * [Elk](https://elk.zone) - a nimble Mastodon web client
 * [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) - The comfy SNS client for everything, everywhere, available for Web, Windows, Linux and Android
+* [Chirr App](https://getchirrapp.com/) - a web app that intelligently splits a long tweets into a thread; pro users [can crosspost their toots and threads to Mastodon](https://getchirrapp.com/new/2022-11-5)
+* [Cuckoo+](https://www.cuckoo.social) - a GooglePlus-like third-party web client for Mastodon
+* [Mastodeck](https://mastodeck.com/) - a Tweetdeck-like interface for Mastodon; 'advanced' interface with multiple verticle columns; highly customisable
 
 ### Mobile
 
 * [Mastodon](https://joinmastodon.org/apps) - official Mastodon mobile app, available for both [Android](https://play.google.com/store/apps/details?id=org.joinmastodon.android) and [iOS](https://apps.apple.com/us/app/mastodon-for-iphone/id1571998974)
 * [tooot](https://tooot.app/) - simple, elegant, open source mobile client, available for both [Android](https://play.google.com/store/apps/details?id=com.xmflsct.app.tooot) and [iOS](https://apps.apple.com/app/id1549772269)
+
+Comparison lists:
+
+- [Mastodon apps feature comparison](https://docs.google.com/spreadsheets/d/1De5KRwqMIdwEryfoeBLARgxF7QgKkeOQBCilKuIdAXE/edit#gid=0) - Collaborative Google sheet that provides a comparison of features across the various Android and iOS Mastodon apps
 
 
 #### Android
@@ -80,11 +87,17 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Mammoth](https://testflight.apple.com/join/HyL7boSn) - Mastodon client for iOS by the maker of Aviary for Twitter, still in beta
 * [Ivory](https://tapbots.social/@ivory) - Mastodon client for iOS by Tapbots, still in alpha
 * [Tootoise](https://apps.apple.com/us/app/tootoise/id1465090190) - simple Mastodon client for iOS, still in testing phase ([Testflight Link](https://testflight.apple.com/join/2LVAJQTP))
-* [Tusker](https://git.shadowfacts.net/shadowfacts/Tusker) - an iOS client for Mastodon and Pleroma; still a work in progress
+* [Tusker](https://vaccor.space/tusker/) - an iOS client for Mastodon and Pleroma; still a work in progress
 * [Mona](https://mastodon.social/@MonaApp) - Mastodon client for iOS; still in testing phase
 * [Tootle for Mastodon](https://apps.apple.com/us/app/tootle-for-mastodon/id1236013466) - an iPad Mastodon client
 * [Woolly for Mastodon](https://mastodon.social/@mttvll/109546787074477406) - an iOS Mastodon client still in the early stages of development; available [on Testflight](https://testflight.apple.com/join/2LVAJQTP) only
 * [Ice Cubes](https://github.com/Dimillian/IceCubesApp) - an iOS Mastodon client that is still under heavy development; available on [Testflight](https://testflight.apple.com/join/tqI3dK1u)
+* [Trunk](https://mastodon.social/@davbeck/109509705243442173) - an iOS Mastodon client with a unique scrolling concept: Instead of scrolling vertically through your timeline, Trunk shows the full detail of each post, and you swipe right to left to go through the timeline. This may encourage better engagement and more focus on each individual post.
+* [Mastoon](https://apps.apple.com/us/app/mastoon-for-mastodon/id1633757607) - a simple iOS Mastodon client
+
+Sharing apps:
+
+- [Linky](https://pragmaticcode.com/linky/) - lets you easily share webpage links, images and text extracts to Mastodon
 
 #### SailfishOS
 
