@@ -3,7 +3,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [<img src="https://user-images.githubusercontent.com/1534150/209670098-41dfd725-792e-4591-8097-52d70a09269a.svg" align="right" alt="Mastodon logo" width="150">](https://joinmastodon.org)
@@ -42,7 +42,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Tooty](https://github.com/n1k0/tooty) - Experimental multi-account Mastodon Web client (Elm).
 * [naumanni](https://github.com/naumanni/naumanni) - Web user interface specially designed for Mastodon.
 * [Pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon, focused on speed and simplicity. (no longer maintained)
-* [Semaphore](https://github.com/NickColley/semaphore) - a continuation of Pinafore
+  * [Semaphore](https://github.com/NickColley/semaphore) - a continuation of Pinafore
 * [Brutaldon](https://git.carcosa.net/jmcbray/brutaldon) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon.
 * [Halcyon](https://notabug.org/halcyon-suite/halcyon) - Alternative web client for Mastodon and Pleroma with a Twitter-like interface.
 * [Planiverse](https://git.stjo.hn/planiverse/) - Minimalist, no-JS Web client for Mastodon.
@@ -51,11 +51,18 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Hyperspace](https://hyperspace.marquiskurt.net/) - layout options such as a masonry layout (no longer maintained)
 * [Elk](https://elk.zone) - a nimble Mastodon web client
 * [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) - The comfy SNS client for everything, everywhere, available for Web, Windows, Linux and Android
+* [Chirr App](https://getchirrapp.com/) - a web app that intelligently splits a long tweets into a thread; pro users [can crosspost their toots and threads to Mastodon](https://getchirrapp.com/new/2022-11-5)
+* [Cuckoo+](https://www.cuckoo.social) - a GooglePlus-like third-party web client for Mastodon
+* [Mastodeck](https://mastodeck.com/) - a Tweetdeck-like interface for Mastodon; 'advanced' interface with multiple verticle columns; highly customisable
 
 ### Mobile
 
 * [Mastodon](https://joinmastodon.org/apps) - official Mastodon mobile app, available for both [Android](https://play.google.com/store/apps/details?id=org.joinmastodon.android) and [iOS](https://apps.apple.com/us/app/mastodon-for-iphone/id1571998974)
 * [tooot](https://tooot.app/) - simple, elegant, open source mobile client, available for both [Android](https://play.google.com/store/apps/details?id=com.xmflsct.app.tooot) and [iOS](https://apps.apple.com/app/id1549772269)
+
+Comparison lists:
+
+- [Mastodon apps feature comparison](https://docs.google.com/spreadsheets/d/1De5KRwqMIdwEryfoeBLARgxF7QgKkeOQBCilKuIdAXE/edit#gid=0) - Collaborative Google sheet that provides a comparison of features across the various Android and iOS Mastodon apps
 
 
 #### Android
@@ -80,11 +87,17 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Mammoth](https://testflight.apple.com/join/HyL7boSn) - Mastodon client for iOS by the maker of Aviary for Twitter, still in beta
 * [Ivory](https://tapbots.social/@ivory) - Mastodon client for iOS by Tapbots, still in alpha
 * [Tootoise](https://apps.apple.com/us/app/tootoise/id1465090190) - simple Mastodon client for iOS, still in testing phase ([Testflight Link](https://testflight.apple.com/join/2LVAJQTP))
-* [Tusker](https://git.shadowfacts.net/shadowfacts/Tusker) - an iOS client for Mastodon and Pleroma; still a work in progress
+* [Tusker](https://vaccor.space/tusker/) - an iOS client for Mastodon and Pleroma; still a work in progress
 * [Mona](https://mastodon.social/@MonaApp) - Mastodon client for iOS; still in testing phase
 * [Tootle for Mastodon](https://apps.apple.com/us/app/tootle-for-mastodon/id1236013466) - an iPad Mastodon client
 * [Woolly for Mastodon](https://mastodon.social/@mttvll/109546787074477406) - an iOS Mastodon client still in the early stages of development; available [on Testflight](https://testflight.apple.com/join/2LVAJQTP) only
 * [Ice Cubes](https://github.com/Dimillian/IceCubesApp) - an iOS Mastodon client that is still under heavy development; available on [Testflight](https://testflight.apple.com/join/tqI3dK1u)
+* [Trunk](https://mastodon.social/@davbeck/109509705243442173) - an iOS Mastodon client with a unique scrolling concept: Instead of scrolling vertically through your timeline, Trunk shows the full detail of each post, and you swipe right to left to go through the timeline. This may encourage better engagement and more focus on each individual post.
+* [Mastoon](https://apps.apple.com/us/app/mastoon-for-mastodon/id1633757607) - a simple iOS Mastodon client
+
+Sharing apps:
+
+- [Linky](https://pragmaticcode.com/linky/) - lets you easily share webpage links, images and text extracts to Mastodon
 
 #### SailfishOS
 
@@ -199,6 +212,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 
 * [emfed](https://github.com/sampsyo/emfed) - embed your Mastodon feed onto a web page
 * [Last](https://framagit.org/luc/last) - aggregates toots on a web page providing Atom feed and an epub (Perl).
+* [JustMyToots](https://github.com/cookiemumbles/justmytoots.com) - create a simple site that displays the toots but not the boosts for a particular user. It helps people that want to showcase their toots, for example when doing jokes, drawings, photos or any other form of content people might want to look back through.
 
 ### Misc
 
@@ -382,13 +396,19 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/hueyy"><img src="https://avatars.githubusercontent.com/u/6523121?v=4" width="50px;" alt=""/><br /><sub><b>Huey</b></sub></a></td>
-      <td align="center"><a href="https://github.com/magbeat"><img src="https://avatars.githubusercontent.com/u/1089410?v=4" width="50px;" alt=""/><br /><sub><b>Markus Huggler</b></sub></a></td>
-      <td align="center"><a href="https://github.com/ctbk"><img src="https://avatars.githubusercontent.com/u/5497382?v=4" width="50px;" alt=""/><br /><sub><b>Stefano Bonora</b></sub></a></td>
-      <td align="center"><a href="https://github.com/wiegelmann"><img src="https://avatars.githubusercontent.com/u/6149471?v=4" width="50px;" alt=""/><br /><sub><b>jan</b></sub></a></td>
-      <td align="center"><a href="https://github.com/untitaker"><img src="https://avatars.githubusercontent.com/u/837573?v=4" width="50px;" alt=""/><br /><sub><b>Markus Unterwaditzer</b></sub></a></td>
-      <td align="center"><a href="https://github.com/mooseyboots"><img src="https://avatars.githubusercontent.com/u/66318400?v=4" width="50px;" alt=""/><br /><sub><b>mooseyboots</b></sub></a></td>
-      <td align="center"><a href="http://indiealexh.com"><img src="https://avatars.githubusercontent.com/u/1066212?v=4" width="50px;" alt=""/><br /><sub><b>Alexander Haslam</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/hueyy"><img src="https://avatars.githubusercontent.com/u/6523121?v=4?s=50" width="50px;" alt="Huey"/><br /><sub><b>Huey</b></sub></a><br /><a href="#maintenance-hueyy" title="Maintenance">🚧</a> <a href="#content-hueyy" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/magbeat"><img src="https://avatars.githubusercontent.com/u/1089410?v=4?s=50" width="50px;" alt="Markus Huggler"/><br /><sub><b>Markus Huggler</b></sub></a><br /><a href="#content-magbeat" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ctbk"><img src="https://avatars.githubusercontent.com/u/5497382?v=4?s=50" width="50px;" alt="Stefano Bonora"/><br /><sub><b>Stefano Bonora</b></sub></a><br /><a href="#content-ctbk" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/wiegelmann"><img src="https://avatars.githubusercontent.com/u/6149471?v=4?s=50" width="50px;" alt="jan"/><br /><sub><b>jan</b></sub></a><br /><a href="#content-wiegelmann" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/untitaker"><img src="https://avatars.githubusercontent.com/u/837573?v=4?s=50" width="50px;" alt="Markus Unterwaditzer"/><br /><sub><b>Markus Unterwaditzer</b></sub></a><br /><a href="#content-untitaker" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/mooseyboots"><img src="https://avatars.githubusercontent.com/u/66318400?v=4?s=50" width="50px;" alt="mooseyboots"/><br /><sub><b>mooseyboots</b></sub></a><br /><a href="#content-mooseyboots" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://indiealexh.com"><img src="https://avatars.githubusercontent.com/u/1066212?v=4?s=50" width="50px;" alt="Alexander Haslam"/><br /><sub><b>Alexander Haslam</b></sub></a><br /><a href="#content-indiealexh" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://git.kaki87.net/KaKi87"><img src="https://avatars.githubusercontent.com/u/21284089?v=4?s=50" width="50px;" alt="KaKi87"/><br /><sub><b>KaKi87</b></sub></a><br /><a href="#content-KaKi87" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/funkycode"><img src="https://avatars.githubusercontent.com/u/594204?v=4?s=50" width="50px;" alt="Misha Ketslah"/><br /><sub><b>Misha Ketslah</b></sub></a><br /><a href="#content-funkycode" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/xeno"><img src="https://avatars.githubusercontent.com/u/105107?v=4?s=50" width="50px;" alt="Jimmy Thomas"/><br /><sub><b>Jimmy Thomas</b></sub></a><br /><a href="#content-xeno" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://fosstodon.org/@Nive9"><img src="https://avatars.githubusercontent.com/u/29470670?v=4?s=50" width="50px;" alt="Kevin"/><br /><sub><b>Kevin</b></sub></a><br /><a href="#content-Nive9" title="Content">🖋</a></td>
     </tr>
   </tbody>
   <tfoot>
