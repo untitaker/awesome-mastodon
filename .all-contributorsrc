@@ -86,6 +86,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "xeno",
+      "name": "Jimmy Thomas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105107?v=4",
+      "profile": "https://github.com/xeno",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "commitConvention": "angular"
