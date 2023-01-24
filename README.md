@@ -3,7 +3,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [<img src="https://user-images.githubusercontent.com/1534150/209670098-41dfd725-792e-4591-8097-52d70a09269a.svg" align="right" alt="Mastodon logo" width="150">](https://joinmastodon.org)
@@ -394,13 +394,16 @@ Sharing apps:
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/hueyy"><img src="https://avatars.githubusercontent.com/u/6523121?v=4" width="50px;" alt=""/><br /><sub><b>Huey</b></sub></a></td>
-      <td align="center"><a href="https://github.com/magbeat"><img src="https://avatars.githubusercontent.com/u/1089410?v=4" width="50px;" alt=""/><br /><sub><b>Markus Huggler</b></sub></a></td>
-      <td align="center"><a href="https://github.com/ctbk"><img src="https://avatars.githubusercontent.com/u/5497382?v=4" width="50px;" alt=""/><br /><sub><b>Stefano Bonora</b></sub></a></td>
-      <td align="center"><a href="https://github.com/wiegelmann"><img src="https://avatars.githubusercontent.com/u/6149471?v=4" width="50px;" alt=""/><br /><sub><b>jan</b></sub></a></td>
-      <td align="center"><a href="https://github.com/untitaker"><img src="https://avatars.githubusercontent.com/u/837573?v=4" width="50px;" alt=""/><br /><sub><b>Markus Unterwaditzer</b></sub></a></td>
-      <td align="center"><a href="https://github.com/mooseyboots"><img src="https://avatars.githubusercontent.com/u/66318400?v=4" width="50px;" alt=""/><br /><sub><b>mooseyboots</b></sub></a></td>
-      <td align="center"><a href="http://indiealexh.com"><img src="https://avatars.githubusercontent.com/u/1066212?v=4" width="50px;" alt=""/><br /><sub><b>Alexander Haslam</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/hueyy"><img src="https://avatars.githubusercontent.com/u/6523121?v=4?s=50" width="50px;" alt="Huey"/><br /><sub><b>Huey</b></sub></a><br /><a href="#maintenance-hueyy" title="Maintenance">🚧</a> <a href="#content-hueyy" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/magbeat"><img src="https://avatars.githubusercontent.com/u/1089410?v=4?s=50" width="50px;" alt="Markus Huggler"/><br /><sub><b>Markus Huggler</b></sub></a><br /><a href="#content-magbeat" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ctbk"><img src="https://avatars.githubusercontent.com/u/5497382?v=4?s=50" width="50px;" alt="Stefano Bonora"/><br /><sub><b>Stefano Bonora</b></sub></a><br /><a href="#content-ctbk" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/wiegelmann"><img src="https://avatars.githubusercontent.com/u/6149471?v=4?s=50" width="50px;" alt="jan"/><br /><sub><b>jan</b></sub></a><br /><a href="#content-wiegelmann" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/untitaker"><img src="https://avatars.githubusercontent.com/u/837573?v=4?s=50" width="50px;" alt="Markus Unterwaditzer"/><br /><sub><b>Markus Unterwaditzer</b></sub></a><br /><a href="#content-untitaker" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/mooseyboots"><img src="https://avatars.githubusercontent.com/u/66318400?v=4?s=50" width="50px;" alt="mooseyboots"/><br /><sub><b>mooseyboots</b></sub></a><br /><a href="#content-mooseyboots" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://indiealexh.com"><img src="https://avatars.githubusercontent.com/u/1066212?v=4?s=50" width="50px;" alt="Alexander Haslam"/><br /><sub><b>Alexander Haslam</b></sub></a><br /><a href="#content-indiealexh" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://git.kaki87.net/KaKi87"><img src="https://avatars.githubusercontent.com/u/21284089?v=4?s=50" width="50px;" alt="KaKi87"/><br /><sub><b>KaKi87</b></sub></a><br /><a href="#content-KaKi87" title="Content">🖋</a></td>
     </tr>
   </tbody>
   <tfoot>
