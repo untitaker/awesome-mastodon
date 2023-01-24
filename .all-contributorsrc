@@ -10,8 +10,7 @@
   "commit": true,
   "contributorsPerLine": 7,
   "contributorsSortAlphabetically": false,
-  "types": {
-  },
+  "types": {},
   "linkToUsage": true,
   "skipCi": false,
   "contributors": [
@@ -75,6 +74,15 @@
       "name": "Alexander Haslam",
       "avatar_url": "https://avatars.githubusercontent.com/u/1066212?v=4",
       "profile": "http://indiealexh.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "KaKi87",
+      "name": "KaKi87",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21284089?v=4",
+      "profile": "https://git.kaki87.net/KaKi87",
       "contributions": [
         "content"
       ]
