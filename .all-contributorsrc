@@ -10,8 +10,7 @@
   "commit": true,
   "contributorsPerLine": 7,
   "contributorsSortAlphabetically": false,
-  "types": {
-  },
+  "types": {},
   "linkToUsage": true,
   "skipCi": false,
   "contributors": [
@@ -75,6 +74,39 @@
       "name": "Alexander Haslam",
       "avatar_url": "https://avatars.githubusercontent.com/u/1066212?v=4",
       "profile": "http://indiealexh.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "KaKi87",
+      "name": "KaKi87",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21284089?v=4",
+      "profile": "https://git.kaki87.net/KaKi87",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "name": "Misha Ketslah",
+      "avatar_url": "https://avatars.githubusercontent.com/u/594204?v=4",
+      "profile": "https://github.com/funkycode",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "xeno",
+      "name": "Jimmy Thomas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105107?v=4",
+      "profile": "https://github.com/xeno",
+      "login": "funkycode",
+    },
+    {
+      "login": "Nive9",
+      "name": "Kevin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29470670?v=4",
+      "profile": "https://fosstodon.org/@Nive9",
       "contributions": [
         "content"
       ]
