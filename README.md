@@ -309,13 +309,18 @@ Sharing apps:
 
 ## Bots
 
+### Bot accounts
+
+* [Please Caption Bot](https://botsin.space/@PleaseCaption) - A bot that reminds you to caption your toots' images and videos (e.g. to help the visually impaired). [Source code](https://glitch.com/edit/#!/please-caption-mastodon)
+* [Trending Bot](https://mastodon.social/@TrendingBot) - Shows you what's trending on Mastodon.
+
+### Bots for self-hosting
+
 * [usercount](https://github.com/josefkenny/usercount) - Bot which posts user statistics to Mastodon (Python).
 * [autofollow](https://github.com/gled-rs/mastodon-autofollow) - Autofollow bot for Mastodon (Python).
 * [hnbot](https://github.com/raymestalez/mastodon-hnbot) - Posts the Hacker News stories with 100+ points (Python).
-* [translator](https://christopher.su/projects/translator/) - Translate any toot into the desired language using `@translator@toot.works [langcode]`.
-* [@TrendingBot@mastodon.social](https://mastodon.social/@TrendingBot) - Shows you what's trending on Mastodon.
 * [Remindr](https://gitlab.com/chaica/remindr) - Automatically send reminders to both Mastodon and Twitter from a list of resources (Python).
-* [News Bot](https://botsin.space/@newsbot) - mirrors Twitter accounts on Mastodon (ClojureScript), source available on [GitHub](https://github.com/yogthos/mastodon-bot).
+* [News Bot](https://github.com/yogthos/mastodon-bot) - mirrors Twitter accounts on Mastodon (ClojureScript).
 * [Welcome Bot](https://github.com/indyhall/mastodon-welcome-bot) - Automatically send a welcome DM to new users (Python).
 
 ### RSS
