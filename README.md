@@ -309,6 +309,7 @@ Sharing apps:
 
 ## Bots
 
+* [Please Caption Bot](https://botsin.space/@PleaseCaption) - A bot that reminds you to caption your toots' images and videos (e.g. to help the visually impaired). [Source code](https://glitch.com/edit/#!/please-caption-mastodon)
 * [usercount](https://github.com/josefkenny/usercount) - Bot which posts user statistics to Mastodon (Python).
 * [autofollow](https://github.com/gled-rs/mastodon-autofollow) - Autofollow bot for Mastodon (Python).
 * [hnbot](https://github.com/raymestalez/mastodon-hnbot) - Posts the Hacker News stories with 100+ points (Python).
