@@ -317,7 +317,6 @@ Sharing apps:
 ### Bots for self-hosting
 
 * [usercount](https://github.com/josefkenny/usercount) - Bot which posts user statistics to Mastodon (Python).
-* [autofollow](https://github.com/gled-rs/mastodon-autofollow) - Autofollow bot for Mastodon (Python).
 * [hnbot](https://github.com/raymestalez/mastodon-hnbot) - Posts the Hacker News stories with 100+ points (Python).
 * [Remindr](https://gitlab.com/chaica/remindr) - Automatically send reminders to both Mastodon and Twitter from a list of resources (Python).
 * [News Bot](https://github.com/yogthos/mastodon-bot) - mirrors Twitter accounts on Mastodon (ClojureScript).
