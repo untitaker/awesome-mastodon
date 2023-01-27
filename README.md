@@ -57,9 +57,6 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 
 ### Mobile
 
-* [Mastodon](https://joinmastodon.org/apps) - official Mastodon mobile app, available for both [Android](https://play.google.com/store/apps/details?id=org.joinmastodon.android) and [iOS](https://apps.apple.com/us/app/mastodon-for-iphone/id1571998974)
-* [tooot](https://tooot.app/) - simple, elegant, open source mobile client, available for both [Android](https://play.google.com/store/apps/details?id=com.xmflsct.app.tooot) and [iOS](https://apps.apple.com/app/id1549772269)
-
 Comparison lists:
 
 - [Mastodon apps feature comparison](https://docs.google.com/spreadsheets/d/1De5KRwqMIdwEryfoeBLARgxF7QgKkeOQBCilKuIdAXE/edit#gid=0) - Collaborative Google sheet that provides a comparison of features across the various Android and iOS Mastodon apps
@@ -83,6 +80,7 @@ Comparison lists:
 * [Ivory](https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274) ([Website](https://tapbots.com/ivory/) | [Mastodon](https://tapbots.social/@ivory) || **paid**) - by the makers of TweetBot for Twitter, *in Early Access*
 * [Mammoth *Testflight*](https://testflight.apple.com/join/ejJ70WEq) ([Website](https://getmammoth.app/) | [Mastodon](https://moth.social/@mammoth)) - a beautiful Mastodon app by the maker of Aviary for Twitter, *in beta*
 * [Mast: for Mastodon](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129) ([Website](https://www.pnguin.app/) || **paid**) - a beautiful Mastodon app built with macOS design guidelines in mind
+* [Mastodon](https://apps.apple.com/us/app/mastodon-for-iphone/id1571998974) ([Website](https://joinmastodon.org/apps)) - the official Mastodon mobile app
 <!-- * [Mastoon](https://apps.apple.com/us/app/mastoon-for-mastodon/id1633757607) - *link invalid/ removed* -->
 * [Mastoot](https://apps.apple.com/us/app/mastoot/id1501485410) ([Website](https://mastoot.app/) | [Mastodon](https://mastodon.online/@Mastoot)) - a simple client app for Mastodon
 * [Mercury for Mastodon](https://apps.apple.com/us/app/mercury-for-mastodon/id1486749200) ([Website](https://onmercury.app/)) -  a customisable client for the Mastodon and Pleroma social networks
