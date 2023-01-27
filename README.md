@@ -424,9 +424,9 @@ Sharing apps:
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://git.kaki87.net/KaKi87"><img src="https://avatars.githubusercontent.com/u/21284089?v=4?s=50" width="50px;" alt="KaKi87"/><br /><sub><b>KaKi87</b></sub></a><br /><a href="#content-KaKi87" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/funkycode"><img src="https://avatars.githubusercontent.com/u/594204?v=4?s=50" width="50px;" alt="Misha Ketslah"/><br /><sub><b>Misha Ketslah</b></sub></a><br /><a href="#content-funkycode" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/funkycode"><img src="https://avatars.githubusercontent.com/u/594204?v=4?s=50" width="50px;" alt="Misha Ketslah"/><br /><sub><b>Misha Ketslah</b></sub></a><br /><a href="#content" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/xeno"><img src="https://avatars.githubusercontent.com/u/105107?v=4?s=50" width="50px;" alt="Jimmy Thomas"/><br /><sub><b>Jimmy Thomas</b></sub></a><br /><a href="#content-xeno" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://fosstodon.org/@Nive9"><img src="https://avatars.githubusercontent.com/u/29470670?v=4?s=50" width="50px;" alt="Kevin"/><br /><sub><b>Kevin</b></sub></a><br /><a href="#content-Nive9" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://fosstodon.org/@Nive9"><img src="https://avatars.githubusercontent.com/u/29470670?v=4?s=50" width="50px;" alt="Kevin"/><br /><sub><b>Kevin</b></sub></a><br /><a href="#content-Nive9" title="Content">🖋</a> <a href="#maintenance-Nive9" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
   <tfoot>
