@@ -79,21 +79,25 @@ Comparison lists:
 
 #### iOS
 
-* [Toot!](https://apps.apple.com/us/app/toot/id1229021451) - paid Mastodon client for iOS.
-* [Metatext](https://metabolist.org/) - open source client for iOS; development has currently been suspended
-* [Mercury for Mastodon](https://apps.apple.com/us/app/mercury-for-mastodon/id1486749200) - free Mastodon client for iOS
-* [Mastoot](https://apps.apple.com/us/app/mastoot/id1501485410) - simple, free Mastodon client for iOS
-* [Mast: for Mastodon](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129) - paid Mastodon client for iOS
-* [Mammoth](https://testflight.apple.com/join/HyL7boSn) - Mastodon client for iOS by the maker of Aviary for Twitter, still in beta
-* [Ivory](https://tapbots.social/@ivory) - Mastodon client for iOS by Tapbots, still in alpha
-* [Tootoise](https://apps.apple.com/us/app/tootoise/id1465090190) - simple Mastodon client for iOS, still in testing phase ([Testflight Link](https://testflight.apple.com/join/2LVAJQTP))
-* [Tusker](https://vaccor.space/tusker/) - an iOS client for Mastodon and Pleroma; still a work in progress
-* [Mona](https://mastodon.social/@MonaApp) - Mastodon client for iOS; still in testing phase
-* [Tootle for Mastodon](https://apps.apple.com/us/app/tootle-for-mastodon/id1236013466) - an iPad Mastodon client
-* [Woolly for Mastodon](https://mastodon.social/@mttvll/109546787074477406) - an iOS Mastodon client still in the early stages of development; available [on Testflight](https://testflight.apple.com/join/2LVAJQTP) only
-* [Ice Cubes](https://github.com/Dimillian/IceCubesApp) - an iOS Mastodon client that is still under heavy development; available on [Testflight](https://testflight.apple.com/join/tqI3dK1u)
-* [Trunk](https://mastodon.social/@davbeck/109509705243442173) - an iOS Mastodon client with a unique scrolling concept: Instead of scrolling vertically through your timeline, Trunk shows the full detail of each post, and you swipe right to left to go through the timeline. This may encourage better engagement and more focus on each individual post.
-* [Mastoon](https://apps.apple.com/us/app/mastoon-for-mastodon/id1633757607) - a simple iOS Mastodon client
+* [Ice Cubes](https://apps.apple.com/gb/app/ice-cubes-for-mastodon/id6444915884) ([Mastodon](https://mastodon.cloud/@icecubesapp) | [Testflight](https://testflight.apple.com/join/tqI3dK1u) | [GitHub](https://github.com/Dimillian/IceCubesApp)) - a fast, reliable and beautiful Mastodon client
+* [Ivory](https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274) ([Website](https://tapbots.com/ivory/) | [Mastodon](https://tapbots.social/@ivory) || **paid**) - by the makers of TweetBot for Twitter, *in Early Access*
+* [Mammoth *Testflight*](https://testflight.apple.com/join/ejJ70WEq) ([Website](https://getmammoth.app/) | [Mastodon](https://moth.social/@mammoth)) - a beautiful Mastodon app by the maker of Aviary for Twitter, *in beta*
+* [Mast: for Mastodon](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129) ([Website](https://www.pnguin.app/) || **paid**) - a beautiful Mastodon app built with macOS design guidelines in mind
+<!-- * [Mastoon](https://apps.apple.com/us/app/mastoon-for-mastodon/id1633757607) - *link invalid/ removed* -->
+* [Mastoot](https://apps.apple.com/us/app/mastoot/id1501485410) ([Website](https://mastoot.app/) | [Mastodon](https://mastodon.online/@Mastoot)) - a simple client app for Mastodon
+* [Mercury for Mastodon](https://apps.apple.com/us/app/mercury-for-mastodon/id1486749200) ([Website](https://onmercury.app/)) -  a customisable client for the Mastodon and Pleroma social networks
+* [Metatext](https://apps.apple.com/us/app/metatext/id1523996615) ([Website](https://metabolist.org/) | [GitHub](https://github.com/metabolist/metatext)) - a modern and accessible Mastodon client, *development has currently been suspended*
+<!-- * Mona ([Mastodon](https://mastodon.social/@MonaApp)) - superfast performance, truly native design and a highly customizable user interface *Release: Spring '23* -->
+* [Osakadon](https://apps.apple.com/app/id1239260388) ([Mastodon](https://mstdn.osaka/@osakadon_ios)) **Japanese language only**
+* [Oyakodon](https://apps.apple.com/gb/app/oyakodon-for-mastodon/id1229174544) ([Mastodon](https://mstdn.jp/@isaotakeyasu) - supports switching Mastodon instances by just swiping
+* [tooot](https://apps.apple.com/gb/app/tooot/id1549772269) ([Website](https://tooot.app/) | [GitHub](https://github.com/tooot-app/app)) -  a simple mobile client of Mastodon, started with a focus for Chinese community
+* [Toot!](https://apps.apple.com/us/app/toot/id1229021451) ([Mastodon](https://mastodon.social/@tootapp) || **paid**) - a beautiful, and full of character and whimsy
+* [Tootter](https://apps.apple.com/us/app/tootter-for-mastodon/id1629293955) - a simple Mastodon client
+* [Tootle for Mastodon](https://apps.apple.com/us/app/tootle-for-mastodon/id1236013466) ([Mastodon](https://mastodon.cloud/@tootleapp)) - a multifunctional Mastodon client
+* [Tootoise](https://apps.apple.com/us/app/tootoise/id1465090190) ([Mastodon](https://mastodon.social/@tootoise)) - a simple Mastodon client
+* [Trunk *Testflight*](https://testflight.apple.com/join/1ir4E70u) ([Mastodon](https://mastodon.social/@davbeck)) - with a unique scrolling concept for better engagement and more focus on each individual post.
+* [Tusker](https://apps.apple.com/gb/app/tusker/id1498334597) ([Website](https://vaccor.space/tusker/) | [Git](https://git.shadowfacts.net/shadowfacts/Tusker)) - a flexible client for Mastodon and other compatible services
+* [Woolly for Mastodon *Testflight*](https://testflight.apple.com/join/2LVAJQTP) ([Mastodon](https://mastodon.social/@mttvll)) - *no description yet*
 
 Sharing apps:
 
