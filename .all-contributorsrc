@@ -110,7 +110,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/29470670?v=4",
       "profile": "https://fosstodon.org/@Nive9",
       "contributions": [
-        "content"
+        "content",
+        "maintenance"
       ]
     }
   ],
