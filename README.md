@@ -94,6 +94,7 @@ Comparison lists:
 * [Tootle for Mastodon](https://apps.apple.com/us/app/tootle-for-mastodon/id1236013466) ([Mastodon](https://mastodon.cloud/@tootleapp)) - a multifunctional Mastodon client
 * [Tootoise](https://apps.apple.com/us/app/tootoise/id1465090190) ([Mastodon](https://mastodon.social/@tootoise)) - a simple Mastodon client
 * [Trunk *Testflight*](https://testflight.apple.com/join/1ir4E70u) ([Mastodon](https://mastodon.social/@davbeck)) - with a unique scrolling concept for better engagement and more focus on each individual post.
+* [trunks *Testflight*](https://testflight.apple.com/join/g8J05VSB) ([Mastodon](https://mstdn.social/@trunksapp)) - a cross-platform app with rich features, *currently restricted to English-speaking countries due to localization issues, see Mastodon profile* 
 * [Tusker](https://apps.apple.com/gb/app/tusker/id1498334597) ([Website](https://vaccor.space/tusker/) | [Git](https://git.shadowfacts.net/shadowfacts/Tusker)) - a flexible client for Mastodon and other compatible services
 * [Twidere X](https://apps.apple.com/app/twidere-x/id1530314034) ([Website](https://x.twidere.com/) | [GitHub](https://github.com/TwidereProject/TwidereX-iOS)) - cross-platform, customizable, clean client with plentiful functions for Twitter and Mastodon, *in early stage*
 * [Woolly for Mastodon *Testflight*](https://testflight.apple.com/join/2LVAJQTP) ([Mastodon](https://mastodon.social/@mttvll)) - *no description yet*
