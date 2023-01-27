@@ -61,18 +61,27 @@ Comparison lists:
 
 - [Mastodon apps feature comparison](https://docs.google.com/spreadsheets/d/1De5KRwqMIdwEryfoeBLARgxF7QgKkeOQBCilKuIdAXE/edit#gid=0) - Collaborative Google sheet that provides a comparison of features across the various Android and iOS Mastodon apps
 
-
 #### Android
 
-* [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) - Android client.
-* [Twidere](https://f-droid.org/packages/org.mariotaku.twidere/) - Android app for Twitter, GNU Social and Mastodon.
-* [Fedilab](https://framagit.org/tom79/fedilab) - Android client.
-* [Subway Tooter](https://github.com/tateisu/SubwayTooter) - highly customisable Mastodon client for Android made by a Japanese developer
-* [Husky](https://husky.adol.pw/) - Pleroma and Mastodon client for Android
-* [Woolly](https://github.com/outadoc/woolly-app) - a Mastodon client built with Jetpack Compose and Compose Desktop
-* [Yuito](https://github.com/accelforce/Yuito) - a Mastodon client forked from Tusky by a Japanese developer
-* [Megalodon](https://github.com/sk22/megalodon) - a fork of the official Mastodon app adding certain features including the federated timeline, unlisted posting and an image description viewer
-* [Moshidon](https://github.com/LucasGGamerM/moshidon) - a fork of the above-mentioned Megalodon app adding certain features and tweaks on top of Megalodon's features
+
+* [Fedilab](https://play.google.com/store/apps/details?id=app.fedilab.android) ([Website](https://fedilab.app/) | [F-Droid](https://f-droid.org/packages/fr.gouv.etalab.mastodon/) | [Codeberg](https://codeberg.org/tom79/Fedilab) || **free on F-Droid**)  - a multifunctional Android client to access the distributed Fediverse
+<!-- * [Mammut](https://play.google.com/store/apps/details?id=io.github.koss.mammut) ([GitHub](https://github.com/jamiesanson/Mammut)) - an with Offline support, *last update 2020* -->
+* [Mastodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android) ([Website](https://joinmastodon.org/apps) | [GitHub](https://github.com/mastodon/mastodon-android)) - the official Mastodon mobile app
+* * [Megalodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android.sk) ([GitHub](https://github.com/sk22/megalodon)) - a fork of the official Mastodon app adding certain features including the federated timeline, unlisted posting and an image description viewer
+* * * [Moshidon](https://github.com/LucasGGamerM/moshidon) - a fork of the above-mentioned Megalodon app adding certain features and tweaks on top of Megalodon's features
+* [Subway Tooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter) ([Mastodon](https://mastodon.juggler.jp/@tateisu) | [GitHub](https://github.com/tateisu/SubwayTooter)) - highly customisable Mastodon client
+* [tooot](https://play.google.com/store/apps/details?id=com.xmflsct.app.tooot)  ([Website](https://tooot.app/) | [GitHub](https://github.com/tooot-app/app)) - a simple mobile client of Mastodon, started with a focus for Chinese community
+* [trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks) ([Mastodon](https://mstdn.social/@trunksapp)) - a cross-platform app with rich features, *might currently be restricted to English-speaking countries due to localization issues, check Mastodon profile for updates*
+* [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) ([Website](https://tusky.app/) | [F-Droid](https://f-droid.org/packages/com.keylesspalace.tusky/) | [Nightly](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky.test) | [GitHub](https://github.com/tuskyapp/Tusky) ) - a lightweight client for Mastodon
+* * [Husky](https://play.google.com/store/apps/details?id=su.xash.husky) ([Website](https://husky.adol.pw/) | [F-Droid](https://f-droid.org/en/packages/su.xash.husky/) | [Git](https://git.sr.ht/~captainepoch/husky)) - a fork of Tusky with Pleroma-specific additions
+* * [Yuito](https://play.google.com/store/apps/details?id=net.accelf.yuito) ([Website](https://accelf.net/yuito) | [GitHub](https://github.com/accelforce/Yuito)) - a for of Tusky for Mastodon, Pleroma, Pixelfed etc.
+* [Twidere](https://play.google.com/store/apps/details?id=org.mariotaku.twidere) ([Website](https://twidere.com/) | [F-Droid](https://f-droid.org/packages/org.mariotaku.twidere/) | [GitHub](https://github.com/TwidereProject/Twidere-Android)) - Material Design ready and feature rich Twitter/Mastodon/Fanfou app
+* * [Twidere X](https://play.google.com/store/apps/details?id=com.twidere.twiderex) ([Website](https://x.twidere.com/) | [F-Droid](https://f-droid.org/en/packages/com.twidere.twiderex/) | [GitHub](https://github.com/TwidereProject/TwidereX-Android)) - Next generation of Twidere, *in early stage*
+<!-- * [Woolly](https://github.com/outadoc/woolly-app) - a Mastodon client built with Jetpack Compose and Compose Desktop, *not yet actually released* -->
+
+
+
+  
 
 #### iOS
 
