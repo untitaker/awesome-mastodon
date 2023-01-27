@@ -100,7 +100,9 @@
       "name": "Jimmy Thomas",
       "avatar_url": "https://avatars.githubusercontent.com/u/105107?v=4",
       "profile": "https://github.com/xeno",
-      "login": "funkycode",
+      "contributions": [
+        "content"
+      ]
     },
     {
       "login": "Nive9",
