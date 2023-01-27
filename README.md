@@ -148,6 +148,7 @@ Sharing apps:
 - [Trunk for the Fediverse](https://communitywiki.org/trunk) - a list of lists of users to follow
 - [Fedi.Directory](https://fedi.directory/) - human-curated small selection of interesting accounts to help you get started on Mastodon and the Fediverse
 - [Fediverse.info](https://fediverse.info/explore/people) - search for users who post about a certain topic
+- [WordPress Community](https://wp-community-on-mastodon.wptoots.social/) - the WordPress community on Mastodon
 
 ### Server Lists
 
