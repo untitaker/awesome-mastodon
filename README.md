@@ -193,6 +193,7 @@ Sharing apps:
 * [Followgraph](https://followgraph.vercel.app) - find users followed by many of the people you follow
 * [FediScope](https://eloquence.github.io/fediscope/) - find fediverse accounts for people in a field using Wikidata
 * [FediSearch](https://fedisearch.skorpil.cz/feeds?search=) - Search for people across indexed instances, via their bio/name
+* [Whom To Follow](https://whomtofollow.com) - Find smaller accounts you'll like; works with Mastodon/Pleroma/Friendica/more
 
 
 ### Toot discovery
