@@ -96,7 +96,7 @@ Comparison lists:
 * [Metatext](https://apps.apple.com/us/app/metatext/id1523996615) ([Website](https://metabolist.org/) | [GitHub](https://github.com/metabolist/metatext)) - a modern and accessible Mastodon client, *development has currently been suspended*
 <!-- * Mona ([Mastodon](https://mastodon.social/@MonaApp)) - superfast performance, truly native design and a highly customizable user interface *Release: Spring '23* -->
 * [Osakadon](https://apps.apple.com/app/id1239260388) ([Mastodon](https://mstdn.osaka/@osakadon_ios)) **Japanese language only**
-* [Oyakodon](https://apps.apple.com/gb/app/oyakodon-for-mastodon/id1229174544) ([Mastodon](https://mstdn.jp/@isaotakeyasu) - supports switching Mastodon instances by just swiping
+* [Oyakodon](https://apps.apple.com/gb/app/oyakodon-for-mastodon/id1229174544) ([Mastodon](https://mstdn.jp/@isaotakeyasu)) - supports switching Mastodon instances by just swiping
 * [tooot](https://apps.apple.com/gb/app/tooot/id1549772269) ([Website](https://tooot.app/) | [GitHub](https://github.com/tooot-app/app)) -  a simple mobile client of Mastodon, started with a focus for Chinese community
 * [Toot!](https://apps.apple.com/us/app/toot/id1229021451) ([Mastodon](https://mastodon.social/@tootapp) || **paid**) - a beautiful, and full of character and whimsy
 * [Tootter](https://apps.apple.com/us/app/tootter-for-mastodon/id1629293955) - a simple Mastodon client
@@ -122,6 +122,7 @@ Sharing apps:
 * [Sengi](https://nicolasconstant.github.io/sengi/) - open source cross-platform Mastodon client
 * [The Desk](https://thedesk.top/)
 * [Elk Native](https://github.com/elk-zone/elk-native) - Native version of Elk, a nimble Mastodon web client
+<!-- * [Ebou](https://mastodon.social/@terhechte/109762188190735435) - a desktop client that looks like a messaging app; it groups conversations into by friends and sorts by recent postings *not released yet* -->
 
 #### macOS
 
