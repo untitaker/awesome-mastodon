@@ -283,6 +283,7 @@ Sharing apps:
 - [#MastodonNews Archive](https://docs.google.com/spreadsheets/d/1d5Q6oyzrlfXBEhHsLI9cxltdFV_XPrZWQj1mj8Ivc7Q/edit)
 - [Twitter is Going Great!](https://twitterisgoinggreat.com/)
 - [Mastodon: a partial history](https://privacy.thenexus.today/mastodon-a-partial-history/)
+- [Fediverse Report](https://fediversereport.com/)
 
 ## Federated services
 
@@ -318,10 +319,12 @@ Sharing apps:
 
 * [Friendica](https://friendi.ca/) - Facebook/Myspace-like social network platform.
 * [PixelFed](https://pixelfed.org/) - Instagram-like photograph sharing platform.
-* [Peertube](https://joinpeertube.org/) - Youtube-like video sharing platform.
+* [PeerTube](https://joinpeertube.org/) - Youtube-like video sharing platform.
 * [FunkWhale](https://funkwhale.audio/) - Soundcloud-like audio sharing platform.
 * [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) - Blog/social networks platform with file, contacts and events sharing.
 * [BookWyrm](https://joinbookwyrm.com/) - Goodreads/Librarything-like book social network.
+* [OwnCast](https://owncast.online/) - Decentralized self-hosted video streaming platform.
+* [Castopod](https://castopod.org/) - Decentralized podcast hosting platform.
 
 ## Bots
 
