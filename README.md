@@ -66,7 +66,7 @@ Comparison lists:
 #### Android
 
 
-* [Fedilab](https://play.google.com/store/apps/details?id=app.fedilab.android) ([Website](https://fedilab.app/) \| [F-Droid](https://f-droid.org/packages/fr.gouv.etalab.mastodon/) | [Codeberg](https://codeberg.org/tom79/Fedilab) || **free on F-Droid**)  - a multifunctional Android client to access the distributed Fediverse
+* [Fedilab](https://play.google.com/store/apps/details?id=app.fedilab.android) ([Website](https://fedilab.app/) \| [F-Droid](https://f-droid.org/packages/fr.gouv.etalab.mastodon/) \| [Codeberg](https://codeberg.org/tom79/Fedilab) \|\| **free on F-Droid**)  - a multifunctional Android client to access the distributed Fediverse
 <!-- * [Mammut](https://play.google.com/store/apps/details?id=io.github.koss.mammut) ([GitHub](https://github.com/jamiesanson/Mammut)) - an with Offline support, *last update 2020* -->
 * [Mastodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android) ([Website](https://joinmastodon.org/apps) \| [GitHub](https://github.com/mastodon/mastodon-android)) - the official Mastodon mobile app
 * * [Megalodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android.sk) ([GitHub](https://github.com/sk22/megalodon)) - a fork of the official Mastodon app adding certain features including the federated timeline, unlisted posting and an image description viewer
@@ -74,11 +74,11 @@ Comparison lists:
 * [Subway Tooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter) ([Mastodon](https://mastodon.juggler.jp/@tateisu) \| [GitHub](https://github.com/tateisu/SubwayTooter)) - highly customisable Mastodon client
 * [tooot](https://play.google.com/store/apps/details?id=com.xmflsct.app.tooot)  ([Website](https://tooot.app/) \| [GitHub](https://github.com/tooot-app/app)) - a simple mobile client of Mastodon, started with a focus for Chinese community
 * [trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks) ([Mastodon](https://mstdn.social/@trunksapp)) - a cross-platform app with rich features, *in Early Access*
-* [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) ([Website](https://tusky.app/) \| [F-Droid](https://f-droid.org/packages/com.keylesspalace.tusky/) | [Nightly](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky.test) | [GitHub](https://github.com/tuskyapp/Tusky) ) - a lightweight client for Mastodon
+* [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) ([Website](https://tusky.app/) \| [F-Droid](https://f-droid.org/packages/com.keylesspalace.tusky/) \| [Nightly](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky.test) \| [GitHub](https://github.com/tuskyapp/Tusky) ) - a lightweight client for Mastodon
 * * [Husky](https://play.google.com/store/apps/details?id=su.xash.husky) ([Website](https://husky.adol.pw/) \| [F-Droid](https://f-droid.org/en/packages/su.xash.husky/) | [Git](https://git.sr.ht/~captainepoch/husky)) - a fork of Tusky with Pleroma-specific additions
 * * [Yuito](https://play.google.com/store/apps/details?id=net.accelf.yuito) ([Website](https://accelf.net/yuito) \| [GitHub](https://github.com/accelforce/Yuito)) - a for of Tusky for Mastodon, Pleroma, Pixelfed etc.
-* [Twidere](https://play.google.com/store/apps/details?id=org.mariotaku.twidere) ([Website](https://twidere.com/) \| [F-Droid](https://f-droid.org/packages/org.mariotaku.twidere/) | [GitHub](https://github.com/TwidereProject/Twidere-Android)) - Material Design ready and feature rich Twitter/Mastodon/Fanfou app
-* * [Twidere X](https://play.google.com/store/apps/details?id=com.twidere.twiderex) ([Website](https://x.twidere.com/) \| [F-Droid](https://f-droid.org/en/packages/com.twidere.twiderex/) | [GitHub](https://github.com/TwidereProject/TwidereX-Android)) - Next generation of Twidere, *in early stage*
+* [Twidere](https://play.google.com/store/apps/details?id=org.mariotaku.twidere) ([Website](https://twidere.com/) \| [F-Droid](https://f-droid.org/packages/org.mariotaku.twidere/) \| [GitHub](https://github.com/TwidereProject/Twidere-Android)) - Material Design ready and feature rich Twitter/Mastodon/Fanfou app
+* * [Twidere X](https://play.google.com/store/apps/details?id=com.twidere.twiderex) ([Website](https://x.twidere.com/) \| [F-Droid](https://f-droid.org/en/packages/com.twidere.twiderex/) \| [GitHub](https://github.com/TwidereProject/TwidereX-Android)) - Next generation of Twidere, *in early stage*
 <!-- * [Woolly](https://github.com/outadoc/woolly-app) - a Mastodon client built with Jetpack Compose and Compose Desktop, *not yet actually released* -->
 
 
@@ -87,10 +87,10 @@ Comparison lists:
 
 #### iOS
 
-* [Ice Cubes](https://apps.apple.com/gb/app/ice-cubes-for-mastodon/id6444915884) ([Mastodon](https://mastodon.cloud/@icecubesapp) \| [Testflight](https://testflight.apple.com/join/tqI3dK1u) | [GitHub](https://github.com/Dimillian/IceCubesApp)) - a fast, reliable and beautiful Mastodon client
-* [Ivory](https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274) ([Website](https://tapbots.com/ivory/) \| [Mastodon](https://tapbots.social/@ivory) || **paid**) - by the makers of TweetBot for Twitter, *in Early Access*
+* [Ice Cubes](https://apps.apple.com/gb/app/ice-cubes-for-mastodon/id6444915884) ([Mastodon](https://mastodon.cloud/@icecubesapp) \| [Testflight](https://testflight.apple.com/join/tqI3dK1u)\| [GitHub](https://github.com/Dimillian/IceCubesApp)) - a fast, reliable and beautiful Mastodon client
+* [Ivory](https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274) ([Website](https://tapbots.com/ivory/) \| [Mastodon](https://tapbots.social/@ivory) \|\| **paid**) - by the makers of TweetBot for Twitter, *in Early Access*
 * [Mammoth *Testflight*](https://testflight.apple.com/join/ejJ70WEq) ([Website](https://getmammoth.app/) \| [Mastodon](https://moth.social/@mammoth)) - a beautiful Mastodon app by the maker of Aviary for Twitter, *in beta*
-* [Mast: for Mastodon](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129) ([Website](https://www.pnguin.app/) \|| **paid**) - a beautiful Mastodon app built with macOS design guidelines in mind
+* [Mast: for Mastodon](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129) ([Website](https://www.pnguin.app/) \|\| **paid**) - a beautiful Mastodon app built with macOS design guidelines in mind
 * [Mastodon](https://apps.apple.com/us/app/mastodon-for-iphone/id1571998974) ([Website](https://joinmastodon.org/apps) \| [GitHub](https://github.com/mastodon/mastodon-ios)) - the official Mastodon mobile app
 <!-- * [Mastoon](https://apps.apple.com/us/app/mastoon-for-mastodon/id1633757607) - *link invalid/ removed* -->
 * [Mastoot](https://apps.apple.com/us/app/mastoot/id1501485410) ([Website](https://mastoot.app/) \| [Mastodon](https://mastodon.online/@Mastoot)) - a simple client app for Mastodon
@@ -100,7 +100,7 @@ Comparison lists:
 * [Osakadon](https://apps.apple.com/app/id1239260388) ([Mastodon](https://mstdn.osaka/@osakadon_ios)) **Japanese language only**
 * [Oyakodon](https://apps.apple.com/gb/app/oyakodon-for-mastodon/id1229174544) ([Mastodon](https://mstdn.jp/@isaotakeyasu)) - supports switching Mastodon instances by just swiping
 * [tooot](https://apps.apple.com/gb/app/tooot/id1549772269) ([Website](https://tooot.app/) \| [GitHub](https://github.com/tooot-app/app)) -  a simple mobile client of Mastodon, started with a focus for Chinese community
-* [Toot!](https://apps.apple.com/us/app/toot/id1229021451) ([Mastodon](https://mastodon.social/@tootapp) \|| **paid**) - a beautiful, and full of character and whimsy
+* [Toot!](https://apps.apple.com/us/app/toot/id1229021451) ([Mastodon](https://mastodon.social/@tootapp) \|\| **paid**) - a beautiful, and full of character and whimsy
 * [Tootter](https://apps.apple.com/us/app/tootter-for-mastodon/id1629293955) - a simple Mastodon client
 * [Tootle for Mastodon](https://apps.apple.com/us/app/tootle-for-mastodon/id1236013466) ([Mastodon](https://mastodon.cloud/@tootleapp)) - a multifunctional Mastodon client
 * [Tootoise](https://apps.apple.com/us/app/tootoise/id1465090190) ([Mastodon](https://mastodon.social/@tootoise)) - a simple Mastodon client
