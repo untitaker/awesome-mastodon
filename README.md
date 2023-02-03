@@ -332,6 +332,8 @@ Sharing apps:
 
 * [Please Caption Bot](https://botsin.space/@PleaseCaption) - A bot that reminds you to caption your toots' images and videos (e.g. to help the visually impaired). [Source code](https://glitch.com/edit/#!/please-caption-mastodon)
 * [Trending Bot](https://mastodon.social/@TrendingBot) - Shows you what's trending on Mastodon.
+* [Mastodon Users Bot](https://bitcoinhackers.org/@mastodonusercount) - Posts the user count for all known Mastodon instances once an hour.
+* [Bots in Space](https://botsin.space/public/local) - a Mastodon instance with various kinds of bots
 
 ### Bots for self-hosting
 
