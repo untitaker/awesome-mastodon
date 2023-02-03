@@ -54,6 +54,8 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Chirr App](https://getchirrapp.com/) - a web app that intelligently splits a long tweets into a thread; pro users [can crosspost their toots and threads to Mastodon](https://getchirrapp.com/new/2022-11-5)
 * [Cuckoo+](https://www.cuckoo.social) - a GooglePlus-like third-party web client for Mastodon
 * [Mastodeck](https://mastodeck.com/) - a Tweetdeck-like interface for Mastodon; 'advanced' interface with multiple verticle columns; highly customisable
+* [trunks](https://alpha.trunks.social/) ([Mastodon](https://mstdn.social/@trunksapp)) - a cross-platform app with rich features, *in early alpha*
+* [Statuzer](https://statuzer.com/) ([Mastodon](https://mas.to/@statuzer/)) - a multi-accounts, multi-columns Mastodon frontend, *in public beta*
 
 ### Mobile
 
@@ -71,7 +73,7 @@ Comparison lists:
 * * * [Moshidon](https://github.com/LucasGGamerM/moshidon) - a fork of the above-mentioned Megalodon app adding certain features and tweaks on top of Megalodon's features
 * [Subway Tooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter) ([Mastodon](https://mastodon.juggler.jp/@tateisu) | [GitHub](https://github.com/tateisu/SubwayTooter)) - highly customisable Mastodon client
 * [tooot](https://play.google.com/store/apps/details?id=com.xmflsct.app.tooot)  ([Website](https://tooot.app/) | [GitHub](https://github.com/tooot-app/app)) - a simple mobile client of Mastodon, started with a focus for Chinese community
-* [trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks) ([Mastodon](https://mstdn.social/@trunksapp)) - a cross-platform app with rich features, *might currently be restricted to English-speaking countries due to localization issues, check Mastodon profile for updates*
+* [trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks) ([Mastodon](https://mstdn.social/@trunksapp)) - a cross-platform app with rich features, *in Early Access*
 * [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) ([Website](https://tusky.app/) | [F-Droid](https://f-droid.org/packages/com.keylesspalace.tusky/) | [Nightly](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky.test) | [GitHub](https://github.com/tuskyapp/Tusky) ) - a lightweight client for Mastodon
 * * [Husky](https://play.google.com/store/apps/details?id=su.xash.husky) ([Website](https://husky.adol.pw/) | [F-Droid](https://f-droid.org/en/packages/su.xash.husky/) | [Git](https://git.sr.ht/~captainepoch/husky)) - a fork of Tusky with Pleroma-specific additions
 * * [Yuito](https://play.google.com/store/apps/details?id=net.accelf.yuito) ([Website](https://accelf.net/yuito) | [GitHub](https://github.com/accelforce/Yuito)) - a for of Tusky for Mastodon, Pleroma, Pixelfed etc.
@@ -103,7 +105,7 @@ Comparison lists:
 * [Tootle for Mastodon](https://apps.apple.com/us/app/tootle-for-mastodon/id1236013466) ([Mastodon](https://mastodon.cloud/@tootleapp)) - a multifunctional Mastodon client
 * [Tootoise](https://apps.apple.com/us/app/tootoise/id1465090190) ([Mastodon](https://mastodon.social/@tootoise)) - a simple Mastodon client
 * [Trunk *Testflight*](https://testflight.apple.com/join/1ir4E70u) ([Mastodon](https://mastodon.social/@davbeck)) - with a unique scrolling concept for better engagement and more focus on each individual post.
-* [trunks *Testflight*](https://testflight.apple.com/join/g8J05VSB) ([Mastodon](https://mstdn.social/@trunksapp)) - a cross-platform app with rich features, *might currently be restricted to English-speaking countries due to localization issues, check Mastodon profile for updates*
+* [trunks *Testflight*](https://testflight.apple.com/join/g8J05VSB) ([Mastodon](https://mstdn.social/@trunksapp)) - a cross-platform app with rich features
 * [Tusker](https://apps.apple.com/gb/app/tusker/id1498334597) ([Website](https://vaccor.space/tusker/) | [Git](https://git.shadowfacts.net/shadowfacts/Tusker)) - a flexible client for Mastodon and other compatible services
 * [Twidere X](https://apps.apple.com/app/twidere-x/id1530314034) ([Website](https://x.twidere.com/) | [GitHub](https://github.com/TwidereProject/TwidereX-iOS)) - cross-platform, customizable, clean client with plentiful functions for Twitter and Mastodon, *in early stage*
 * [Woolly for Mastodon *Testflight*](https://testflight.apple.com/join/2LVAJQTP) ([Mastodon](https://mastodon.social/@mttvll)) - *no description yet*
