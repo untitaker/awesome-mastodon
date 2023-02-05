@@ -187,6 +187,7 @@ Sharing apps:
 * [Twitodon](https://twitodon.com/) - helps you locate the users you follow on Twitter who have Mastodon handles in their bios; exports a CSV that you can import into Mastodon
 * [Fedifinder](https://fedifinder.glitch.me/) - helps you locate the users you follow on Twitter who have Mastodon handles in their bios; exports a CSV that you can import into Mastodon
 * [Debirdify](https://debirdify.pruvisto.org/) - searches across the users you follow and your Twitter lists to locate users who have Fediverse handles; helps you identify instances relevant to your interests; exports a CSV that you can import into Mastodon
+* [Mastodon Flock](https://mastodon-flock.vercel.app/) - helps you find users who follow on Twitter who are also on Mastodon, via a Windows 95-style wizard
 
 ### Fediverse discovery
 
@@ -336,6 +337,7 @@ Sharing apps:
 * [Trending Bot](https://mastodon.social/@TrendingBot) - Shows you what's trending on Mastodon.
 * [Mastodon Users Bot](https://bitcoinhackers.org/@mastodonusercount) - Posts the user count for all known Mastodon instances once an hour.
 * [Bots in Space](https://botsin.space/public/local) - a Mastodon instance with various kinds of bots
+* [Twitter Bots to Mastodon Migration List](https://docs.google.com/spreadsheets/d/1SOmgXL3fRHAsxiVufw73VmzYmyLGat5koC7sf045Cic/edit) - a list of Twitter bots that plan to migrate to Mastodon after [Twitter decided to start charging for API access in February 2023](https://www.theverge.com/2023/2/2/23582615/twitter-removing-free-api-developer-apps-price-announcement)
 
 ### Bots for self-hosting
 
@@ -375,6 +377,10 @@ Sharing apps:
 ### Kotlin
 
 * [mastodonk](https://github.com/outadoc/mastodonk) - Mastodon client library for Kotlin
+
+### Swift
+
+* [TootSDK](https://github.com/TootSDK/TootSDK) - a Swift package for creating apps that interact with Mastodon, Pleroma and other Fediverse APIs
 
 ### Clojure
 
