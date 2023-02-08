@@ -249,6 +249,7 @@ Sharing apps:
 * [Mastodon View Profile](https://github.com/bramus/mastodon-view-profile) - Chrome extension that adds a button to the toolbar to visit a profile on your instance ease of following
 * [Graze for Mastodon](https://graze.jaredzimmerman.com/) - Chrome & Firefox extension that enables 1-click follow, favorite, boost, and bookmark for Mastodon, no matter what instance you call home.
 * [StreetPass](https://streetpass.social/) - an extension that collects `rel=me` links from websites that you visit so you can find people to follow on Mastodon based on the sites you visit
+* [Thicctodon](https://gitlab.com/adzetko/thicctodon) - a browser extension that lets you change the width of columns in Mastodon's advanced view
 
 ### Bookmarklets
 
@@ -287,6 +288,10 @@ Sharing apps:
 - [Twitter is Going Great!](https://twitterisgoinggreat.com/)
 - [Mastodon: a partial history](https://privacy.thenexus.today/mastodon-a-partial-history/)
 - [Fediverse Report](https://fediversereport.com/)
+
+### Essays
+
+- [Fediverse & Mastodon Essays](https://docs.google.com/spreadsheets/d/1knujLkJlJZ9xrZgdy8LB6hW3zCy9JSNSy_S4N0v3FuU/edit) - a list of essays about Mastodon and the Fediverse
 
 ## Federated services
 
