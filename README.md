@@ -124,7 +124,7 @@ Sharing apps:
 * [Sengi](https://nicolasconstant.github.io/sengi/) - open source cross-platform Mastodon client
 * [The Desk](https://thedesk.top/)
 * [Elk Native](https://github.com/elk-zone/elk-native) - Native version of Elk, a nimble Mastodon web client
-* [Mastodon Explorer] (https://mastodonexplorer.com) - unique, search-based desktop client for Mac, Windows or Linux, no Mastodon account needed
+* [Mastodon Explorer](https://mastodonexplorer.com) - unique, search-based desktop client for Mac, Windows or Linux, no Mastodon account needed
 <!-- * [Ebou](https://mastodon.social/@terhechte/109762188190735435) - a desktop client that looks like a messaging app; it groups conversations into by friends and sorts by recent postings *not released yet* -->
 
 #### macOS
