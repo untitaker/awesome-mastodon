@@ -4,10 +4,12 @@ about: add or update an entry
 labels: enhancement
 ---
 <!-- 
-[x] = Yes
+BRIEF EXPLANATION:
 
+[x] = Yes
 [ ] = No/ Not applicable
-  -->
+
+END OF EXPLANATION  -->
 
 ## Name of the app or client
 ...
