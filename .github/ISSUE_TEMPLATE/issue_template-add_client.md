@@ -1,6 +1,6 @@
 ---
-name: Add new client/ app.
-about: Add a new entry.
+name: Add or Update a Client or an App
+about: add or update an entry
 labels: enhancement
 ---
 ## Name of the app or client
@@ -51,7 +51,7 @@ labels: enhancement
  [YYYY.MM]
 
 
-### Briefly describe the app
+## Briefly describe the app
 ...
 
 - [ ] Description taken from App Store/ Play Store/ Repo/ Website 
