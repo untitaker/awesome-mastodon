@@ -438,6 +438,25 @@ Placeholder-->
 * [rixx.de: On Running a Mastodon Instance](https://rixx.de/blog/on-running-a-mastodon-instance/)
 * [EFF: User Generated Content and the Fediverse - A Legal Primer](https://www.eff.org/deeplinks/2022/12/user-generated-content-and-fediverse-legal-primer)
 
+## Suggested Format for Contributions
+[Name & Primary link](https://example.org) ([Website](https://example.org) \| [Mastodon](https://example.org) \| [*Secondary link*](https://example.org) \| [*Source Code repository*](https://example.org) \|\| **payment indicator**) - brief description, *development stage*
+
+**Template:**<br>
+`[Name & Primary link](https://example.org) ([Website](https://example.org) \| [Mastodon](https://example.org) \| [Secondary link](https://example.org) \| [Source Code repository](https://example.org) \|\| **payment indicator**) - brief description, *development stage*`
+
+* Name: The app's official name
+* Primary link: prefer App Store over Testflight \| prefer Play Store over F-Droid \| prefer F-Droid over GitHub Releases \| Web Client page
+* Website: e.g. `joinmastodon.org`
+* Mastodon: The app's official Mastodon profile \| the Dev's profile only if they use it to post about and discuss their app (no exclusively personal account)
+* Secondary link: e.g. `F-Droid` \| `App Store for macOS` \| `Snapcraft for Linux` \| `Beta/ Nightly`
+* Source Code repository: e.g. `GitHub`\| `GitLab`\| `Git` \| `Codeberg` \| `Source Code`
+* Payment indicator: if app is always paid = `**paid**` \| if app is officially free from another <u>official</u> source = `**free on F-Droid/ GitHub...**`
+* Brief Description: what differentiates it from others \| short description taken from the app's website/ store page/ repo`
+* Development Stage: `in Early Access`\| `Testflight` \| `in alpha` \| `in public beta`
+* *Note:* 
+* * place `\` before each `|` to avoid creation of Markdown Tables = `\|`
+* * add in alphabetical order
+
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
