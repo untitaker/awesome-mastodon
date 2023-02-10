@@ -62,4 +62,9 @@ END OF EXPLANATION  -->
 ## Briefly describe the app
 ...
 
-- [ ] Description taken from App Store/ Play Store/ Repo/ Website 
+- [ ] Description taken from App Store/ Play Store/ Repo/ Website
+
+
+<!-- 
+WHEN YOU'RE DONE, CLICK ON PREVIEW ⬆️ TO CHECK THAT EVERYTHING IS CORRECT, PLEASE. :)
+ -->

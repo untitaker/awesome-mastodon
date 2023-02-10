@@ -48,3 +48,8 @@ END OF EXPLANATION  -->
 ## Why should the entry be removed?
 ...
 
+
+
+<!-- 
+WHEN YOU'RE DONE, CLICK ON PREVIEW ⬆️ TO CHECK THAT EVERYTHING IS CORRECT, PLEASE. :)
+ -->
