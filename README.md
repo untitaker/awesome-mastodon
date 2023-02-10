@@ -26,6 +26,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Bots](#bots)
 * [Libraries](#libraries)
 * [FediAdmin](#fediadmin)
+* [Contribution Guidelines](#contribution-guidelines)
 * [Contributors](#contributors)
 
 ## Official
@@ -438,14 +439,22 @@ Placeholder-->
 * [rixx.de: On Running a Mastodon Instance](https://rixx.de/blog/on-running-a-mastodon-instance/)
 * [EFF: User Generated Content and the Fediverse - A Legal Primer](https://www.eff.org/deeplinks/2022/12/user-generated-content-and-fediverse-legal-primer)
 
-## Suggested Format for Contributions
-[Name & Primary link](https://example.org) ([Website](https://example.org) \| [Mastodon](https://example.org) \| [*Secondary link*](https://example.org) \| [*Source Code repository*](https://example.org) \|\| **payment indicator**) - brief description, *development stage*
+## Contribution Guidelines
+
+### Suggested Format for Contributions (#Clients)
+
+#### *These are merely suggestions to make this page look more uniform and hopefully easier to read. So if you don't want to spend the time reading this, that's perfectly fine.*
+<br>
+
+**Example:**<br>
+[Name & Primary link](https://example.org) ([Website](https://example.org) \| [Mastodon](https://example.org) \| [*Secondary link*](https://example.org) \| [*Source Code repository*](https://example.org) \|\| **payment indicator**) - brief description, *development stage*, **officially unmaintained/ archived**, **last date of update:**
 
 **Template:**<br>
-`[Name & Primary link](https://example.org) ([Website](https://example.org) \| [Mastodon](https://example.org) \| [Secondary link](https://example.org) \| [Source Code repository](https://example.org) \|\| **payment indicator**) - brief description, *development stage*`
+`[Name & Primary link](https://example.org) ([Website](https://example.org) \| [Mastodon](https://example.org) \| [Secondary link](https://example.org) \| [Source Code repository](https://example.org) \|\| **payment indicator**) - brief description, *development stage*, **officially unmaintained/ archived**, **last update: YYYY.MM**`
 
+**Explanation:**
 * Name: The app's official name
-* Primary link: prefer App Store over Testflight \| prefer Play Store over F-Droid \| prefer F-Droid over GitHub Releases \| Web Client page
+* Primary link: i.e. prefer App Store over Testflight \| prefer Play Store over F-Droid \| prefer F-Droid over GitHub Releases \| Web Client page
 * Website: e.g. `joinmastodon.org`
 * Mastodon: The app's official Mastodon profile \| the Dev's profile only if they use it to post about and discuss their app (no exclusively personal account)
 * Secondary link: e.g. `F-Droid` \| `App Store for macOS` \| `Snapcraft for Linux` \| `Beta/ Nightly`
@@ -453,9 +462,12 @@ Placeholder-->
 * Payment indicator: if app is always paid = `**paid**` \| if app is officially free from another <u>official</u> source = `**free on F-Droid/ GitHub...**`
 * Brief Description: what differentiates it from others \| short description taken from the app's website/ store page/ repo`
 * Development Stage: `in Early Access`\| `Testflight` \| `in alpha` \| `in public beta`
+* Officially unmaintained/ archived: mention if officially unmaintained or archived
+* Last Update: if the last update was a "long time" ago, add last update, e.g. `last update: 2010.01 [Year.Month]`
 * *Note:* 
 * * place `\` before each `|` to avoid creation of Markdown Tables = `\|`
 * * add in alphabetical order
+* * if something isn't applicable or available, leave it out
 
 ## Contributors
 
