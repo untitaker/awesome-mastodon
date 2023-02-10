@@ -39,23 +39,27 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 
 ### Web
 
-* [Tooty](https://github.com/n1k0/tooty) - Experimental multi-account Mastodon Web client (Elm).
-* [naumanni](https://github.com/naumanni/naumanni) - Web user interface specially designed for Mastodon.
-* [Pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon, focused on speed and simplicity. (no longer maintained)
-  * [Semaphore](https://github.com/NickColley/semaphore) - a continuation of Pinafore
-* [Brutaldon](https://git.carcosa.net/jmcbray/brutaldon) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon.
-* [Halcyon](https://notabug.org/halcyon-suite/halcyon) - Alternative web client for Mastodon and Pleroma with a Twitter-like interface.
-* [Planiverse](https://git.stjo.hn/planiverse/) - Minimalist, no-JS Web client for Mastodon.
-* [Sengi](https://nicolasconstant.github.io/sengi/) - Desktop oriented webapp for Mastodon and Pleroma, focused on multi-accounts usages.
-* [Phanpy](https://github.com/cheeaun/phanpy) - a minimalistic, opinionated web client for Mastodon
-* [Hyperspace](https://hyperspace.marquiskurt.net/) - layout options such as a masonry layout (no longer maintained)
-* [Elk](https://elk.zone) - a nimble Mastodon web client
-* [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) - The comfy SNS client for everything, everywhere, available for Web, Windows, Linux and Android
-* [Chirr App](https://getchirrapp.com/) - a web app that intelligently splits a long tweets into a thread; pro users [can crosspost their toots and threads to Mastodon](https://getchirrapp.com/new/2022-11-5)
-* [Cuckoo+](https://www.cuckoo.social) - a GooglePlus-like third-party web client for Mastodon
-* [Mastodeck](https://mastodeck.com/) - a Tweetdeck-like interface for Mastodon; 'advanced' interface with multiple verticle columns; highly customisable
-* [trunks](https://alpha.trunks.social/) ([Mastodon](https://mstdn.social/@trunksapp)) - a cross-platform app with rich features, *in early alpha*
+* [Brutaldon](https://brutaldon.org/) ([GitLab](https://gitlab.com/brutaldon/brutaldon)) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon.
+* [Cuckoo+](https://www.cuckoo.social) ([GitHub](https://github.com/NanaMorse/Cuckoo.Plus)) - a GooglePlus-like third-party web client for Mastodon
+* [Elk](https://elk.zone) ([Mastodon](https://m.webtoo.ls/@elk) \| [Beta](https://main.elk.zone/) \| [GitHub](https://github.com/elk-zone/elk)) - a nimble Mastodon web client
+<!-- * [naumanni](https://naumanni.com/) [GitHub](https://github.com/naumanni/naumanni) - Web user interface specially designed for Mastodon, *no longer working* -->
+* [Halcyon](https://www.halcyon.social/instances.php) ([Mastodon](https://social.csswg.org/@halcyon) \| [Source Code](https://notabug.org/halcyon-suite/halcyon)) - Alternative web client for Mastodon and Pleroma with a Twitter-like interface, *(no longer maintained)*
+<!-- * [Hyperspace](https://hyperspace.marquiskurt.net/) ([GitHub](https://github.com/hyperspacedev/hyperspace)) - layout options such as a masonry layout, *(no longer maintained)* *no longer working* -->
+* [Kaiteki](https://web.kaiteki.app/#/welcome) ([Website](https://kaiteki.app/) \| [Mastodon](https://floss.social/@Kaiteki) \| [GitHub](https://github.com/Kaiteki-Fedi/Kaiteki)  - The comfy SNS client for everything, everywhere, available for Web, Windows, Linux and Android
+* [Mastodeck](https://mastodeck.com/) ([Mastodon](https://mastodon.social/@mastodeck)) - a Tweetdeck-like interface for Mastodon; 'advanced' interface with multiple verticle columns; highly customisable, *in open beta*
+* [Phanpy](https://phanpy.social/) ([Mastodon](https://hachyderm.io/@phanpy) \| [GitHub](https://github.com/cheeaun/phanpy)) - a minimalistic, opinionated web client for Mastodon
+* [Pinafore](https://pinafore.social/) ([GitHub](https://github.com/nolanlawson/pinafore)) - Alternative web client for Mastodon, focused on speed and simplicity, *(no longer maintained)*
+  * [Semaphore](https://semaphore.social/) ([Mastodon](https://fosstodon.org/@semaphore) \| [Beta](https://beta.semaphore.social/) \| [GitHub](https://github.com/NickColley/semaphore)) - a continuation of Pinafore
+<!-- * [Planiverse](https://git.stjo.hn/planiverse/) - Minimalist, no-JS Web client for Mastodon, *no longer working* -->
+* [Sengi](https://sengi.nicolas-constant.com/) ([Mastodon](https://mastodon.social/@sengi_app) \| [GitHub](https://nicolasconstant.github.io/sengi/)) - Desktop oriented webapp for Mastodon and Pleroma, focused on multi-accounts usages.
 * [Statuzer](https://statuzer.com/) ([Mastodon](https://mas.to/@statuzer/)) - a multi-accounts, multi-columns Mastodon frontend, *in public beta*
+* [Tooty](https://n1k0.github.io/tooty/) ([GitHub](https://github.com/n1k0/tooty)) - Experimental multi-account Mastodon Web client *(no longer maintained)*
+* [trunks](https://alpha.trunks.social/) ([Mastodon](https://mstdn.social/@trunksapp)) - a cross-platform app with rich features, *in early alpha*
+
+##### Tools (Not full clients) (Web)
+
+* [Chirr App](https://getchirrapp.com/) (**paid**)- a web app that intelligently splits a long tweets into a thread; pro users [can crosspost their toots and threads to Mastodon](https://getchirrapp.com/new/2022-11-5)
+
 
 ### Mobile
 
@@ -110,7 +114,7 @@ Comparison lists:
 * [Twidere X](https://apps.apple.com/app/twidere-x/id1530314034) ([Website](https://x.twidere.com/) \| [GitHub](https://github.com/TwidereProject/TwidereX-iOS)) - cross-platform, customizable, clean client with plentiful functions for Twitter and Mastodon, *in early stage*
 * [Woolly for Mastodon *Testflight*](https://testflight.apple.com/join/2LVAJQTP) ([Mastodon](https://mastodon.social/@mttvll)) - *no description yet*
 
-Sharing apps:
+##### Tools (Not full clients) (iOS)
 
 - [Linky](https://pragmaticcode.com/linky/) - lets you easily share webpage links, images and text extracts to Mastodon
 
