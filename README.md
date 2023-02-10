@@ -43,17 +43,18 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Cuckoo+](https://www.cuckoo.social) ([GitHub](https://github.com/NanaMorse/Cuckoo.Plus)) - a GooglePlus-like third-party web client for Mastodon
 * [Elk](https://elk.zone) ([Mastodon](https://m.webtoo.ls/@elk) \| [Beta](https://main.elk.zone/) \| [GitHub](https://github.com/elk-zone/elk)) - a nimble Mastodon web client
 <!-- * [naumanni](https://naumanni.com/) [GitHub](https://github.com/naumanni/naumanni) - Web user interface specially designed for Mastodon, *no longer working* -->
-* [Halcyon](https://www.halcyon.social/instances.php) ([Mastodon](https://social.csswg.org/@halcyon) \| [Source Code](https://notabug.org/halcyon-suite/halcyon)) - Alternative web client for Mastodon and Pleroma with a Twitter-like interface, *(no longer maintained)*
+* [Halcyon *Instances*](https://www.halcyon.social/instances.php) ([Mastodon](https://social.csswg.org/@halcyon) \| [Alternative 1](https://halcyon.cybre.space) \| [Alternative 2](https://birdsite.masthead.social) \| [Source Code](https://notabug.org/halcyon-suite/halcyon)) - Alternative web client for Mastodon and Pleroma with a Twitter-like interface, **last update: 2020.07**
 <!-- * [Hyperspace](https://hyperspace.marquiskurt.net/) ([GitHub](https://github.com/hyperspacedev/hyperspace)) - layout options such as a masonry layout, *(no longer maintained)* *no longer working* -->
-* [Kaiteki](https://web.kaiteki.app/#/welcome) ([Website](https://kaiteki.app/) \| [Mastodon](https://floss.social/@Kaiteki) \| [GitHub](https://github.com/Kaiteki-Fedi/Kaiteki)  - The comfy SNS client for everything, everywhere, available for Web, Windows, Linux and Android
+* [Kaiteki](https://web.kaiteki.app/#/welcome) ([Website](https://kaiteki.app/) \| [Mastodon](https://floss.social/@Kaiteki) \| [GitHub](https://github.com/Kaiteki-Fedi/Kaiteki))  - The comfy SNS client for everything, everywhere, available for Web, Windows, Linux and Android, *in early alpha*
 * [Mastodeck](https://mastodeck.com/) ([Mastodon](https://mastodon.social/@mastodeck)) - a Tweetdeck-like interface for Mastodon; 'advanced' interface with multiple verticle columns; highly customisable, *in open beta*
 * [Phanpy](https://phanpy.social/) ([Mastodon](https://hachyderm.io/@phanpy) \| [GitHub](https://github.com/cheeaun/phanpy)) - a minimalistic, opinionated web client for Mastodon
-* [Pinafore](https://pinafore.social/) ([GitHub](https://github.com/nolanlawson/pinafore)) - Alternative web client for Mastodon, focused on speed and simplicity, *(no longer maintained)*
+* [Pinafore](https://pinafore.social/) ([GitHub](https://github.com/nolanlawson/pinafore)) - Alternative web client for Mastodon, focused on speed and simplicity, **officially unmaintained**, **last update: 2023.01**
   * [Semaphore](https://semaphore.social/) ([Mastodon](https://fosstodon.org/@semaphore) \| [Beta](https://beta.semaphore.social/) \| [GitHub](https://github.com/NickColley/semaphore)) - a continuation of Pinafore
 <!-- * [Planiverse](https://git.stjo.hn/planiverse/) - Minimalist, no-JS Web client for Mastodon, *no longer working* -->
-* [Sengi](https://sengi.nicolas-constant.com/) ([Mastodon](https://mastodon.social/@sengi_app) \| [GitHub](https://nicolasconstant.github.io/sengi/)) - Desktop oriented webapp for Mastodon and Pleroma, focused on multi-accounts usages.
+* [Sengi](https://sengi.nicolas-constant.com/) ([Website](https://nicolasconstant.github.io/sengi/) \| [Mastodon](https://mastodon.social/@sengi_app) \| [GitHub](https://nicolasconstant.github.io/sengi/)) - a multi-account Mastodon and Pleroma desktop client
 * [Statuzer](https://statuzer.com/) ([Mastodon](https://mas.to/@statuzer/)) - a multi-accounts, multi-columns Mastodon frontend, *in public beta*
-* [Tooty](https://n1k0.github.io/tooty/) ([GitHub](https://github.com/n1k0/tooty)) - Experimental multi-account Mastodon Web client *(no longer maintained)*
+* [TheDesk](https://app.thedesk.top/) ([Website](https://thedesk.top/en/) \| [Mastodon](https://2m.cutls.com/@Cutls) \| [GitHub](https://github.com/cutls/TheDesk)) - a Mastodon/Misskey client from the developer of TootDesk for iOS and TheDesk for Desktop
+* [Tooty](https://n1k0.github.io/tooty/) ([GitHub](https://github.com/n1k0/tooty)) - Experimental multi-account Mastodon Web client, **last update: 2019.05**
 * [trunks](https://alpha.trunks.social/) ([Mastodon](https://mstdn.social/@trunksapp)) - a cross-platform app with rich features, *in early alpha*
 
 ##### Tools (Not full clients) (Web)
@@ -71,17 +72,18 @@ Comparison lists:
 
 
 * [Fedilab](https://play.google.com/store/apps/details?id=app.fedilab.android) ([Website](https://fedilab.app/) \| [F-Droid](https://f-droid.org/packages/fr.gouv.etalab.mastodon/) \| [Codeberg](https://codeberg.org/tom79/Fedilab) \|\| **free on F-Droid**)  - a multifunctional Android client to access the distributed Fediverse
-<!-- * [Mammut](https://play.google.com/store/apps/details?id=io.github.koss.mammut) ([GitHub](https://github.com/jamiesanson/Mammut)) - an with Offline support, *last update 2020* -->
+* [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki/releases) ([Website](https://kaiteki.app/) \| [Mastodon](https://floss.social/@Kaiteki) \| [GitHub](https://github.com/Kaiteki-Fedi/Kaiteki))  - The comfy SNS client for everything, everywhere, available for Web, Windows, Linux and Android, *in early alpha*
+* [Mammut](https://play.google.com/store/apps/details?id=io.github.koss.mammut) ([GitHub](https://github.com/jamiesanson/Mammut)) - an app with Offline support, **last update: 2020.01**
 * [Mastodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android) ([Website](https://joinmastodon.org/apps) \| [GitHub](https://github.com/mastodon/mastodon-android)) - the official Mastodon mobile app
-* * [Megalodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android.sk) ([GitHub](https://github.com/sk22/megalodon)) - a fork of the official Mastodon app adding certain features including the federated timeline, unlisted posting and an image description viewer
-* * * [Moshidon](https://github.com/LucasGGamerM/moshidon) - a fork of the above-mentioned Megalodon app adding certain features and tweaks on top of Megalodon's features
+* * [Megalodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android.sk) ([Mastodon](https://floss.social/@megalodon) \| [GitHub](https://github.com/sk22/megalodon)) - a fork of the official Mastodon app adding certain features including the federated timeline, unlisted posting and an image description viewer
+* * * [Moshidon](https://github.com/LucasGGamerM/moshidon/releases) ([Mastodon](https://floss.social/@moshidon) \| [GitHub](https://github.com/LucasGGamerM/moshidon)) - a fork of the above-mentioned Megalodon app adding certain features and tweaks on top of Megalodon's features
 * [Subway Tooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter) ([Mastodon](https://mastodon.juggler.jp/@tateisu) \| [GitHub](https://github.com/tateisu/SubwayTooter)) - highly customisable Mastodon client
 * [tooot](https://play.google.com/store/apps/details?id=com.xmflsct.app.tooot)  ([Website](https://tooot.app/) \| [GitHub](https://github.com/tooot-app/app)) - a simple mobile client of Mastodon, started with a focus for Chinese community
 * [trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks) ([Mastodon](https://mstdn.social/@trunksapp)) - a cross-platform app with rich features, *in Early Access*
-* [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) ([Website](https://tusky.app/) \| [F-Droid](https://f-droid.org/packages/com.keylesspalace.tusky/) \| [Nightly](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky.test) \| [GitHub](https://github.com/tuskyapp/Tusky) ) - a lightweight client for Mastodon
+* [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) ([Website](https://tusky.app/) \| [F-Droid](https://f-droid.org/packages/com.keylesspalace.tusky/) \| [Nightly](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky.test) \| [GitHub](https://github.com/tuskyapp/Tusky)) - a lightweight client for Mastodon
 * * [Husky](https://play.google.com/store/apps/details?id=su.xash.husky) ([Website](https://husky.adol.pw/) \| [F-Droid](https://f-droid.org/en/packages/su.xash.husky/) \| [Git](https://git.sr.ht/~captainepoch/husky)) - a fork of Tusky with Pleroma-specific additions
-* * [Yuito](https://play.google.com/store/apps/details?id=net.accelf.yuito) ([Website](https://accelf.net/yuito) \| [GitHub](https://github.com/accelforce/Yuito)) - a for of Tusky for Mastodon, Pleroma, Pixelfed etc.
-* [Twidere](https://play.google.com/store/apps/details?id=org.mariotaku.twidere) ([Website](https://twidere.com/) \| [F-Droid](https://f-droid.org/packages/org.mariotaku.twidere/) \| [GitHub](https://github.com/TwidereProject/Twidere-Android)) - Material Design ready and feature rich Twitter/Mastodon/Fanfou app
+* * [Yuito](https://play.google.com/store/apps/details?id=net.accelf.yuito) ([Website](https://accelf.net/yuito) \| [GitHub](https://github.com/accelforce/Yuito)) - a fork of Tusky for Mastodon, Pleroma, Pixelfed etc.
+* [Twidere](https://play.google.com/store/apps/details?id=org.mariotaku.twidere) ([Website](https://twidere.com/) \| [F-Droid](https://f-droid.org/packages/org.mariotaku.twidere/) \| [GitHub](https://github.com/TwidereProject/Twidere-Android)) - Material Design ready and feature rich Twitter/Mastodon/Fanfou app, **officially unmaintained**, **last update: 2021.04**
 * * [Twidere X](https://play.google.com/store/apps/details?id=com.twidere.twiderex) ([Website](https://x.twidere.com/) \| [F-Droid](https://f-droid.org/en/packages/com.twidere.twiderex/) \| [GitHub](https://github.com/TwidereProject/TwidereX-Android)) - Next generation of Twidere, *in early stage*
 <!-- * [Woolly](https://github.com/outadoc/woolly-app) - a Mastodon client built with Jetpack Compose and Compose Desktop, *not yet actually released* -->
 
@@ -91,22 +93,23 @@ Comparison lists:
 
 #### iOS
 
-* [Ice Cubes](https://apps.apple.com/gb/app/ice-cubes-for-mastodon/id6444915884) ([Mastodon](https://mastodon.cloud/@icecubesapp) \| [Testflight](https://testflight.apple.com/join/tqI3dK1u)\| [GitHub](https://github.com/Dimillian/IceCubesApp)) - a fast, reliable and beautiful Mastodon client
+* [Ice Cubes](https://apps.apple.com/gb/app/ice-cubes-for-mastodon/id6444915884) ([Mastodon](https://mastodon.cloud/@icecubesapp) \| [Testflight](https://testflight.apple.com/join/tqI3dK1u) \| [GitHub](https://github.com/Dimillian/IceCubesApp)) - a fast, reliable and beautiful Mastodon client
 * [Ivory](https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274) ([Website](https://tapbots.com/ivory/) \| [Mastodon](https://tapbots.social/@ivory) \|\| **paid**) - by the makers of TweetBot for Twitter, *in Early Access*
 * [Mammoth *Testflight*](https://testflight.apple.com/join/ejJ70WEq) ([Website](https://getmammoth.app/) \| [Mastodon](https://moth.social/@mammoth)) - a beautiful Mastodon app by the maker of Aviary for Twitter, *in beta*
-* [Mast: for Mastodon](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129) ([Website](https://www.pnguin.app/) \|\| **paid**) - a beautiful Mastodon app built with macOS design guidelines in mind
+* [Mast: for Mastodon](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129) ([Website](https://www.pnguin.app/) \|\| **paid**) - a beautiful Mastodon app built with macOS design guidelines in mind, **last update: 2020.11**
 * [Mastodon](https://apps.apple.com/us/app/mastodon-for-iphone/id1571998974) ([Website](https://joinmastodon.org/apps) \| [GitHub](https://github.com/mastodon/mastodon-ios)) - the official Mastodon mobile app
 <!-- * [Mastoon](https://apps.apple.com/us/app/mastoon-for-mastodon/id1633757607) - *link invalid/ removed* -->
 * [Mastoot](https://apps.apple.com/us/app/mastoot/id1501485410) ([Website](https://mastoot.app/) \| [Mastodon](https://mastodon.online/@Mastoot)) - a simple client app for Mastodon
-* [Mercury for Mastodon](https://apps.apple.com/us/app/mercury-for-mastodon/id1486749200) ([Website](https://onmercury.app/)) -  a customisable client for the Mastodon and Pleroma social networks
-* [Metatext](https://apps.apple.com/us/app/metatext/id1523996615) ([Website](https://metabolist.org/) \| [GitHub](https://github.com/metabolist/metatext)) - a modern and accessible Mastodon client, *development has currently been suspended*
+* [Mercury for Mastodon](https://apps.apple.com/us/app/mercury-for-mastodon/id1486749200) ([Website](https://onmercury.app/)) -  a customisable client for the Mastodon and Pleroma social networks, **last update: 2021.03**
+* [Metatext](https://apps.apple.com/us/app/metatext/id1523996615) ([Website](https://metabolist.org/) \| [GitHub](https://github.com/metabolist/metatext)) - a modern and accessible Mastodon client, **offically unmaintained**, **last update: 2022.11**
 <!-- * Mona ([Mastodon](https://mastodon.social/@MonaApp)) - superfast performance, truly native design and a highly customizable user interface *Release: Spring '23* -->
-* [Osakadon](https://apps.apple.com/app/id1239260388) ([Mastodon](https://mstdn.osaka/@osakadon_ios)) **Japanese language only**
-* [Oyakodon](https://apps.apple.com/gb/app/oyakodon-for-mastodon/id1229174544) ([Mastodon](https://mstdn.jp/@isaotakeyasu)) - supports switching Mastodon instances by just swiping
+* [Osakadon](https://apps.apple.com/app/id1239260388) ([Mastodon](https://mstdn.osaka/@osakadon_ios)) - **Japanese language only**, **last update: 2021.04**
+* [Oyakodon](https://apps.apple.com/gb/app/oyakodon-for-mastodon/id1229174544) ([Mastodon](https://mstdn.jp/@isaotakeyasu)) - supports switching Mastodon instances by just swiping, **last update: 2018.10**
 * [tooot](https://apps.apple.com/gb/app/tooot/id1549772269) ([Website](https://tooot.app/) \| [GitHub](https://github.com/tooot-app/app)) -  a simple mobile client of Mastodon, started with a focus for Chinese community
 * [Toot!](https://apps.apple.com/us/app/toot/id1229021451) ([Mastodon](https://mastodon.social/@tootapp) \|\| **paid**) - a beautiful, and full of character and whimsy
+* [TootDesk](https://apps.apple.com/app/id1591748028) ([Mastodon](https://2m.cutls.com/@Cutls) \| [GitHub](https://github.com/cutls/TootDesk)) - a Mastodon client from the developer of TheDesk for Desktop
 * [Tootter](https://apps.apple.com/us/app/tootter-for-mastodon/id1629293955) - a simple Mastodon client
-* [Tootle for Mastodon](https://apps.apple.com/us/app/tootle-for-mastodon/id1236013466) ([Mastodon](https://mastodon.cloud/@tootleapp)) - a multifunctional Mastodon client
+* [Tootle for Mastodon](https://apps.apple.com/us/app/tootle-for-mastodon/id1236013466) ([Mastodon](https://mastodon.cloud/@tootleapp)) - a multifunctional Mastodon client, **last update: 2020.04**
 * [Tootoise](https://apps.apple.com/us/app/tootoise/id1465090190) ([Mastodon](https://mastodon.social/@tootoise)) - a simple Mastodon client
 * [Trunk *Testflight*](https://testflight.apple.com/join/1ir4E70u) ([Mastodon](https://mastodon.social/@davbeck)) - with a unique scrolling concept for better engagement and more focus on each individual post.
 * [trunks *Testflight*](https://testflight.apple.com/join/g8J05VSB) ([Mastodon](https://mstdn.social/@trunksapp)) - a cross-platform app with rich features
@@ -116,30 +119,34 @@ Comparison lists:
 
 ##### Tools (Not full clients) (iOS)
 
-- [Linky](https://pragmaticcode.com/linky/) - lets you easily share webpage links, images and text extracts to Mastodon
+- [Linky](https://apps.apple.com/app/id438090426) ([Website](https://pragmaticcode.com/linky/) \| [Mastodon](https://mastodon.social/@pragmaticcode)) - lets you easily share webpage links, images and text extracts to Mastodon
 
 #### SailfishOS
 
-* [Tooter](https://github.com/dysk0/harbour-tooter) - Native client for SailfishOS.
+* [Tooter](https://github.com/dysk0/harbour-tooter) - Native client for SailfishOS, **last update: 2020.05**
 
-### Desktop
+### Desktop (Cross-Platform)
 
-* [Whalebird](https://whalebird.social/en/desktop/contents) - Electron-based cross-platform Mastodon client
-* [Sengi](https://nicolasconstant.github.io/sengi/) - open source cross-platform Mastodon client
-* [The Desk](https://thedesk.top/)
-* [Elk Native](https://github.com/elk-zone/elk-native) - Native version of Elk, a nimble Mastodon web client
-* [Mastodon Explorer](https://mastodonexplorer.com) - unique, search-based desktop client for Mac, Windows or Linux, no Mastodon account needed
 <!-- * [Ebou](https://mastodon.social/@terhechte/109762188190735435) - a desktop client that looks like a messaging app; it groups conversations into by friends and sorts by recent postings *not released yet* -->
+* [Elk Native](https://github.com/elk-zone/elk-native/releases) ([Mastodon](https://m.webtoo.ls/@elk) \| [GitHub Main](https://github.com/elk-zone/elk) \| [GitHub Sub](https://github.com/elk-zone/elk-native)) - Native version of Elk, a nimble Mastodon web client
+* [Mastodon Explorer](https://mastodonexplorer.com) - unique, search-based desktop client for Mac, Windows or Linux, no Mastodon account needed, **last update: ?**
+* [Sengi](https://github.com/NicolasConstant/sengi/releases/) ([Website](https://nicolasconstant.github.io/sengi/) \| [Mastodon](https://mastodon.social/@sengi_app) \| [GitHub](https://nicolasconstant.github.io/sengi/)) - a multi-account Mastodon and Pleroma desktop client
+* [TheDesk](https://github.com/cutls/TheDesk/releases) ([Website](https://thedesk.top/en/) \| [Mastodon](https://2m.cutls.com/@Cutls) \| [GitHub](https://github.com/cutls/TheDesk)) - a Mastodon/Misskey client from the developer of TootDesk for iOS
+* [Twidere X](https://github.com/TwidereProject/TwidereX-Android/releases) ([Website](https://x.twidere.com/) \| [App Store for macOS](https://apps.apple.com/app/twidere-x/id1530314034) \| [Snapcraft for Linux](https://snapcraft.io/whalebird) \| [GitHub](https://github.com/TwidereProject/TwidereX-iOS)) - cross-platform, customizable, clean client with plentiful functions for Twitter and Mastodon, *in early stage*
+* [Whalebird](https://github.com/h3poteto/whalebird-desktop/releases) ([Website](https://whalebird.social/en/desktop/contents) \| [App Store for macOS](https://apps.apple.com/us/app/whalebird/id1378283354) \| [GitHub](https://github.com/h3poteto/whalebird-desktop)) - an Electron-based Mastodon, Pleroma and Misskey client for Windows, Mac and Linux
+
+<!-- #### Windows
+Placeholder-->
 
 #### macOS
 
-* [Mastonaut](https://apps.apple.com/us/app/mastonaut/id1450757574) - free macOS Mastodon client
-* [Mast: for Mastodon](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129) - paid macOS Mastodon client
+* [Mast: for Mastodon](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129) (**paid**) - a macOS Mastodon client, **last update: 2020.11**
+* [Mastonaut](https://apps.apple.com/us/app/mastonaut/id1450757574) ([Website](https://mastonaut.app) \| [Mastodon](https://mastodon.social/@mastonaut) \| [GitHub](https://github.com/brunophilipe/Mastonaut)) - a macOS Mastodon client, **officially archived**, **last update: 2021.10**
 
 #### Linux
 
-* [Tootle](https://github.com/bleakgrey/tootle) - Simple Mastodon client designed for elementary OS.
-* [Tokodon](https://apps.kde.org/en-gb/tokodon/) - open source KDE Plasma client
+<!-- * [Tootle](https://github.com/bleakgrey/tootle) - Simple Mastodon client designed for elementary OS. *no valid download link found* -->
+* [Tokodon](https://flathub.org/apps/details/org.kde.tokodon) ([Website](https://apps.kde.org/en-gb/tokodon/) \| [Source Code](https://invent.kde.org/network/tokodon)) - a KDE Plasma client
 
 #### Emacs
 
