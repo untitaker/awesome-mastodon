@@ -3,6 +3,12 @@ name: Add or Update a Client or an App
 about: add or update an entry
 labels: enhancement
 ---
+<!-- 
+[x] = Yes
+
+[ ] = No/ Not applicable
+  -->
+
 ## Name of the app or client
 ...
 

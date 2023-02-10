@@ -3,6 +3,12 @@ name: Remove a Client or App
 about: remove an entry from awesome-mastodon
 labels: enhancement
 ---
+<!-- 
+[x] = Yes
+
+[ ] = No/ Not applicable
+  -->
+
 ## Name of the app or client
 ...
 
