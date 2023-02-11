@@ -43,7 +43,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Brutaldon](https://brutaldon.org/) ([GitLab](https://gitlab.com/brutaldon/brutaldon)) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon.
 * [Cuckoo+](https://www.cuckoo.social) ([GitHub](https://github.com/NanaMorse/Cuckoo.Plus)) - a GooglePlus-like third-party web client for Mastodon
 * [Elk](https://elk.zone) ([Mastodon](https://m.webtoo.ls/@elk) \| [Beta](https://main.elk.zone/) \| [GitHub](https://github.com/elk-zone/elk)) - a nimble Mastodon web client
-<!-- * [naumanni](https://naumanni.com/) [GitHub](https://github.com/naumanni/naumanni) - Web user interface specially designed for Mastodon, *no longer working* -->
+<!-- * [naumanni](https://naumanni.com/) ([GitHub](https://github.com/naumanni/naumanni)) - Web user interface specially designed for Mastodon, *no longer working* -->
 * [Halcyon *Instances*](https://www.halcyon.social/instances.php) ([Mastodon](https://social.csswg.org/@halcyon) \| [Alternative 1](https://halcyon.cybre.space) \| [Alternative 2](https://birdsite.masthead.social) \| [Source Code](https://notabug.org/halcyon-suite/halcyon)) - Alternative web client for Mastodon and Pleroma with a Twitter-like interface, **last update: 2020.07**
 <!-- * [Hyperspace](https://hyperspace.marquiskurt.net/) ([GitHub](https://github.com/hyperspacedev/hyperspace)) - layout options such as a masonry layout, *(no longer maintained)* *no longer working* -->
 * [Kaiteki](https://web.kaiteki.app/#/welcome) ([Website](https://kaiteki.app/) \| [Mastodon](https://floss.social/@Kaiteki) \| [GitHub](https://github.com/Kaiteki-Fedi/Kaiteki))  - The comfy SNS client for everything, everywhere, available for Web, Windows, Linux and Android, *in early alpha*
@@ -57,10 +57,6 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [TheDesk](https://app.thedesk.top/) ([Website](https://thedesk.top/en/) \| [Mastodon](https://2m.cutls.com/@Cutls) \| [GitHub](https://github.com/cutls/TheDesk)) - a Mastodon/Misskey client from the developer of TootDesk for iOS and TheDesk for Desktop
 * [Tooty](https://n1k0.github.io/tooty/) ([GitHub](https://github.com/n1k0/tooty)) - Experimental multi-account Mastodon Web client, **last update: 2019.05**
 * [trunks](https://alpha.trunks.social/) ([Mastodon](https://mstdn.social/@trunksapp)) - a cross-platform app with rich features, *in early alpha*
-
-##### Tools (Not full clients) (Web)
-
-* [Chirr App](https://getchirrapp.com/) (**paid**)- a web app that intelligently splits a long tweets into a thread; pro users [can crosspost their toots and threads to Mastodon](https://getchirrapp.com/new/2022-11-5)
 
 
 ### Mobile
@@ -78,6 +74,7 @@ Comparison lists:
 * [Mastodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android) ([Website](https://joinmastodon.org/apps) \| [Mastodon](https://mastodon.social/@Mastodon) \| [GitHub](https://github.com/mastodon/mastodon-android)) - the official Mastodon mobile app
 * * [Megalodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android.sk) ([Mastodon](https://floss.social/@megalodon) \| [GitHub](https://github.com/sk22/megalodon)) - a fork of the official Mastodon app adding certain features including the federated timeline, unlisted posting and an image description viewer
 * * * [Moshidon](https://github.com/LucasGGamerM/moshidon/releases) ([Mastodon](https://floss.social/@moshidon) \| [GitHub](https://github.com/LucasGGamerM/moshidon)) - a fork of the above-mentioned Megalodon app adding certain features and tweaks on top of Megalodon's features
+<!-- * [Meowstodon](https://play.google.com/store/apps/details?id=app.meowstodon.meowstodon) ([Website](https://meowstodon.app/) \| [Mastodon](https://abraham.social/@meow) \| [GitHub](TBD)) - The purrfect Mastodon app for Android, *not yet actually released* -->
 * [Subway Tooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter) ([Mastodon](https://mastodon.juggler.jp/@tateisu) \| [GitHub](https://github.com/tateisu/SubwayTooter)) - highly customisable Mastodon client
 * [tooot](https://play.google.com/store/apps/details?id=com.xmflsct.app.tooot)  ([Website](https://tooot.app/) \| [GitHub](https://github.com/tooot-app/app)) - a simple mobile client of Mastodon, started with a focus for Chinese community
 * [trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks) ([Mastodon](https://mstdn.social/@trunksapp)) - a cross-platform app with rich features, *in Early Access*
@@ -131,6 +128,7 @@ Comparison lists:
 <!-- * [Ebou](https://mastodon.social/@terhechte/109762188190735435) - a desktop client that looks like a messaging app; it groups conversations into by friends and sorts by recent postings *not released yet* -->
 * [Elk Native](https://github.com/elk-zone/elk-native/releases) ([Mastodon](https://m.webtoo.ls/@elk) \| [GitHub Main](https://github.com/elk-zone/elk) \| [GitHub Sub](https://github.com/elk-zone/elk-native)) - Native version of Elk, a nimble Mastodon web client
 * [Mastodon Explorer](https://mastodonexplorer.com) - unique, search-based desktop client for Mac, Windows or Linux, no Mastodon account needed, **last update: ?**
+* [Mastotron](https://github.com/quadrismegistus/mastotron/releases) ([Mastodon](https://zirk.us/@heuser/109838089472588601) \| [GitHub](https://github.com/quadrismegistus/mastotron)) - A new interface to Mastodon, and other experiments in social media, *in early stage*
 * [Sengi](https://github.com/NicolasConstant/sengi/releases/) ([Website](https://nicolasconstant.github.io/sengi/) \| [Mastodon](https://mastodon.social/@sengi_app) \| [GitHub](https://nicolasconstant.github.io/sengi/)) - a multi-account Mastodon and Pleroma desktop client
 * [TheDesk](https://github.com/cutls/TheDesk/releases) ([Website](https://thedesk.top/en/) \| [Mastodon](https://2m.cutls.com/@Cutls) \| [GitHub](https://github.com/cutls/TheDesk)) - a Mastodon/Misskey client from the developer of TootDesk for iOS
 * [Twidere X](https://github.com/TwidereProject/TwidereX-Android/releases) ([Website](https://x.twidere.com/) \| [App Store for macOS](https://apps.apple.com/app/twidere-x/id1530314034) \| [Snapcraft for Linux](https://snapcraft.io/whalebird) \| [GitHub](https://github.com/TwidereProject/TwidereX-iOS)) - cross-platform, customizable, clean client with plentiful functions for Twitter and Mastodon, *in early stage*
@@ -219,12 +217,14 @@ Placeholder-->
 * [fediview](https://fediview.com/) - web app that aggregates the recent popular posts from your Mastodon timeline
 * [Quintessence](https://quintsns.pianeta.uno/) - web page that generates the latest links that have been shared the most among the people you follow
 * [Blogofy](https://www.blogofy.com/) -  Search for hashtags across indexed instances, or discover currently trending hashtags across indexed instances
+* [Tootfinder](https://tootfinder.ch/) ([Mastodon](https://tooting.ch/@buercher)) - Proof of concept of an opt-in, full-text, global Mastodon search
 
 ### Toot management
 
 * [Forget](https://forget.codl.fr/about/) - Delete toots after a user defined period of time (Python [source code](https://github.com/codl/forget/)).
 * [Toot scheduler](https://scheduler.mastodon.tools/) - Schedule now, toot later.
 * [Thread counter by @axbom](https://xbm.se/fediverse/tc.php) - helps you split long posts into a numbered thread
+* [Chirr App](https://getchirrapp.com/) (**paid**)- a web app that intelligently splits a long tweets into a thread; pro users [can crosspost their toots and threads to Mastodon](https://getchirrapp.com/new/2022-11-5)
 
 #### Lists
 
@@ -427,6 +427,7 @@ Placeholder-->
 
 * [DigitalOcean Mastodon Droplet](https://marketplace.digitalocean.com/apps/mastodon)
 * [Linode Mastodon App](https://www.linode.com/marketplace/apps/linode/mastodon-server/)
+* [Cloudflare Wildebeest](https://blog.cloudflare.com/welcome-to-wildebeest-the-fediverse-on-cloudflare/) ([Mastodon](https://cloudflare.social/@cloudflare) \| [GitHub](https://github.com/cloudflare/wildebeest)) - an ActivityPub and Mastodon-compatible server whose goal is to allow anyone to operate their Fediverse server and identity on their domain without needing to keep infrastructure, with minimal setup and maintenance, and running in minutes
 
 
 ### Tools
