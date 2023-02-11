@@ -23,6 +23,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 * [Browser Extensions](#extensions)
 * [Guides](#guides)
 * [Federated services](#federated-services)
+* [Apps for Federated services](#apps-for-federated-services)
 * [Bots](#bots)
 * [Libraries](#libraries)
 * [FediAdmin](#fediadmin)
@@ -67,19 +68,23 @@ Comparison lists:
 
 #### Android
 
-
+<!-- * [11t](https://github.com/jeroensmeets/11t/releases) ([GitHub](https://github.com/jeroensmeets/11t)) - an app for connecting to Mastodon, **last update: 2017.05** *no update in a long time, needs testing for functionality*-->
+* [Fedi](https://play.google.com/store/apps/details?id=com.fediverse.app) ([Website](https://www.fediapp.com/)) - a beautiful and lightweight Pleroma and Mastodon client, **last update: 2021.11** *needs testing/ possibly broken*
 * [Fedilab](https://play.google.com/store/apps/details?id=app.fedilab.android) ([Website](https://fedilab.app/) \| [F-Droid](https://f-droid.org/packages/fr.gouv.etalab.mastodon/) \| [Codeberg](https://codeberg.org/tom79/Fedilab) \|\| **free on F-Droid**)  - a multifunctional Android client to access the distributed Fediverse
+* [Ivory](https://play.google.com/store/apps/details?id=com.askonomm.ivory) - an elegant client that focuses on usability and simplicity, **last update: 2019.06**
 * [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki/releases) ([Website](https://kaiteki.app/) \| [Mastodon](https://floss.social/@Kaiteki) \| [GitHub](https://github.com/Kaiteki-Fedi/Kaiteki))  - The comfy SNS client for everything, everywhere, available for Web, Windows, Linux and Android, *in early alpha*
 * [Mammut](https://play.google.com/store/apps/details?id=io.github.koss.mammut) ([GitHub](https://github.com/jamiesanson/Mammut)) - an app with Offline support, **last update: 2020.01**
 * [Mastodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android) ([Website](https://joinmastodon.org/apps) \| [Mastodon](https://mastodon.social/@Mastodon) \| [GitHub](https://github.com/mastodon/mastodon-android)) - the official Mastodon mobile app
 * * [Megalodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android.sk) ([Mastodon](https://floss.social/@megalodon) \| [GitHub](https://github.com/sk22/megalodon)) - a fork of the official Mastodon app adding certain features including the federated timeline, unlisted posting and an image description viewer
 * * * [Moshidon](https://github.com/LucasGGamerM/moshidon/releases) ([Mastodon](https://floss.social/@moshidon) \| [GitHub](https://github.com/LucasGGamerM/moshidon)) - a fork of the above-mentioned Megalodon app adding certain features and tweaks on top of Megalodon's features
 <!-- * [Meowstodon](https://play.google.com/store/apps/details?id=app.meowstodon.meowstodon) ([Website](https://meowstodon.app/) \| [Mastodon](https://abraham.social/@meow) \| [GitHub](TBD)) - The purrfect Mastodon app for Android, *not yet actually released* -->
+* [Shitter](https://github.com/nuclearfog/Shitter/releases) ([Mastodon](https://mastodon.social/@nuclearfog) \| [GitHub](https://github.com/nuclearfog/Shitter)) - a lightweight app for (Twitter/) Mastodon
 * [Subway Tooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter) ([Mastodon](https://mastodon.juggler.jp/@tateisu) \| [GitHub](https://github.com/tateisu/SubwayTooter)) - highly customisable Mastodon client
 * [tooot](https://play.google.com/store/apps/details?id=com.xmflsct.app.tooot)  ([Website](https://tooot.app/) \| [GitHub](https://github.com/tooot-app/app)) - a simple mobile client of Mastodon, started with a focus for Chinese community
 * [trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks) ([Mastodon](https://mstdn.social/@trunksapp)) - a cross-platform app with rich features, *in Early Access*
 * [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) ([Website](https://tusky.app/) \| [F-Droid](https://f-droid.org/packages/com.keylesspalace.tusky/) \| [Nightly](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky.test) \| [GitHub](https://github.com/tuskyapp/Tusky)) - a lightweight client for Mastodon
 * * [Husky](https://play.google.com/store/apps/details?id=su.xash.husky) ([Website](https://husky.adol.pw/) \| [F-Droid](https://f-droid.org/en/packages/su.xash.husky/) \| [Git](https://git.sr.ht/~captainepoch/husky)) - a fork of Tusky with Pleroma-specific additions
+* * * [koyu.space](https://f-droid.org/en/packages/com.Sommerlichter.social/) ([GitHub](https://github.com/koyuspace/android-native)) - a fork of the above-mentioned Husky, **last update: 2021.08**
 * * [Yuito](https://play.google.com/store/apps/details?id=net.accelf.yuito) ([Website](https://accelf.net/yuito) \| [GitHub](https://github.com/accelforce/Yuito)) - a fork of Tusky for Mastodon, Pleroma, Pixelfed etc.
 * [Twidere](https://play.google.com/store/apps/details?id=org.mariotaku.twidere) ([Website](https://twidere.com/) \| [F-Droid](https://f-droid.org/packages/org.mariotaku.twidere/) \| [GitHub](https://github.com/TwidereProject/Twidere-Android)) - Material Design ready and feature rich Twitter/Mastodon/Fanfou app, **officially unmaintained**, **last update: 2021.04**
 * * [Twidere X](https://play.google.com/store/apps/details?id=com.twidere.twiderex) ([Website](https://x.twidere.com/) \| [F-Droid](https://f-droid.org/en/packages/com.twidere.twiderex/) \| [GitHub](https://github.com/TwidereProject/TwidereX-Android)) - Next generation of Twidere, *in early stage*
@@ -347,6 +352,18 @@ Placeholder-->
 * [OwnCast](https://owncast.online/) - Decentralized self-hosted video streaming platform.
 * [Castopod](https://castopod.org/) - Decentralized podcast hosting platform.
 
+### Apps for Federated Services
+
+#### Android
+* [Jerboa for Lemmy](https://play.google.com/store/apps/details?id=com.jerboa) ([F-Droid](https://f-droid.org/en/packages/com.jerboa/) \| [GitHub](https://github.com/dessalines/jerboa)) - a native android app for **Lemmy**
+* [lemmur](https://f-droid.org/en/packages/com.krawieck.lemmur/) ([GitHub](https://github.com/LemmurOrg/lemmur)) - A mobile client for **Lemmy**, **officially unmaintained**, **last update: 2022.09**
+* [Pixelcat](https://github.com/pixelcatapp/Pixelcat/releases) ([GitHub](https://github.com/pixelcatapp/Pixelcat)) - beautiful and fast, focuses on images and is primarily intended to be used with **Pixelfed**, but it works with Mastodon and Pleroma as well, *in early stage*, **last update: 2020.09**
+* [PixelDroid](https://f-droid.org/en/packages/org.pixeldroid.app/) ([Website](https://pixeldroid.org/) \| [Mastodon](https://fosstodon.org/@PixelDroid) \| [GitLab](https://gitlab.shinice.net/pixeldroid/PixelDroid)) - a client for **Pixelfed**, the federated image sharing platform.
+* [Pixelfed](https://mastodon.social/@pixelfed/109618995767474855) ([Mastodon](https://mastodon.social/@pixelfed/)) - the official **Pixelfed** app
+
+#### iOS
+* [Pixelfed *Testflight*](https://testflight.apple.com/join/5HpHJD5l) ([Mastodon](https://mastodon.social/@pixelfed/)) - the official **Pixelfed** app
+
 ## Bots
 
 ### Bot accounts
@@ -464,7 +481,7 @@ Placeholder-->
 * Brief Description: what differentiates it from others \| short description taken from the app's website/ store page/ repo`
 * Development Stage: `in Early Access`\| `Testflight` \| `in alpha` \| `in public beta`
 * Officially unmaintained/ archived: mention if officially unmaintained or archived
-* Last Update: if the last update was a "long time" ago, add last update, e.g. `last update: 2010.01 [Year.Month]`
+* Last Update: if the last update release was a "long time" ago, add last update, e.g. `last update: 2010.01 [Year.Month]`
 * *Note:* 
 * * place `\` before each `|` to avoid creation of Markdown Tables = `\|`
 * * add in alphabetical order
