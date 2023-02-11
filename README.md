@@ -14,6 +14,8 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 
 **Mastodon is the world's largest free, open-source, decentralized microblogging network**. See the [Official](#official) category to learn more about the network.
 
+Entries marked with a ⭐ are apps and services that are either recommended by us, have a good set of features, or are generally often recommended or mentioned by the community. Especially intended for those new to Mastodon and the Fediverse.
+
 ## Contents
 
 * [Official](#official)
@@ -43,7 +45,7 @@ Forked from [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon/edi
 
 * [Brutaldon](https://brutaldon.org/) ([GitLab](https://gitlab.com/brutaldon/brutaldon)) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon.
 * [Cuckoo+](https://www.cuckoo.social) ([GitHub](https://github.com/NanaMorse/Cuckoo.Plus)) - a GooglePlus-like third-party web client for Mastodon
-* [Elk](https://elk.zone) ([Mastodon](https://m.webtoo.ls/@elk) \| [Beta](https://main.elk.zone/) \| [GitHub](https://github.com/elk-zone/elk)) - a nimble Mastodon web client
+* ⭐ [Elk](https://elk.zone) ([Mastodon](https://m.webtoo.ls/@elk) \| [Beta](https://main.elk.zone/) \| [GitHub](https://github.com/elk-zone/elk)) - a nimble Mastodon web client
 <!-- * [naumanni](https://naumanni.com/) ([GitHub](https://github.com/naumanni/naumanni)) - Web user interface specially designed for Mastodon, *no longer working* -->
 * [Halcyon *Instances*](https://www.halcyon.social/instances.php) ([Mastodon](https://social.csswg.org/@halcyon) \| [Alternative 1](https://halcyon.cybre.space) \| [Alternative 2](https://birdsite.masthead.social) \| [Source Code](https://notabug.org/halcyon-suite/halcyon)) - Alternative web client for Mastodon and Pleroma with a Twitter-like interface, **last update: 2020.07**
 <!-- * [Hyperspace](https://hyperspace.marquiskurt.net/) ([GitHub](https://github.com/hyperspacedev/hyperspace)) - layout options such as a masonry layout, *(no longer maintained)* *no longer working* -->
@@ -70,20 +72,20 @@ Comparison lists:
 
 <!-- * [11t](https://github.com/jeroensmeets/11t/releases) ([GitHub](https://github.com/jeroensmeets/11t)) - an app for connecting to Mastodon, **last update: 2017.05** *no update in a long time, needs testing for functionality*-->
 * [Fedi](https://play.google.com/store/apps/details?id=com.fediverse.app) ([Website](https://www.fediapp.com/)) - a beautiful and lightweight Pleroma and Mastodon client, **last update: 2021.11** *needs testing/ possibly broken*
-* [Fedilab](https://play.google.com/store/apps/details?id=app.fedilab.android) ([Website](https://fedilab.app/) \| [F-Droid](https://f-droid.org/packages/fr.gouv.etalab.mastodon/) \| [Codeberg](https://codeberg.org/tom79/Fedilab) \|\| **free on F-Droid**)  - a multifunctional Android client to access the distributed Fediverse
+* ⭐ [Fedilab](https://play.google.com/store/apps/details?id=app.fedilab.android) ([Website](https://fedilab.app/) \| [F-Droid](https://f-droid.org/packages/fr.gouv.etalab.mastodon/) \| [Codeberg](https://codeberg.org/tom79/Fedilab) \|\| **free on F-Droid**)  - a multifunctional Android client to access the distributed Fediverse
 * [Ivory](https://play.google.com/store/apps/details?id=com.askonomm.ivory) - an elegant client that focuses on usability and simplicity, **last update: 2019.06**
 * [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki/releases) ([Website](https://kaiteki.app/) \| [Mastodon](https://floss.social/@Kaiteki) \| [GitHub](https://github.com/Kaiteki-Fedi/Kaiteki))  - The comfy SNS client for everything, everywhere, available for Web, Windows, Linux and Android, *in early alpha*
 * [Mammut](https://play.google.com/store/apps/details?id=io.github.koss.mammut) ([GitHub](https://github.com/jamiesanson/Mammut)) - an app with Offline support, **last update: 2020.01**
 * [Mastodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android) ([Website](https://joinmastodon.org/apps) \| [Mastodon](https://mastodon.social/@Mastodon) \| [GitHub](https://github.com/mastodon/mastodon-android)) - the official Mastodon mobile app
-* * [Megalodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android.sk) ([Mastodon](https://floss.social/@megalodon) \| [GitHub](https://github.com/sk22/megalodon)) - a fork of the official Mastodon app adding certain features including the federated timeline, unlisted posting and an image description viewer
-* * * [Moshidon](https://github.com/LucasGGamerM/moshidon/releases) ([Mastodon](https://floss.social/@moshidon) \| [GitHub](https://github.com/LucasGGamerM/moshidon)) - a fork of the above-mentioned Megalodon app adding certain features and tweaks on top of Megalodon's features
+* * ⭐ [Megalodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android.sk) ([Mastodon](https://floss.social/@megalodon) \| [GitHub](https://github.com/sk22/megalodon)) - a fork of the official Mastodon app adding certain features including the federated timeline, unlisted posting and an image description viewer
+* * * ⭐ [Moshidon](https://github.com/LucasGGamerM/moshidon/releases) ([Mastodon](https://floss.social/@moshidon) \| [GitHub](https://github.com/LucasGGamerM/moshidon)) - a fork of the above-mentioned Megalodon app adding certain features and tweaks on top of Megalodon's features
 <!-- * [Meowstodon](https://play.google.com/store/apps/details?id=app.meowstodon.meowstodon) ([Website](https://meowstodon.app/) \| [Mastodon](https://abraham.social/@meow) \| [GitHub](TBD)) - The purrfect Mastodon app for Android, *not yet actually released* -->
 * [Shitter](https://github.com/nuclearfog/Shitter/releases) ([Mastodon](https://mastodon.social/@nuclearfog) \| [GitHub](https://github.com/nuclearfog/Shitter)) - a lightweight app for (Twitter/) Mastodon
 * [Subway Tooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter) ([Mastodon](https://mastodon.juggler.jp/@tateisu) \| [GitHub](https://github.com/tateisu/SubwayTooter)) - highly customisable Mastodon client
 * [tooot](https://play.google.com/store/apps/details?id=com.xmflsct.app.tooot)  ([Website](https://tooot.app/) \| [GitHub](https://github.com/tooot-app/app)) - a simple mobile client of Mastodon, started with a focus for Chinese community
 * [trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks) ([Mastodon](https://mstdn.social/@trunksapp)) - a cross-platform app with rich features, *in Early Access*
-* [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) ([Website](https://tusky.app/) \| [F-Droid](https://f-droid.org/packages/com.keylesspalace.tusky/) \| [Nightly](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky.test) \| [GitHub](https://github.com/tuskyapp/Tusky)) - a lightweight client for Mastodon
-* * [Husky](https://play.google.com/store/apps/details?id=su.xash.husky) ([Website](https://husky.adol.pw/) \| [F-Droid](https://f-droid.org/en/packages/su.xash.husky/) \| [Git](https://git.sr.ht/~captainepoch/husky)) - a fork of Tusky with Pleroma-specific additions
+* ⭐ [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) ([Website](https://tusky.app/) \| [F-Droid](https://f-droid.org/packages/com.keylesspalace.tusky/) \| [Nightly](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky.test) \| [GitHub](https://github.com/tuskyapp/Tusky)) - a lightweight client for Mastodon
+* * ⭐ [Husky](https://play.google.com/store/apps/details?id=su.xash.husky) ([Website](https://husky.adol.pw/) \| [F-Droid](https://f-droid.org/en/packages/su.xash.husky/) \| [Git](https://git.sr.ht/~captainepoch/husky)) - a fork of Tusky with Pleroma-specific additions
 * * * [koyu.space](https://f-droid.org/en/packages/com.Sommerlichter.social/) ([GitHub](https://github.com/koyuspace/android-native)) - a fork of the above-mentioned Husky, **last update: 2021.08**
 * * [Yuito](https://play.google.com/store/apps/details?id=net.accelf.yuito) ([Website](https://accelf.net/yuito) \| [GitHub](https://github.com/accelforce/Yuito)) - a fork of Tusky for Mastodon, Pleroma, Pixelfed etc.
 * [Twidere](https://play.google.com/store/apps/details?id=org.mariotaku.twidere) ([Website](https://twidere.com/) \| [F-Droid](https://f-droid.org/packages/org.mariotaku.twidere/) \| [GitHub](https://github.com/TwidereProject/Twidere-Android)) - Material Design ready and feature rich Twitter/Mastodon/Fanfou app, **officially unmaintained**, **last update: 2021.04**
@@ -243,7 +245,7 @@ Placeholder-->
 * [Moa](https://moa.party/)
 * [brandur/mastodon-cross-post](https://github.com/brandur/mastodon-cross-post) - golang script that crossposts tweets to Mastodon
 * [AmauryCarrade/MastodonToTwitter](https://github.com/AmauryCarrade/MastodonToTwitter) - Mastodon ⬄ Twitter real-time cross-poster, using streaming APIs
-* [BirdsiteLIVE](https://birdsite.wilde.cloud/) - a tool to follow Twitter users on Mastodon easily (Feel free to deploy your own instance if you plan to follow a lot of users)
+* ⭐ [BirdsiteLIVE](https://birdsite.wilde.cloud/) - a tool to follow Twitter users on Mastodon easily (Feel free to deploy your own instance if you plan to follow a lot of users)
 
 ### Webpage
 
@@ -265,8 +267,8 @@ Placeholder-->
 * [FediAct](https://github.com/Lartsch/FediAct) - Chrome / Firefox extension that simplifies follow and post interactions on Mastodon servers other than your own.
 * [Mastodon Link](https://github.com/masrly/mastodon-link) - Chrome extension that adds a clickable mastodon icon next to mastodon usernames to visit their profile on your instance for ease of following
 * [Mastodon View Profile](https://github.com/bramus/mastodon-view-profile) - Chrome extension that adds a button to the toolbar to visit a profile on your instance ease of following
-* [Graze for Mastodon](https://graze.jaredzimmerman.com/) - Chrome & Firefox extension that enables 1-click follow, favorite, boost, and bookmark for Mastodon, no matter what instance you call home.
-* [StreetPass](https://streetpass.social/) - an extension that collects `rel=me` links from websites that you visit so you can find people to follow on Mastodon based on the sites you visit
+* ⭐ [Graze for Mastodon](https://graze.jaredzimmerman.com/) - Chrome & Firefox extension that enables 1-click follow, favorite, boost, and bookmark for Mastodon, no matter what instance you call home.
+* ⭐ [StreetPass](https://streetpass.social/) - an extension that collects `rel=me` links from websites that you visit so you can find people to follow on Mastodon based on the sites you visit
 * [Thicctodon](https://gitlab.com/adzetko/thicctodon) - a browser extension that lets you change the width of columns in Mastodon's advanced view
 
 ### Bookmarklets
@@ -278,8 +280,8 @@ Placeholder-->
 
 * [Variable width](https://userstyles.org/styles/139721/mastodon-glitch-soc-variable-width) - Makes Mastodon scale with the browser's width.
 * [Narrow drawer](https://userstyles.org/styles/141457/mastodon-dynamic-wide-columns-narrow-drawer) - With the variable width style, makes the drawer narrower and the other columns scale accordingly.
-* [Mastodon Modern](https://userstyles.world/style/4773/mastodon-modern) - Drastically improves the look & feel of Mastodon. Can be used with other themes that only change colors.
-* [Mastodon Advanced View Plus](https://userstyles.world/style/7644/mastodon-advanced-view-plus) - Adds more options for Mastodon's advanced view.
+* ⭐ [Mastodon Modern](https://userstyles.world/style/4773/mastodon-modern) - Drastically improves the look & feel of Mastodon. Can be used with other themes that only change colors.
+* ⭐ [Mastodon Advanced View Plus](https://userstyles.world/style/7644/mastodon-advanced-view-plus) - Adds more options for Mastodon's advanced view.
 
 ### User scripts
 
@@ -358,8 +360,8 @@ Placeholder-->
 * [Jerboa for Lemmy](https://play.google.com/store/apps/details?id=com.jerboa) ([F-Droid](https://f-droid.org/en/packages/com.jerboa/) \| [GitHub](https://github.com/dessalines/jerboa)) - a native android app for **Lemmy**
 * [lemmur](https://f-droid.org/en/packages/com.krawieck.lemmur/) ([GitHub](https://github.com/LemmurOrg/lemmur)) - A mobile client for **Lemmy**, **officially unmaintained**, **last update: 2022.09**
 * [Pixelcat](https://github.com/pixelcatapp/Pixelcat/releases) ([GitHub](https://github.com/pixelcatapp/Pixelcat)) - beautiful and fast, focuses on images and is primarily intended to be used with **Pixelfed**, but it works with Mastodon and Pleroma as well, *in early stage*, **last update: 2020.09**
-* [PixelDroid](https://f-droid.org/en/packages/org.pixeldroid.app/) ([Website](https://pixeldroid.org/) \| [Mastodon](https://fosstodon.org/@PixelDroid) \| [GitLab](https://gitlab.shinice.net/pixeldroid/PixelDroid)) - a client for **Pixelfed**, the federated image sharing platform.
-* [Pixelfed](https://mastodon.social/@pixelfed/109618995767474855) ([Mastodon](https://mastodon.social/@pixelfed/)) - the official **Pixelfed** app
+* ⭐ [PixelDroid](https://f-droid.org/en/packages/org.pixeldroid.app/) ([Website](https://pixeldroid.org/) \| [Mastodon](https://fosstodon.org/@PixelDroid) \| [GitLab](https://gitlab.shinice.net/pixeldroid/PixelDroid)) - a client for **Pixelfed**, the federated image sharing platform.
+* ⭐ [Pixelfed](https://mastodon.social/@pixelfed/109618995767474855) ([Mastodon](https://mastodon.social/@pixelfed/)) - the official **Pixelfed** app
 
 #### iOS
 * [Pixelfed *Testflight*](https://testflight.apple.com/join/5HpHJD5l) ([Mastodon](https://mastodon.social/@pixelfed/)) - the official **Pixelfed** app
@@ -368,7 +370,7 @@ Placeholder-->
 
 ### Bot accounts
 
-* [Please Caption Bot](https://botsin.space/@PleaseCaption) - A bot that reminds you to caption your toots' images and videos (e.g. to help the visually impaired). [Source code](https://glitch.com/edit/#!/please-caption-mastodon)
+* ⭐ [Please Caption Bot](https://botsin.space/@PleaseCaption) - A bot that reminds you to caption your toots' images and videos (e.g. to help the visually impaired). [Source code](https://glitch.com/edit/#!/please-caption-mastodon)
 * [Trending Bot](https://mastodon.social/@TrendingBot) - Shows you what's trending on Mastodon.
 * [Mastodon Users Bot](https://bitcoinhackers.org/@mastodonusercount) - Posts the user count for all known Mastodon instances once an hour.
 * [Bots in Space](https://botsin.space/public/local) - a Mastodon instance with various kinds of bots
