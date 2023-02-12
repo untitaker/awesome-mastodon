@@ -51,7 +51,7 @@ Entries marked with a ⭐ are apps and services that are either recommended by u
 <!-- * [Hyperspace](https://hyperspace.marquiskurt.net/) ([GitHub](https://github.com/hyperspacedev/hyperspace)) - layout options such as a masonry layout, *(no longer maintained)* *no longer working* -->
 * [Kaiteki](https://web.kaiteki.app/#/welcome) ([Website](https://kaiteki.app/) \| [Mastodon](https://floss.social/@Kaiteki) \| [GitHub](https://github.com/Kaiteki-Fedi/Kaiteki))  - The comfy SNS client for everything, everywhere, available for Web, Windows, Linux and Android, *in early alpha*
 * [Mastodeck](https://mastodeck.com/) ([Mastodon](https://mastodon.social/@mastodeck)) - a Tweetdeck-like interface for Mastodon; 'advanced' interface with multiple verticle columns; highly customisable, *in open beta*
-* [Phanpy](https://phanpy.social/) ([Mastodon](https://hachyderm.io/@phanpy) \| [GitHub](https://github.com/cheeaun/phanpy)) - a minimalistic, opinionated web client for Mastodon
+* [Phanpy](https://phanpy.social/) ([Mastodon](https://hachyderm.io/@phanpy) \| [Beta](https://dev.phanpy.social/) \| [GitHub](https://github.com/cheeaun/phanpy)) - a minimalistic, opinionated web client for Mastodon
 * [Pinafore](https://pinafore.social/) ([GitHub](https://github.com/nolanlawson/pinafore)) - Alternative web client for Mastodon, focused on speed and simplicity, **officially unmaintained**, **last update: 2023.01**
   * [Semaphore](https://semaphore.social/) ([Mastodon](https://fosstodon.org/@semaphore) \| [Beta](https://beta.semaphore.social/) \| [GitHub](https://github.com/NickColley/semaphore)) - a continuation of Pinafore
 <!-- * [Planiverse](https://git.stjo.hn/planiverse/) - Minimalist, no-JS Web client for Mastodon, *no longer working* -->
@@ -70,16 +70,19 @@ Comparison lists:
 
 #### Android
 
-<!-- * [11t](https://github.com/jeroensmeets/11t/releases) ([GitHub](https://github.com/jeroensmeets/11t)) - an app for connecting to Mastodon, **last update: 2017.05** *no update in a long time, needs testing for functionality*-->
-* [Fedi](https://play.google.com/store/apps/details?id=com.fediverse.app) ([Website](https://www.fediapp.com/)) - a beautiful and lightweight Pleroma and Mastodon client, **last update: 2021.11** *needs testing/ possibly broken*
+* [AndStatus](https://play.google.com/store/apps/details?id=org.andstatus.app) ([Website](http://andstatus.org/) \| [Mastodon](https://mastodon.social/@AndStatus) \| [F-Droid](https://f-droid.org/repository/browse/?fdid=org.andstatus.app) \| [GitHub](https://github.com/andstatus/andstatus)) - a client for multiple Social networks (Mastodon, Twitter, ActivityPub, GNU social, Pump.io), can combine feeds from all networks into one Timeline, and allows reading and posting even when offline
+<!-- * [11t](https://github.com/jeroensmeets/11t/releases) ([GitHub](https://github.com/jeroensmeets/11t)) - an app for connecting to Mastodon, **last update: 2017.05** *crashes on opening*-->
+<!-- * [Fedi](https://play.google.com/store/apps/details?id=com.fediverse.app) ([Website](https://www.fediapp.com/)) - a beautiful and lightweight Pleroma and Mastodon client, **last update: 2021.11** *Home timeline broken* -->
 * ⭐ [Fedilab](https://play.google.com/store/apps/details?id=app.fedilab.android) ([Website](https://fedilab.app/) \| [F-Droid](https://f-droid.org/packages/fr.gouv.etalab.mastodon/) \| [Codeberg](https://codeberg.org/tom79/Fedilab) \|\| **free on F-Droid**)  - a multifunctional Android client to access the distributed Fediverse
-* [Ivory](https://play.google.com/store/apps/details?id=com.askonomm.ivory) - an elegant client that focuses on usability and simplicity, **last update: 2019.06**
+* [Gakki](https://apt.izzysoft.de/fdroid/index/apk/com.gakki) ([GitHub](https://github.com/shuiRong/Gakki)) - a client with a nice-looking UI **Chinese language only**, **last update: 2019.05**
+* [Ivory](https://play.google.com/store/apps/details?id=com.askonomm.ivory) - an elegant client that focuses on usability and simplicity, *in Early Access*, **last update: 2019.06**
 * [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki/releases) ([Website](https://kaiteki.app/) \| [Mastodon](https://floss.social/@Kaiteki) \| [GitHub](https://github.com/Kaiteki-Fedi/Kaiteki))  - The comfy SNS client for everything, everywhere, available for Web, Windows, Linux and Android, *in early alpha*
-* [Mammut](https://play.google.com/store/apps/details?id=io.github.koss.mammut) ([GitHub](https://github.com/jamiesanson/Mammut)) - an app with Offline support, **last update: 2020.01**
+<!-- * [Mammut](https://play.google.com/store/apps/details?id=io.github.koss.mammut) ([GitHub](https://github.com/jamiesanson/Mammut)) - an app with Offline support, *in beta*, **last update: 2020.01** *Home timeline broken* -->
 * [Mastodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android) ([Website](https://joinmastodon.org/apps) \| [Mastodon](https://mastodon.social/@Mastodon) \| [GitHub](https://github.com/mastodon/mastodon-android)) - the official Mastodon mobile app
 * * ⭐ [Megalodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android.sk) ([Mastodon](https://floss.social/@megalodon) \| [GitHub](https://github.com/sk22/megalodon)) - a fork of the official Mastodon app adding certain features including the federated timeline, unlisted posting and an image description viewer
 * * * ⭐ [Moshidon](https://github.com/LucasGGamerM/moshidon/releases) ([Mastodon](https://floss.social/@moshidon) \| [GitHub](https://github.com/LucasGGamerM/moshidon)) - a fork of the above-mentioned Megalodon app adding certain features and tweaks on top of Megalodon's features
 <!-- * [Meowstodon](https://play.google.com/store/apps/details?id=app.meowstodon.meowstodon) ([Website](https://meowstodon.app/) \| [Mastodon](https://abraham.social/@meow) \| [GitHub](TBD)) - The purrfect Mastodon app for Android, *not yet actually released* -->
+<!-- * [MouseApp](https://f-droid.org/packages/fr.xtof54.mousetodon/) ([GitHub](https://github.com/cerisara/mousetodon)) - supports multiple instances and language detection, *in early stage*, **last update: 2017.05** *very bare-bones UI* -->
 * [Shitter](https://github.com/nuclearfog/Shitter/releases) ([Mastodon](https://mastodon.social/@nuclearfog) \| [GitHub](https://github.com/nuclearfog/Shitter)) - a lightweight app for (Twitter/) Mastodon
 * [Subway Tooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter) ([Mastodon](https://mastodon.juggler.jp/@tateisu) \| [GitHub](https://github.com/tateisu/SubwayTooter)) - highly customisable Mastodon client
 * [tooot](https://play.google.com/store/apps/details?id=com.xmflsct.app.tooot)  ([Website](https://tooot.app/) \| [GitHub](https://github.com/tooot-app/app)) - a simple mobile client of Mastodon, started with a focus for Chinese community
@@ -107,7 +110,7 @@ Comparison lists:
 * [Mastoot](https://apps.apple.com/us/app/mastoot/id1501485410) ([Website](https://mastoot.app/) \| [Mastodon](https://mastodon.online/@Mastoot)) - a simple client app for Mastodon
 * [Mercury for Mastodon](https://apps.apple.com/us/app/mercury-for-mastodon/id1486749200) ([Website](https://onmercury.app/)) -  a customisable client for the Mastodon and Pleroma social networks, **last update: 2021.03**
 * [Metatext](https://apps.apple.com/us/app/metatext/id1523996615) ([Website](https://metabolist.org/) \| [GitHub](https://github.com/metabolist/metatext)) - a modern and accessible Mastodon client, **offically unmaintained**, **last update: 2022.11**
-<!-- * Mona ([Mastodon](https://mastodon.social/@MonaApp)) - superfast performance, truly native design and a highly customizable user interface *Release: Spring '23* -->
+<!-- * [Mona *Testflight*](https://testflight.apple.com/join/ouhGyNtI) ([Mastodon](https://mastodon.social/@MonaApp) \|\| **paid**) - superfast performance, truly native design and a highly customizable user interface *Release: Spring '23* **Testflight link needs to be tested before uncommenting** -->
 * [Osakadon](https://apps.apple.com/app/id1239260388) ([Mastodon](https://mstdn.osaka/@osakadon_ios)) - **Japanese language only**, **last update: 2021.04**
 * [Oyakodon](https://apps.apple.com/gb/app/oyakodon-for-mastodon/id1229174544) ([Mastodon](https://mstdn.jp/@isaotakeyasu)) - supports switching Mastodon instances by just swiping, **last update: 2018.10**
 * [tooot](https://apps.apple.com/gb/app/tooot/id1549772269) ([Website](https://tooot.app/) \| [GitHub](https://github.com/tooot-app/app)) -  a simple mobile client of Mastodon, started with a focus for Chinese community
@@ -148,6 +151,7 @@ Placeholder-->
 
 * [Mast: for Mastodon](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129) (**paid**) - a macOS Mastodon client, **last update: 2020.11**
 * [Mastonaut](https://apps.apple.com/us/app/mastonaut/id1450757574) ([Website](https://mastonaut.app) \| [Mastodon](https://mastodon.social/@mastonaut) \| [GitHub](https://github.com/brunophilipe/Mastonaut)) - a macOS Mastodon client, **officially archived**, **last update: 2021.10**
+<!-- * [Mona *Testflight*](https://testflight.apple.com/join/ouhGyNtI) ([Mastodon](https://mastodon.social/@MonaApp) \|\| **paid**) - superfast performance, truly native design and a highly customizable user interface *Release: Spring '23* **Testflight link needs to be tested before uncommenting** -->
 
 #### Linux
 
