@@ -98,8 +98,8 @@ Comparison lists:
 
 #### iOS
 
-* [Ice Cubes](https://apps.apple.com/gb/app/ice-cubes-for-mastodon/id6444915884) ([Mastodon](https://mastodon.cloud/@icecubesapp) \| [Testflight](https://testflight.apple.com/join/tqI3dK1u) \| [GitHub](https://github.com/Dimillian/IceCubesApp)) - a fast, reliable and beautiful Mastodon client
-* [Ivory](https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274) ([Website](https://tapbots.com/ivory/) \| [Mastodon](https://tapbots.social/@ivory) \|\| **paid**) - by the makers of TweetBot for Twitter, *in Early Access*
+* ⭐ [Ice Cubes](https://apps.apple.com/gb/app/ice-cubes-for-mastodon/id6444915884) ([Mastodon](https://mastodon.cloud/@icecubesapp) \| [Testflight](https://testflight.apple.com/join/tqI3dK1u) \| [GitHub](https://github.com/Dimillian/IceCubesApp)) - a fast, reliable and beautiful Mastodon client
+* ⭐ [Ivory](https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274) ([Website](https://tapbots.com/ivory/) \| [Mastodon](https://tapbots.social/@ivory) \|\| **paid**) - by the makers of TweetBot for Twitter, *in Early Access*
 * [Mammoth *Testflight*](https://testflight.apple.com/join/ejJ70WEq) ([Website](https://getmammoth.app/) \| [Mastodon](https://moth.social/@mammoth)) - a beautiful Mastodon app by the maker of Aviary for Twitter, *in beta*
 * [Mast: for Mastodon](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129) ([Website](https://www.pnguin.app/) \|\| **paid**) - a beautiful Mastodon app built with macOS design guidelines in mind, **last update: 2020.11**
 * [Mastodon](https://apps.apple.com/us/app/mastodon-for-iphone/id1571998974) ([Website](https://joinmastodon.org/apps) \| [Mastodon](https://mastodon.social/@Mastodon)  \| [GitHub](https://github.com/mastodon/mastodon-ios)) - the official Mastodon mobile app
