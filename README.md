@@ -110,7 +110,7 @@ Comparison lists:
 * [Mastoot](https://apps.apple.com/us/app/mastoot/id1501485410) ([Website](https://mastoot.app/) \| [Mastodon](https://mastodon.online/@Mastoot)) - a simple client app for Mastodon
 * [Mercury for Mastodon](https://apps.apple.com/us/app/mercury-for-mastodon/id1486749200) ([Website](https://onmercury.app/)) -  a customisable client for the Mastodon and Pleroma social networks, **last update: 2021.03**
 * [Metatext](https://apps.apple.com/us/app/metatext/id1523996615) ([Website](https://metabolist.org/) \| [GitHub](https://github.com/metabolist/metatext)) - a modern and accessible Mastodon client, **offically unmaintained**, **last update: 2022.11**
-<!-- * [Mona *Testflight*](https://testflight.apple.com/join/ouhGyNtI) ([Mastodon](https://mastodon.social/@MonaApp) \|\| **paid**) - superfast performance, truly native design and a highly customizable user interface *Release: Spring '23* **Testflight link needs to be tested before uncommenting** -->
+* [Mona *Testflight*](https://testflight.apple.com/join/xNdgUbh6) ([Mastodon](https://mastodon.social/@MonaApp) \|\| **paid**) - superfast performance, truly native design and a highly customizable user interface, from the developer of Spring for Twitter
 * [Osakadon](https://apps.apple.com/app/id1239260388) ([Mastodon](https://mstdn.osaka/@osakadon_ios)) - **Japanese language only**, **last update: 2021.04**
 * [Oyakodon](https://apps.apple.com/gb/app/oyakodon-for-mastodon/id1229174544) ([Mastodon](https://mstdn.jp/@isaotakeyasu)) - supports switching Mastodon instances by just swiping, **last update: 2018.10**
 * [tooot](https://apps.apple.com/gb/app/tooot/id1549772269) ([Website](https://tooot.app/) \| [GitHub](https://github.com/tooot-app/app)) -  a simple mobile client of Mastodon, started with a focus for Chinese community
@@ -151,7 +151,7 @@ Placeholder-->
 
 * [Mast: for Mastodon](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129) (**paid**) - a macOS Mastodon client, **last update: 2020.11**
 * [Mastonaut](https://apps.apple.com/us/app/mastonaut/id1450757574) ([Website](https://mastonaut.app) \| [Mastodon](https://mastodon.social/@mastonaut) \| [GitHub](https://github.com/brunophilipe/Mastonaut)) - a macOS Mastodon client, **officially archived**, **last update: 2021.10**
-<!-- * [Mona *Testflight*](https://testflight.apple.com/join/ouhGyNtI) ([Mastodon](https://mastodon.social/@MonaApp) \|\| **paid**) - superfast performance, truly native design and a highly customizable user interface *Release: Spring '23* **Testflight link needs to be tested before uncommenting** -->
+* [Mona](https://github.com/JunyuKuang/Spring-for-Twitter/releases/) ([Mastodon](https://mastodon.social/@MonaApp) \|\| **paid**) - superfast performance, truly native design and a highly customizable user interface from the developer of Spring for Twitter, *in beta*
 
 #### Linux
 
