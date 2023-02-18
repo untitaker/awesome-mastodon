@@ -101,6 +101,7 @@ Comparison lists:
 
 #### iOS
 
+* [Fedigardens *Testflight*](https://testflight.apple.com/join/31AZNhx9) ([Website](https://fedigardens.app/) \| [Mastodon](https://indieapps.space/@fedigardens) \|\| **free during Testflight**) - a simplified, discussion-driven experience for Mastodon
 * ⭐ [Ice Cubes](https://apps.apple.com/gb/app/ice-cubes-for-mastodon/id6444915884) ([Mastodon](https://mastodon.cloud/@icecubesapp) \| [Testflight](https://testflight.apple.com/join/tqI3dK1u) \| [GitHub](https://github.com/Dimillian/IceCubesApp)) - a fast, reliable and beautiful Mastodon client
 * ⭐ [Ivory](https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274) ([Website](https://tapbots.com/ivory/) \| [Mastodon](https://tapbots.social/@ivory) \|\| **paid**) - by the makers of TweetBot for Twitter, *in Early Access*
 * [Mammoth *Testflight*](https://testflight.apple.com/join/ejJ70WEq) ([Website](https://getmammoth.app/) \| [Mastodon](https://moth.social/@mammoth)) - a beautiful Mastodon app by the maker of Aviary for Twitter, *in beta*
