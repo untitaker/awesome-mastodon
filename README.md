@@ -366,10 +366,10 @@ Placeholder-->
 * [lemmur](https://f-droid.org/en/packages/com.krawieck.lemmur/) ([GitHub](https://github.com/LemmurOrg/lemmur)) - A mobile client for **Lemmy**, **officially unmaintained**, **last update: 2022.09**
 * [Pixelcat](https://github.com/pixelcatapp/Pixelcat/releases) ([GitHub](https://github.com/pixelcatapp/Pixelcat)) - beautiful and fast, focuses on images and is primarily intended to be used with **Pixelfed**, but it works with Mastodon and Pleroma as well, *in early stage*, **last update: 2020.09**
 * ⭐ [PixelDroid](https://f-droid.org/en/packages/org.pixeldroid.app/) ([Website](https://pixeldroid.org/) \| [Mastodon](https://fosstodon.org/@PixelDroid) \| [GitLab](https://gitlab.shinice.net/pixeldroid/PixelDroid)) - a client for **Pixelfed**, the federated image sharing platform.
-* ⭐ [Pixelfed](https://mastodon.social/@pixelfed/109618995767474855) ([Mastodon](https://mastodon.social/@pixelfed/)) - the official **Pixelfed** app
+* ⭐ [Pixelfed](https://pixelfed.org/mobile-apps) ([Mastodon](https://mastodon.social/@pixelfed/)) - the official **Pixelfed** app
 
 #### iOS
-* [Pixelfed *Testflight*](https://testflight.apple.com/join/5HpHJD5l) ([Mastodon](https://mastodon.social/@pixelfed/)) - the official **Pixelfed** app
+* ⭐ [Pixelfed *Testflight*](https://pixelfed.org/go/testflight-ios-beta) ([Website](https://pixelfed.org/mobile-apps) \| [Mastodon](https://mastodon.social/@pixelfed/)) - the official **Pixelfed** app
 
 ## Bots
 
