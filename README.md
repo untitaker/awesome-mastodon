@@ -104,7 +104,7 @@ Comparison lists:
 * [Fedigardens *Testflight*](https://testflight.apple.com/join/31AZNhx9) ([Website](https://fedigardens.app/) \| [Mastodon](https://indieapps.space/@fedigardens) \| [GitHub](https://github.com/alicerunsonfedora/fedigardens) \|\| **free during Testflight**) - a simplified, discussion-driven experience for Mastodon
 * ⭐ [Ice Cubes](https://apps.apple.com/gb/app/ice-cubes-for-mastodon/id6444915884) ([Mastodon](https://mastodon.cloud/@icecubesapp) \| [Testflight](https://testflight.apple.com/join/tqI3dK1u) \| [GitHub](https://github.com/Dimillian/IceCubesApp)) - a fast, reliable and beautiful Mastodon client
 * ⭐ [Ivory](https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274) ([Website](https://tapbots.com/ivory/) \| [Mastodon](https://tapbots.social/@ivory) \|\| **paid**) - by the makers of TweetBot for Twitter, *in Early Access*
-* [Mammoth *Testflight*](https://testflight.apple.com/join/ejJ70WEq) ([Website](https://getmammoth.app/) \| [Mastodon](https://moth.social/@mammoth)) - a beautiful Mastodon app by the maker of Aviary for Twitter, *in beta*
+* [Mammoth](https://apps.apple.com/app/mammoth-for-mastodon/id1667573899) ([Website](https://getmammoth.app/) \| [Mastodon](https://moth.social/@mammoth) \| [write.as](https://mammoth.writeas.com/)) - a beautiful Mastodon app by the maker of Aviary for Twitter, *in beta*
 * [Mast: for Mastodon](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129) ([Website](https://www.pnguin.app/) \|\| **paid**) - a beautiful Mastodon app built with macOS design guidelines in mind, **last update: 2020.11**
 * [Mastodon](https://apps.apple.com/us/app/mastodon-for-iphone/id1571998974) ([Website](https://joinmastodon.org/apps) \| [Mastodon](https://mastodon.social/@Mastodon)  \| [GitHub](https://github.com/mastodon/mastodon-ios)) - the official Mastodon mobile app
 <!-- * [Mastoon](https://apps.apple.com/us/app/mastoon-for-mastodon/id1633757607) - *link invalid/ removed* -->
@@ -230,6 +230,7 @@ Placeholder-->
 * [Quintessence](https://quintsns.pianeta.uno/) - web page that generates the latest links that have been shared the most among the people you follow
 * [Blogofy](https://www.blogofy.com/) -  Search for hashtags across indexed instances, or discover currently trending hashtags across indexed instances
 * [Tootfinder](https://tootfinder.ch/) ([Mastodon](https://tooting.ch/@buercher)) - Proof of concept of an opt-in, full-text, global Mastodon search
+* [FeedSeer](https://news.feedseer.com/welcome) - shows you the most popular links that have appeared on your Mastodon feed over the past day
 
 ### Toot management
 
