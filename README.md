@@ -240,6 +240,10 @@ Placeholder-->
 * [Thread counter by @axbom](https://xbm.se/fediverse/tc.php) - helps you split long posts into a numbered thread
 * [Chirr App](https://getchirrapp.com/) (**paid**)- a web app that intelligently splits a long tweets into a thread; pro users [can crosspost their toots and threads to Mastodon](https://getchirrapp.com/new/2022-11-5)
 
+### Analytics and Metrics
+* [Metricdon](https://metricdon.com) - Account and audience analytics, tweet performance tracking, backup and archival.
+
+
 #### Lists
 
 * [hueyy/mastodon-lists-manager](https://mastodon-lists-manager.huey.xyz/) - tool for managing lists and followed users on Mastodon
