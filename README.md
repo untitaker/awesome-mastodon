@@ -235,6 +235,7 @@ Placeholder-->
 
 ### Toot management
 
+* [Buffer](https://buffer.com/publish) - Schedule and publish content on Mastodon, Twitter, Instagram, and other platforms
 * [Forget](https://forget.codl.fr/about/) - Delete toots after a user defined period of time (Python [source code](https://github.com/codl/forget/)).
 * [Toot scheduler](https://scheduler.mastodon.tools/) - Schedule now, toot later.
 * [Thread counter by @axbom](https://xbm.se/fediverse/tc.php) - helps you split long posts into a numbered thread
