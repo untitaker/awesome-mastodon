@@ -188,6 +188,7 @@ Placeholder-->
 - [Fedi.Directory](https://fedi.directory/) - human-curated small selection of interesting accounts to help you get started on Mastodon and the Fediverse
 - [Fediverse.info](https://fediverse.info/explore/people) - search for users who post about a certain topic
 - [WordPress Community](https://wp-community-on-mastodon.wptoots.social/) - the WordPress community on Mastodon
+- [InfoSec account names](https://docs.google.com/spreadsheets/d/1t13k5_cNhP9_TgoUmqDZk2ROkWkF6Bg3O5269vKIqWw/) - curated by Lukasz Olejnik, cybersecurity and privacy researcher
 
 ### Server Lists
 
