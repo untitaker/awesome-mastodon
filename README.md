@@ -145,8 +145,8 @@ Comparison lists:
 * [Twidere X](https://github.com/TwidereProject/TwidereX-Android/releases) ([Website](https://x.twidere.com/) \| [App Store for macOS](https://apps.apple.com/app/twidere-x/id1530314034) \| [Snapcraft for Linux](https://snapcraft.io/whalebird) \| [GitHub](https://github.com/TwidereProject/TwidereX-iOS)) - cross-platform, customizable, clean client with plentiful functions for Twitter and Mastodon, *in early stage*
 * [Whalebird](https://github.com/h3poteto/whalebird-desktop/releases) ([Website](https://whalebird.social/en/desktop/contents) \| [App Store for macOS](https://apps.apple.com/us/app/whalebird/id1378283354) \| [GitHub](https://github.com/h3poteto/whalebird-desktop)) - an Electron-based Mastodon, Pleroma and Misskey client for Windows, Mac and Linux
 
-<!-- #### Windows
-Placeholder-->
+#### Windows
+* [Ellie](https://apps.microsoft.com/store/detail/ellie/9PBP0PNQTK2K) ([Website](https://ellie.software/) \| [Mastodon](https://mastodon.social/@ellieapp)) - a Mastodon client for Windows, right at home on your desktop, *Early access*
 
 #### macOS
 
