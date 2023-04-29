@@ -184,6 +184,7 @@ Comparison lists:
 - [The Walt List](https://docs.google.com/spreadsheets/d/1rNfUosPSiMwRbUAbnI3h-7D9grP6ULgS/edit#gid=1301725065) - Walt Shaub’s list of prolific posters — mostly US politics
 - [EduTooters Unite! - Mastodon #EduTooters and #K12Librarians Lists](https://docs.google.com/spreadsheets/d/1beJHWsuB0MJDMqeg_q8pBRWRdQImY-n8E6PttoJLFaM/edit)
 - [FediFied](https://www.fedified.com/) - notable Twitter users now in the Fediverse
+  - [Fedified - Discover Mastodon](https://discover.fedified.com/) - A dynamic collection of engaging Mastodon accounts, organized by topic area
 - [Trunk for the Fediverse](https://communitywiki.org/trunk) - a list of lists of users to follow
 - [Fedi.Directory](https://fedi.directory/) - human-curated small selection of interesting accounts to help you get started on Mastodon and the Fediverse
 - [Fediverse.info](https://fediverse.info/explore/people) - search for users who post about a certain topic
@@ -202,6 +203,8 @@ Comparison lists:
 * [Fediversesearch](https://www.fediversesearch.com/) - search for instances
 * [Fediverse.to](https://www.fediverse.to/) - fediverse instance search
 * [Mapstodon](https://www.comeetie.fr/galerie/mapstodon/) - a graph visualisation of fediverse instances
+* [The Federation](https://the-federation.info/) - fediverse statistics
+* [FediDevs](https://fedidevs.com/) - Discover fantastic devs from across the fediverse
 
 ## Tools
 
@@ -250,7 +253,7 @@ Comparison lists:
 
 * [hueyy/mastodon-lists-manager](https://mastodon-lists-manager.huey.xyz/) - tool for managing lists and followed users on Mastodon
 * [Mastolists](https://mastolists.novaloop.cloud) - tool for managing lists (list view, matrix view and table view)
-* [acbeers/mastodonlm](https://acbeers.github.io/mastodonlm/) - a simple list manager, bulit in the style of Twitter List Manager.
+* [acbeers/mastodonlm](https://www.mastodonlistmanager.org) - a simple list manager, bulit in the style of Twitter List Manager.
 
 ### Cross-posting
 
