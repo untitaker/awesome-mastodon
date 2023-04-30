@@ -217,6 +217,7 @@ Comparison lists:
 * [Debirdify](https://debirdify.pruvisto.org/) - searches across the users you follow and your Twitter lists to locate users who have Fediverse handles; helps you identify instances relevant to your interests; exports a CSV that you can import into Mastodon
 * [Mastodon Flock](https://mastodon-flock.vercel.app/) - helps you find users who follow on Twitter who are also on Mastodon, via a Windows 95-style wizard
 * [Twittodon](https://twittodon.com/) - allows you to verify connection between your Twitter and Mastodon accounts and adds you to a open database with people who already verified their connection
+* [Fossilize](https://github.com/potatoqualitee/fossilize) - GitHub Action that helps you backup Mastodon account items to CSV files
 
 ### Fediverse discovery
 
@@ -269,6 +270,15 @@ Comparison lists:
 * [emfed](https://github.com/sampsyo/emfed) - embed your Mastodon feed onto a web page
 * [Last](https://framagit.org/luc/last) - aggregates toots on a web page providing Atom feed and an epub (Perl).
 * [JustMyToots](https://github.com/cookiemumbles/justmytoots.com) - create a simple site that displays the toots but not the boosts for a particular user. It helps people that want to showcase their toots, for example when doing jokes, drawings, photos or any other form of content people might want to look back through.
+
+### Archiving
+
+* [mastodon-archive-static-site](https://codeberg.org/scy/mastodon-archive-static-site) - a Python script to convert a Mastodon user archive into a static site.
+* [Mastodon archive HTML generator](https://github.com/quicoto/mastodon-archive) ([blog post](https://ricard.dev/creating-a-static-mastodon-users-archive/)) - tool for creating a static Mastodon user's archive
+* [Mastodon Archive](https://alexschroeder.ch/software/Mastodon_Archive) - a command line tool to create an archive of your toots, favourites and mentions such that you can search them, turn them into text files, static HTML, or expire them
+* [meow](https://purr.neocities.org/) - viewer for Mastodon export files
+* [kit-ty-kate/mastodon-archive-viewer](https://github.com/kit-ty-kate/mastodon-archive-viewer) - view your Mastodon archive offline
+* [blackle/mastodon-data-viewer.py](https://github.com/blackle/mastodon-data-viewer.py) - a viewer for mastodon export data 
 
 ### Misc
 
@@ -475,6 +485,11 @@ Comparison lists:
 
 * [rixx.de: On Running a Mastodon Instance](https://rixx.de/blog/on-running-a-mastodon-instance/)
 * [EFF: User Generated Content and the Fediverse - A Legal Primer](https://www.eff.org/deeplinks/2022/12/user-generated-content-and-fediverse-legal-primer)
+
+#### Fediverse comments on blogs
+
+* [Mastodon as comment system for your static blog](https://danielpecos.com/2022/12/25/mastodon-as-comment-system-for-your-static-blog/)
+* [Client-side comments with Mastodon on a static Jekyll website](https://jan.wildeboer.net/2023/02/Jekyll-Mastodon-Comments/)
 
 ## Contribution Guidelines
 
