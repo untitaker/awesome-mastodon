@@ -328,6 +328,7 @@ Comparison lists:
 - [Per Axbom: A Brief Mastodon Guide for Social Media Worriers](https://axbom.com/mastodon-guide/)
 - [Mastodon Privacy Guide](https://github.com/clening/MastodonPrivacyGuide/) - a guide on data protection obligations, challenges & pitfalls for Mastodon users & instance admins
 - [Mastodon 101 for Journalists](https://lisawilliams.github.io/lisa/tech/2022/11/28/mastodon-101-for-journalists.html)
+- [The Verge: Can Mastodon seize the moment from Twitter? CEO Eugen Rochko on running — and growing — a decentralized social network](https://www.theverge.com/23658648/mastodon-ceo-twitter-interview-elon-musk-twitter)
 
 ### History
 
@@ -410,6 +411,7 @@ Comparison lists:
 * [Remindr](https://gitlab.com/chaica/remindr) - Automatically send reminders to both Mastodon and Twitter from a list of resources (Python).
 * [News Bot](https://github.com/yogthos/mastodon-bot) - mirrors Twitter accounts on Mastodon (ClojureScript).
 * [Welcome Bot](https://github.com/indyhall/mastodon-welcome-bot) - Automatically send a welcome DM to new users (Python).
+* [~qeef/bot-allowed-tooters](https://git.sr.ht/~qeef/bot-allowed-tooters/) - Toots DMs from a whitelist of accounts. Useful for announcements.
 
 ### RSS
 
