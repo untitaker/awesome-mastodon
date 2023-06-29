@@ -139,6 +139,7 @@ Comparison lists:
 
 <!-- * [Ebou](https://mastodon.social/@terhechte/109762188190735435) - a desktop client that looks like a messaging app; it groups conversations into by friends and sorts by recent postings *not released yet* -->
 * [Elk Native](https://github.com/elk-zone/elk-native/releases) ([Mastodon](https://m.webtoo.ls/@elk) \| [GitHub Main](https://github.com/elk-zone/elk) \| [GitHub Sub](https://github.com/elk-zone/elk-native)) - Native version of Elk, a nimble Mastodon web client
+* [fedistar](https://fedistar.net/) ([GitHub Main](https://github.com/h3poteto/fedistar)) - Multi-column Fediverse client application for desktop (Mastodon, Pleroma, Friendica) 
 * [Mastodon Explorer](https://mastodonexplorer.com) - unique, search-based desktop client for Mac, Windows or Linux, no Mastodon account needed, **last update: ?**
 * [Mastotron](https://github.com/quadrismegistus/mastotron/releases) ([Mastodon](https://zirk.us/@heuser/109838089472588601) \| [GitHub](https://github.com/quadrismegistus/mastotron)) - A new interface to Mastodon, and other experiments in social media, *in early stage*
 * [Sengi](https://github.com/NicolasConstant/sengi/releases/) ([Website](https://nicolasconstant.github.io/sengi/) \| [Mastodon](https://mastodon.social/@sengi_app) \| [GitHub](https://nicolasconstant.github.io/sengi/)) - a multi-account Mastodon and Pleroma desktop client
