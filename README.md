@@ -219,6 +219,7 @@ Comparison lists:
 * [Mastodon Flock](https://mastodon-flock.vercel.app/) - helps you find users who follow on Twitter who are also on Mastodon, via a Windows 95-style wizard
 * [Twittodon](https://twittodon.com/) - allows you to verify connection between your Twitter and Mastodon accounts and adds you to a open database with people who already verified their connection
 * [Fossilize](https://github.com/potatoqualitee/fossilize) - GitHub Action that helps you backup Mastodon account items to CSV files
+* [MastodonContentMover](https://mastodoncontentmover.github.io/) - A command-line tool that downloads your posts from one Mastodon instance, saving them as a set of files on your computer, and then re-posts them on any other Mastodon instance. Its purpose is to allow Mastodon users to move content they value when migrating from one instance to another, which is not currently possible within Mastodon itself. 
 
 ### Fediverse discovery
 
@@ -288,6 +289,7 @@ Comparison lists:
 * [Mastinator](https://mastinator.com/) - disposable public anonymous no-login Fediverse accounts
 * [Mastodon Bookmark RSS](https://bookmark-rss.services.woodland.cafe/) - expose your bookmarks as private RSS feed to read later, or for archival
 * [Mastowatch](https://apps.apple.com/us/app/mastowatch/id1662271463) - iOS/macOS app that allows you to inspect the public config and details of any Mastodon server without having to log in or register
+* [Mastopoet](https://mastopoet.ohjelmoi.fi) - Mastodon post screenshot tool that allows you to create beautiful screenshots of toots for sharing
 
 ## Extensions
 
@@ -483,6 +485,12 @@ Comparison lists:
 
 * [FakeRelay](https://github.com/g3rv4/FakeRelay) - tool for Mastodon admins to load statuses from other instances into their own instance
 * [RelayList](https://relaylist.com) - A list of relays that can be added to a Mastodon, Misskey, or Pleroma server.
+
+### Themes
+
+* [mastodon-bird-ui](https://github.com/ronilaukkarinen/mastodon-bird-ui/) - Mastodon web UI, but strongly inspired by Twitter. CSS file that you can use with any Mastodon instance or which can be installed by the instance administrator. 
+* [mastomods](https://github.com/trwnh/mastomods) - CSS tweaks and custom themes for Mastodon.
+* [Catppuccin for Mastodon](https://github.com/catppuccin/userstyles/tree/main/styles/mastodon) - Soothing pastel theme for Mastodon. 
 
 ### Guides
 
