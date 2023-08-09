@@ -207,6 +207,7 @@ Comparison lists:
 * [Mapstodon](https://www.comeetie.fr/galerie/mapstodon/) - a graph visualisation of fediverse instances
 * [The Federation](https://the-federation.info/) - fediverse statistics
 * [FediDevs](https://fedidevs.com/) - Discover fantastic devs from across the fediverse
+* [WordPress Mastodon/Fediverse Directory](https://sethgoldstein.me/wordpress-fediverse-directory/) - a directory of WordPress sites with ActivityPub support
 
 ## Tools
 
@@ -220,6 +221,7 @@ Comparison lists:
 * [Twittodon](https://twittodon.com/) - allows you to verify connection between your Twitter and Mastodon accounts and adds you to a open database with people who already verified their connection
 * [Fossilize](https://github.com/potatoqualitee/fossilize) - GitHub Action that helps you backup Mastodon account items to CSV files
 * [MastodonContentMover](https://mastodoncontentmover.github.io/) - A command-line tool that downloads your posts from one Mastodon instance, saving them as a set of files on your computer, and then re-posts them on any other Mastodon instance. Its purpose is to allow Mastodon users to move content they value when migrating from one instance to another, which is not currently possible within Mastodon itself. 
+* [Preview domain blocks before moving to a new Mastodon instance](https://stefanbohacek.com/blog/preview-domain-blocks-before-moving-to-a-new-mastodon-instance/) - tool that lets you see which contacts (your followers and accounts you follow) you’d lose if you were to move to a new Mastodon instance and what instances are defederated by the new instance. 
 
 ### Fediverse discovery
 
@@ -343,6 +345,10 @@ Comparison lists:
 ### Essays
 
 - [Fediverse & Mastodon Essays](https://docs.google.com/spreadsheets/d/1knujLkJlJZ9xrZgdy8LB6hW3zCy9JSNSy_S4N0v3FuU/edit) - a list of essays about Mastodon and the Fediverse
+
+### Migration
+
+- [Erin Kissane: Notes from a Mastodon migration](https://erinkissane.com/notes-from-a-mastodon-migration)
 
 ## Federated services
 
@@ -496,11 +502,18 @@ Comparison lists:
 
 * [rixx.de: On Running a Mastodon Instance](https://rixx.de/blog/on-running-a-mastodon-instance/)
 * [EFF: User Generated Content and the Fediverse - A Legal Primer](https://www.eff.org/deeplinks/2022/12/user-generated-content-and-fediverse-legal-primer)
+* [A guide to potential liability pitfalls for people running a Mastodon instance](https://denise.dreamwidth.org/91757.html)
+* [Notes on operating fediverse services (Mastodon, Pleroma etc) from an English law point of view](https://decoded.legal/blog/2022/11/notes-on-operating-fediverse-services-mastodon-pleroma-etc-from-an-english-law-point-of-view)
 
 #### Fediverse comments on blogs
 
 * [Mastodon as comment system for your static blog](https://danielpecos.com/2022/12/25/mastodon-as-comment-system-for-your-static-blog/)
 * [Client-side comments with Mastodon on a static Jekyll website](https://jan.wildeboer.net/2023/02/Jekyll-Mastodon-Comments/)
+
+### Lists
+
+* [nev/awesome-fediadmin](https://codeberg.org/nev/awesome-fediadmin/) - a collection of awesome resources for running your own federated social media website.
+* [fediverse/fediverse-ideas](https://codeberg.org/fediverse/fediverse-ideas) - a collection of ideas for possible Fediverse projects.
 
 ## Contribution Guidelines
 
