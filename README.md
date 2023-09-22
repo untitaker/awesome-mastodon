@@ -408,6 +408,8 @@ Comparison lists:
 ### Bot accounts
 
 * ⭐ [Please Caption Bot](https://botsin.space/@PleaseCaption) - A bot that reminds you to caption your toots' images and videos (e.g. to help the visually impaired). [Source code](https://glitch.com/edit/#!/please-caption-mastodon)
+* [Alt Text Reminder](https://mastodon.social/@alt_text) - A bot that reminds you to add alt text, similar to Please Caption Bot.
+* [a11y Link Bot](https://mastodon.social/@a11y_link_bot) - A bot that warns you if you are linking to websites that are inaccessible.
 * [Trending Bot](https://mastodon.social/@TrendingBot) - Shows you what's trending on Mastodon.
 * [Mastodon Users Bot](https://bitcoinhackers.org/@mastodonusercount) - Posts the user count for all known Mastodon instances once an hour.
 * [Bots in Space](https://botsin.space/public/local) - a Mastodon instance with various kinds of bots
