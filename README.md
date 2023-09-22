@@ -274,6 +274,7 @@ Comparison lists:
 * [emfed](https://github.com/sampsyo/emfed) - embed your Mastodon feed onto a web page
 * [Last](https://framagit.org/luc/last) - aggregates toots on a web page providing Atom feed and an epub (Perl).
 * [JustMyToots](https://github.com/cookiemumbles/justmytoots.com) - create a simple site that displays the toots but not the boosts for a particular user. It helps people that want to showcase their toots, for example when doing jokes, drawings, photos or any other form of content people might want to look back through.
+* [Masto Reader](https://mastoreader.io/) - Equivalent to Thread Reader App from Twitter, "reader mode" for long threads.
 
 ### Archiving
 
