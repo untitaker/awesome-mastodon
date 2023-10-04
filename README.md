@@ -242,6 +242,7 @@ Comparison lists:
 * [Blogofy](https://www.blogofy.com/) -  Search for hashtags across indexed instances, or discover currently trending hashtags across indexed instances
 * [Tootfinder](https://tootfinder.ch/) ([Mastodon](https://tooting.ch/@buercher)) - Proof of concept of an opt-in, full-text, global Mastodon search
 * [FeedSeer](https://news.feedseer.com/welcome) - shows you the most popular links that have appeared on your Mastodon feed over the past day
+* [Toot2Mail](https://github.com/eht16/toot2mail) - Generate notification emails from Mastodon toots, useful to passively follow users and hashtags
 
 ### Toot management
 
