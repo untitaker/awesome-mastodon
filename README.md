@@ -102,7 +102,7 @@ Comparison lists:
 #### iOS
 
 * [Dudu](https://apps.apple.com/us/app/%E5%98%9F%E5%98%9F%E9%95%BF%E6%AF%9B%E8%B1%A1/id1531987827) ([GitHub](https://github.com/duduapp/dudu)) - a multiplatform (Android and iOS) client written in Flutter
-* [Feather](https://apps.apple.com/sa/app/feather-for-mastodon/id6446263061) ([Website](https://covelline.com/feather/mastodon/) \| [Mastodon](https://covelline.social/@feather)) - subscription to remove ads and receive push notifications
+* [Feather](https://apps.apple.com/sa/app/feather-for-mastodon/id6446263061) ([Website](https://covelline.com/feather/mastodon/) \| [Mastodon](https://covelline.social/@feather) \|\| **paid subscription to remove ads and receive push notifications**) - a client that pursues comfort and customization
 * [Fedigardens *Testflight*](https://testflight.apple.com/join/31AZNhx9) ([Website](https://fedigardens.app/) \| [Mastodon](https://indieapps.space/@fedigardens) \| [GitHub](https://github.com/alicerunsonfedora/fedigardens) \|\| **free during Testflight**) - a simplified, discussion-driven experience for Mastodon
 * ⭐ [Ice Cubes](https://apps.apple.com/gb/app/ice-cubes-for-mastodon/id6444915884) ([Mastodon](https://mastodon.cloud/@icecubesapp) \| [Testflight](https://testflight.apple.com/join/tqI3dK1u) \| [GitHub](https://github.com/Dimillian/IceCubesApp)) - a fast, reliable and beautiful Mastodon client
 * ⭐ [Ivory](https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274) ([Website](https://tapbots.com/ivory/) \| [Mastodon](https://tapbots.social/@ivory) \|\| **paid**) - by the makers of TweetBot for Twitter, *in Early Access*
