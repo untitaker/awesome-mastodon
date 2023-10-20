@@ -121,6 +121,7 @@ Comparison lists:
 * [Pilio *Testflight*](https://testflight.apple.com/join/0RfZtIsx) ([Mastodon](https://indieapps.space/@pipilo)) - Fediverse client with a horizontally scrolling timeline.
 * [Radiant](https://apps.apple.com/us/app/radiant-for-mastodon/id6444323022) ([Website](https://radiant.social/) \| [Mastodon](https://hachyderm.io/@jknlsn)) - Fast and customisable with incredible features, wrapped in a beautiful iOS native design.
 * [Sora SNS](https://apps.apple.com/us/app/sora-for-mastodon-bluesky/id6450969760) ([Website](https://mszpro.com/) \| [Mastodon](https://sns.mszpro.com/@me)) - Connect with Mastodon, Misskey, Firefish, and Bluesky instances.
+* [Stella](https://apps.apple.com/in/app/stella/id921372048) ([Website](https://www.stella-app.net/)) - Mastodon, Twitter &News Client.
 * [tooot](https://apps.apple.com/gb/app/tooot/id1549772269) ([Website](https://tooot.app/) \| [GitHub](https://github.com/tooot-app/app)) - a simple mobile client of Mastodon, started with a focus for Chinese community
 * [Toot!](https://apps.apple.com/us/app/toot/id1229021451) ([Mastodon](https://mastodon.social/@tootapp) \|\| **paid**) - a beautiful, and full of character and whimsy
 * [TootDesk](https://apps.apple.com/app/id1591748028) ([Mastodon](https://2m.cutls.com/@Cutls) \| [GitHub](https://github.com/cutls/TootDesk)) - a Mastodon client from the developer of TheDesk for Desktop
