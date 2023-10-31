@@ -101,6 +101,7 @@ Comparison lists:
 
 #### iOS
 
+* [Dawn](https://apps.apple.com/ca/app/dawn-for-mastodon/id1668645019) ([Mastodon](https://mstdn.jp/@noppefoxwolf) \|\| **paid**) - providing an easy-to-use interface while taking full advantage of Mastodon's features
 * [Dudu](https://apps.apple.com/us/app/%E5%98%9F%E5%98%9F%E9%95%BF%E6%AF%9B%E8%B1%A1/id1531987827) ([GitHub](https://github.com/duduapp/dudu)) - a multiplatform (Android and iOS) client written in Flutter
 * [Feather](https://apps.apple.com/sa/app/feather-for-mastodon/id6446263061) ([Website](https://covelline.com/feather/mastodon/) \| [Mastodon](https://covelline.social/@feather) \|\| **paid subscription to remove ads and receive push notifications**) - a client that pursues comfort and customization
 * [Fedigardens *Testflight*](https://testflight.apple.com/join/31AZNhx9) ([Website](https://fedigardens.app/) \| [Mastodon](https://indieapps.space/@fedigardens) \| [GitHub](https://github.com/alicerunsonfedora/fedigardens) \|\| **free during Testflight**) - a simplified, discussion-driven experience for Mastodon
