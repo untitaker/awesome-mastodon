@@ -132,6 +132,7 @@ Comparison lists:
 * [Tootter](https://apps.apple.com/us/app/tootter-for-mastodon/id1629293955) - a simple Mastodon client
 * [Tootle for Mastodon](https://apps.apple.com/us/app/tootle-for-mastodon/id1236013466) ([Mastodon](https://mastodon.cloud/@tootleapp)) - a multifunctional Mastodon client, **last update: 2020.04**
 * [Tootoise](https://apps.apple.com/us/app/tootoise/id1465090190) ([Mastodon](https://mastodon.social/@tootoise)) - a simple Mastodon client
+* TootyGraph ([Mastodon](https://togl.me/@tootygraph) \| [GitHub](https://github.com/samscam/tootygraph)) - a playful, photography-focussed, fediverse client app for iOS
 * [Trunk *Testflight*](https://testflight.apple.com/join/1ir4E70u) ([Mastodon](https://mastodon.social/@davbeck)) - with a unique scrolling concept for better engagement and more focus on each individual post.
 * [trunks](https://apps.apple.com/us/app/trunks-for-mastodon/id6444749479) ([Mastodon](https://mstdn.social/@trunksapp) \| [Testflight](https://testflight.apple.com/join/g8J05VSB)) - a cross-platform app with rich features
 * [Tusker](https://apps.apple.com/gb/app/tusker/id1498334597) ([Website](https://vaccor.space/tusker/) \| [Git](https://git.shadowfacts.net/shadowfacts/Tusker)) - a flexible client for Mastodon and other compatible services
