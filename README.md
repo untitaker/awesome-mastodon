@@ -142,6 +142,8 @@ Comparison lists:
 ##### Tools (Not full clients) (iOS)
 
 - [Linky](https://apps.apple.com/app/id438090426) ([Website](https://pragmaticcode.com/linky/) \| [Mastodon](https://mastodon.social/@pragmaticcode)) - lets you easily share webpage links, images and text extracts to Mastodon
+- [Topiary](https://apps.apple.com/us/app/topiary-trim-your-followers/id6446443154) ([Website](https://lightbeamapps.com/topiary/)) - Manage your Mastodon account
+
 
 #### SailfishOS
 
