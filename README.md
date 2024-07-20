@@ -139,6 +139,7 @@ Comparison lists:
 * [Tusker](https://apps.apple.com/gb/app/tusker/id1498334597) ([Website](https://vaccor.space/tusker/) \| [Git](https://git.shadowfacts.net/shadowfacts/Tusker)) - a flexible client for Mastodon and other compatible services
 * [Twidere X](https://apps.apple.com/app/twidere-x/id1530314034) ([Website](https://x.twidere.com/) \| [GitHub](https://github.com/TwidereProject/TwidereX-iOS)) - cross-platform, customizable, clean client with plentiful functions for Twitter and Mastodon, *in early stage*
 * [Woolly for Mastodon *Testflight*](https://testflight.apple.com/join/2LVAJQTP) ([Mastodon](https://mastodon.social/@mttvll)) - *no description yet*
+* [Oxpecker for Mastodon](https://apps.apple.com/us/app/oxpecker-for-mastodon/id6474893905) ([Website](https://oxpecker.social/) | [Mastodon](https://mastodon.social/@oxpeckerapp)) - a Mastodon client for the Apple Watch
 
 ##### Tools (Not full clients) (iOS)
 
