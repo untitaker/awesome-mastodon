@@ -43,6 +43,7 @@ Entries marked with a ⭐ are apps and services that are either recommended by u
 
 ### Web
 
+* [Agora](https://agorasocial.app/) ([GitHub](https://github.com/ghobs91/agora)) - Follow your interests across Mastodon, Bluesky, Nostr, and Threads.
 * [Brutaldon](https://brutaldon.org/) ([GitLab](https://gitlab.com/brutaldon/brutaldon)) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon.
 * [Cuckoo+](https://www.cuckoo.social) ([GitHub](https://github.com/NanaMorse/Cuckoo.Plus)) - a GooglePlus-like third-party web client for Mastodon
 * ⭐ [Elk](https://elk.zone) ([Mastodon](https://m.webtoo.ls/@elk) \| [Beta](https://main.elk.zone/) \| [GitHub](https://github.com/elk-zone/elk)) - a nimble Mastodon web client
