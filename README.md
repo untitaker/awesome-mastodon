@@ -43,6 +43,7 @@ Entries marked with a ⭐ are apps and services that are either recommended by u
 
 ### Web
 
+* [Agora](https://agorasocial.app/) ([GitHub](https://github.com/ghobs91/agora)) - Follow your interests across Mastodon, Bluesky, Nostr, and Threads.
 * [Brutaldon](https://brutaldon.org/) ([GitLab](https://gitlab.com/brutaldon/brutaldon)) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon.
 * [Cuckoo+](https://www.cuckoo.social) ([GitHub](https://github.com/NanaMorse/Cuckoo.Plus)) - a GooglePlus-like third-party web client for Mastodon
 * ⭐ [Elk](https://elk.zone) ([Mastodon](https://m.webtoo.ls/@elk) \| [Beta](https://main.elk.zone/) \| [GitHub](https://github.com/elk-zone/elk)) - a nimble Mastodon web client
@@ -139,6 +140,7 @@ Comparison lists:
 * [Tusker](https://apps.apple.com/gb/app/tusker/id1498334597) ([Website](https://vaccor.space/tusker/) \| [Git](https://git.shadowfacts.net/shadowfacts/Tusker)) - a flexible client for Mastodon and other compatible services
 * [Twidere X](https://apps.apple.com/app/twidere-x/id1530314034) ([Website](https://x.twidere.com/) \| [GitHub](https://github.com/TwidereProject/TwidereX-iOS)) - cross-platform, customizable, clean client with plentiful functions for Twitter and Mastodon, *in early stage*
 * [Woolly for Mastodon](https://apps.apple.com/us/app/woolly-for-mastodon/id6444360628) ([Mastodon](https://mastodon.social/@mttvll)) - *no description yet*
+* [Oxpecker for Mastodon](https://apps.apple.com/us/app/oxpecker-for-mastodon/id6474893905) ([Website](https://oxpecker.social/) | [Mastodon](https://mastodon.social/@oxpeckerapp)) - a Mastodon client for the Apple Watch
 
 ##### Tools (Not full clients) (iOS)
 
@@ -432,6 +434,7 @@ Comparison lists:
 * [Mastodon Users Bot](https://bitcoinhackers.org/@mastodonusercount) - Posts the user count for all known Mastodon instances once an hour.
 * [Bots in Space](https://botsin.space/public/local) - a Mastodon instance with various kinds of bots
 * [Twitter Bots to Mastodon Migration List](https://docs.google.com/spreadsheets/d/1SOmgXL3fRHAsxiVufw73VmzYmyLGat5koC7sf045Cic/edit) - a list of Twitter bots that plan to migrate to Mastodon after [Twitter decided to start charging for API access in February 2023](https://www.theverge.com/2023/2/2/23582615/twitter-removing-free-api-developer-apps-price-announcement)
+* [Fediverse bots on Botwiki](https://botwiki.org/bots/fediverse-bots/) - A list of fediverse bots grouped by category.
 
 ### Bots for self-hosting
 
