@@ -434,6 +434,7 @@ Comparison lists:
 * [Mastodon Users Bot](https://bitcoinhackers.org/@mastodonusercount) - Posts the user count for all known Mastodon instances once an hour.
 * [Bots in Space](https://botsin.space/public/local) - a Mastodon instance with various kinds of bots
 * [Twitter Bots to Mastodon Migration List](https://docs.google.com/spreadsheets/d/1SOmgXL3fRHAsxiVufw73VmzYmyLGat5koC7sf045Cic/edit) - a list of Twitter bots that plan to migrate to Mastodon after [Twitter decided to start charging for API access in February 2023](https://www.theverge.com/2023/2/2/23582615/twitter-removing-free-api-developer-apps-price-announcement)
+* [Fediverse bots on Botwiki](https://botwiki.org/bots/fediverse-bots/) - A list of fediverse bots grouped by category.
 
 ### Bots for self-hosting
 
