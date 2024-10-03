@@ -513,6 +513,7 @@ Comparison lists:
 ### Tools
 
 * [FakeRelay](https://github.com/g3rv4/FakeRelay) - tool for Mastodon admins to load statuses from other instances into their own instance
+* [FediCheck](https://connect.iftas.org/library/iftas-documentation/fedicheck/) - allows self-hosted and managed host Mastodon admins to routinely sync with a range of denylists to block bad actor servers.
 * [RelayList](https://relaylist.com) - A list of relays that can be added to a Mastodon, Misskey, or Pleroma server.
 
 ### Themes
